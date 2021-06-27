@@ -1,19 +1,18 @@
 <b>ORARI LIVE</b>
  
-<code>settimana dal 21 al 27</code>
+<code>settimana dal 28 al 4</code>
  
-<b>Lunedì,</b> 21.30: <i>KH:Dream Drop Distance</i>
+<b>Lunedì,</b> 17.00: Elden Ring: Analisi e Prospettive sul canale di <a href="https://www.twitch.tv/everyeyeit">Everyeye</a> + 18.00: <i>KH:Dream Drop Distance</i>
 
-<b>Martedì,</b> 21.00: <i>intervista nel canale di <a href="https://www.twitch.tv/gameindustry_it">GameIndustry</a></i> sull'E3 2021. A seguire <i>KH:Dream Drop Distance</i> 
+<b>Martedì,</b> 16.30: <a href="https://www.twitch.tv/oldgenproject">OldGen</a> 
 
-<b>Mercoledì,</b> 18.00 Scarlett Nexus + 21.45: <i>ospite da <a href="https://www.twitch.tv/dariomocciatwitch">Dario</a>, discussione su Evangelion</i>
+<b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 16.30 <i>Sekiro a sorpresa</i> 18.00: <i>Dark Souls II con Cydonia</i> + 21.00 <i>Demon's Souls con Yotobi</i>
+<b>Giovedì,</b> 18.00: <i>The Stanley Parable</i> oneshot riscattata
 
-<b>Venerdì,</b> 16:00-19:00 <a href="http://www.jointheindie.it">Jointheindie</a> "W gli Sviluppatori Italiani" - Conferenza + 21.30: <i>Dark Souls II con Cydonia</i>
+<b>Venerdì,</b> 21.30: <i>Dark Souls II con Cydonia</i>
 
-<b>Sabato,</b> 14.30: <i>The Binding of Isaac: Repentance</i> + 16:00~19:00 <a href="http://www.jointheindie.it">Jointheindie</a> "W gli Sviluppatori Italiani" - Conferenza
+<b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
 
-<b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i> + 17.00 si finisce la run di isaac e poi 18.00 <i>Jak and Daxter: The Precursor Legacy</i> oneshot riscattata
- 
+<b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i> + 17.00: <i>Dark Souls II con Cydonia</i>
  
