@@ -1,10 +1,10 @@
 <b>ORARI LIVE</b>
  
-<code>settimana dal 28 al 4</code>
+<code>settimana dal 5 al 11</code>
  
-<b>Lunedì,</b> 15.00: <i>Elden Ring: Analisi e Prospettive</i> sul canale di <a href="https://www.twitch.tv/everyeyeit">Everyeye</a> + 18.00: <i>KH:Dream Drop Distance</i>
+<b>Lunedì,</b> 18.00: <i>KH:Dream Drop Distance</i>
 
-<b>Martedì,</b> 16.30: <a href="https://www.twitch.tv/oldgenproject">OldGen</a> 
+<b>Martedì,</b> 18.00: <i>KH:Dream Drop Distance</i> 
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
