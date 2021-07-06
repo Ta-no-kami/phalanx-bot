@@ -10,7 +10,7 @@
 
 <b>Giovedì,</b> 18.00: <i>The Stanley Parable</i> oneshot riscattata
 
-<b>Venerdì,</b> 21.30: <i>Dark Souls II con Cydonia</i>
+<b>Venerdì,</b> 18.00 Talk show + 21.30: <i>Dark Souls II con Cydonia</i>
 
 <b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
 
