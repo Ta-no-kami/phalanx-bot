@@ -6,11 +6,11 @@
 
 <b>Martedì,</b> 18.00: <i>KH:Dream Drop Distance</i> 
 
-<b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
+<b>Mercoledì,</b> 18.30 State of Play 21.30: <i>Scarlet Nexus</i>
 
 <b>Giovedì,</b> 18.00: <i>The Stanley Parable</i> oneshot riscattata
 
-<b>Venerdì,</b> 18.00 Talk show + 21.30: <i>Dark Souls II con Cydonia</i>
+<b>Venerdì,</b> 17.30 Talk show + 21.30: <i>Dark Souls II con Cydonia</i>
 
 <b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
 
