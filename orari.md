@@ -6,9 +6,9 @@
 
 <b>Martedì,</b> 18.00: <i>KH:Dream Drop Distance</i> 
 
-<b>Mercoledì,</b> 18.30 State of Play 21.30: <i>Scarlet Nexus</i>
+<b>Mercoledì,</b> 18.30 Inaugurazione canale twitch playstation + 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: <i>The Stanley Parable</i> oneshot riscattata
+<b>Giovedì,</b> 18.00: <i>The Stanley Parable</i> oneshot riscattata 23.00 State of Play
 
 <b>Venerdì,</b> 17.30 Talk show + 21.30: <i>Dark Souls II con Cydonia</i>
 
