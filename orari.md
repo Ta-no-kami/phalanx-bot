@@ -6,7 +6,7 @@
 
 <b>Martedì,</b> 18.00: <i>KH:Dream Drop Distance</i> 
 
-<b>Mercoledì,</b> 18.30 <a href="https://www.twitch.tv/playstation_it">Inaugurazione canale twitch playstation</a>  + 21.30: <i>Scarlet Nexus</i>
+<b>Mercoledì,</b> 18.30 Ospite <a href="https://www.twitch.tv/playstation_it">Inaugurazione canale twitch playstation</a>  + 21.30: <i>Scarlet Nexus</i>
 
 <b>Giovedì,</b> 18.00: <i>The Stanley Parable</i> oneshot riscattata 23.00 State of Play
 
