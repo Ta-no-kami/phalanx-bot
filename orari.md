@@ -4,7 +4,7 @@
  
 <b>Lunedì,</b> 18.00: <i>KH:Dream Drop Distance</i>
 
-<b>Martedì,</b> 18.00: <i>KH:Dream Drop Distance</i> 
+<b>Martedì,</b> 16.30 Oldgen
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
