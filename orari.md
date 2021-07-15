@@ -10,7 +10,7 @@
 
 <b>Giovedì,</b> 18.00: <i>Fallout: New Vegas</i> oneshot riscattata
 
-<b>Venerdì,</b> 17.30 Talk show + 21.30: <i>Dark Souls II con Cydonia</i>
+<b>Venerdì,</b> ~16.00 live su [NDA] con Oldgen + 21.30: <i>Dark Souls II con Cydonia</i>
 
 <b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
 
