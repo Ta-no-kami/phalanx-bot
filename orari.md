@@ -1,16 +1,16 @@
 <b>ORARI LIVE</b>
  
-<code>settimana dal 12 al 18</code>
+<code>settimana dal 19 al 25</code>
  
 <b>Lunedì,</b> 18.00: <i>KH:Dream Drop Distance</i>
 
-<b>Martedì,</b> 16.30 Oldgen
+<b>Martedì,</b> 18.00 <i>KH:Dream Drop Distance</i>
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: <i>Fallout: New Vegas</i> oneshot riscattata
+<b>Giovedì,</b> 18.00: <i>Omori</i> oneshot riscattata
 
-<b>Venerdì,</b> ~16.00 live su [NDA] con Oldgen + 21.30: <i>Dark Souls II con Cydonia</i>
+<b>Venerdì,</b> 17.30 Talk Show + 21.30: <i>Dark Souls II con Cydonia</i>
 
 <b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
 
