@@ -8,7 +8,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: <i>Omori</i> oneshot riscattata
+<b>Giovedì,</b> 18.00: <i>Skyward Sword HD</i>
 
 <b>Venerdì,</b> 17.30 Talk Show + 21.30: <i>Dark Souls II con Cydonia</i>
 
