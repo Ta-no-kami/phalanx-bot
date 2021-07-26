@@ -12,7 +12,7 @@
 
 <b>Venerdì,</b> 21.30
 
-<b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i> + Dopo mezzanotte Psychonauts 2
+<b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
 
 <b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i>
 
