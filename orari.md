@@ -4,15 +4,15 @@
  
 <b>Lunedì,</b> 15.00: <i>KH:Dream Drop Distance</i>
 
-<b>Martedì,</b> 16.30: Oldgen (forse)
+<b>Martedì,</b> 16.30: Oldgen + 18.00: <i>NEO: TWEWY</i>
 
-<b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
+<b>Mercoledì,</b> 18.00: <i>Skyward Sword</i> + 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 21.30: <i>Dark Souls II con Cydonia</i>
+<b>Giovedì,</b> 21.30: <i>Dark Souls II con Cydonia</i> (forse nel pomeriggio Eldest Souls)
 
-<b>Venerdì,</b> 21.30
+<b>Venerdì,</b> 18.00: <i>NEO: TWEWY</i> + 21.30 <i>The Binding of Isaac: Repentance</i>
 
-<b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
+<b>Sabato,</b> 10.30: QUAKE II RTX + 18.00: <i>The Binding of Isaac: Repentance</i>
 
 <b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i>
 
