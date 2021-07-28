@@ -6,7 +6,7 @@
 
 <b>Martedì,</b> 16.30: Oldgen + 18.00: <i>NEO: TWEWY</i>
 
-<b>Mercoledì,</b> 18.00: <i>Skyward Sword</i> + 21.30: <i>Scarlet Nexus</i>
+<b>Mercoledì,</b> 17.30: <i>Skyward Sword</i> + 21.30: <i>Scarlet Nexus</i>
 
 <b>Giovedì,</b> 21.30: <i>Dark Souls II con Cydonia</i> (forse nel pomeriggio Eldest Souls)
 
