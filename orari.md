@@ -8,7 +8,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: <i>King Kong</i> Feller's Oneshot + ore 21.00 ospite da https://www.twitch.tv/hanabitemple (Evangelion) a seguire Isaac Notturna
+<b>Giovedì,</b> 18.00: <i>King Kong</i> Feller's Oneshot + ore 21.00 ospite da <a href="https://www.twitch.tv/">Hanabitemple</a>(Evangelion).  A seguire <i>Isaac Notturna</i>
 
 <b>Venerdì,</b> 21.30 <i>Dark souls 2 senza Cydonia</i>
 
