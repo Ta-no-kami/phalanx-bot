@@ -12,6 +12,6 @@
 
 <b>Venerdì,</b> 17.00 Vesper + 00.00 <i>Dark souls 2 senza Cydonia</i>
 
-<b>Sabato,</b>18.00: <i>The Binding of Isaac: Repentance</i>
+<b>Sabato,</b>16.00: <i>The Binding of Isaac: Repentance</i>
 
 <b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i>
