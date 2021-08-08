@@ -13,4 +13,5 @@
 <b>Venerdì,</b> TBD Evangelion watch party (serve il prime) + 21.30 <i>Dark souls 2 w/Cydonia</i>
 
 <b>Sabato,</b> 16.00: <i>The Binding of Isaac: Repentance</i> + 18.00 World of Worship[S]
+
 <b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i> + 17.00 <i>Dark souls 2 w/Cydonia</i> 17.00
