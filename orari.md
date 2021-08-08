@@ -8,7 +8,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: <i>Chair Simulator/i> Feller's Oneshot + ore 21.00 ospite da <a href="https://www.twitch.tv/">Hanabitemple</a>(Evangelion).  A seguire <i>Isaac Notturna</i>
+<b>Giovedì,</b> 18.00: <i>Chair Simulator/i> Feller's Oneshot
 
 <b>Venerdì,</b> TBD Evangelion watch party (serve il prime) + 21.30 <i>Dark souls 2 w/Cydonia</i>
 
