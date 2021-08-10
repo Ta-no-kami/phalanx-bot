@@ -10,7 +10,7 @@
 
 <b>Giovedì,</b> 18.00: <i>Chair Simulator</i> Feller's Oneshot + 21.30 <i>Dark souls 2 w/Cydonia</i>
 
-<b>Venerdì,</b> TBD Evangelion watch party (serve il prime) 
+<b>Venerdì,</b> 15.00 Evangelion watch party (serve il prime) 
 
 <b>Sabato,</b> 16.00: <i>The Binding of Isaac: Repentance</i> + 18.00 World of Worship[S]
 
