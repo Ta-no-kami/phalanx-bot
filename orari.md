@@ -8,7 +8,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Talk Show su Eva pre-rebuild</i>
 
-<b>Giovedì,</b> 18.00: <i>Chair Simulator</i> Feller's Oneshot + 21.30 <i>Dark souls 2 w/Cydonia</i>
+<b>Giovedì,</b>  21.30 <i>Dark souls 2 w/Cydonia</i>
 
 <b>Venerdì,</b> 15.00 Evangelion watch party (serve il prime) 
 
