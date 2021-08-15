@@ -1,16 +1,16 @@
 <b>ORARI LIVE</b>
  
-<code>settimana dal 9 al 15</code>
+<code>settimana dal 16 al 22</code>
  
 <b>Lunedì,</b> 18.00: <i>KH:Dream Drop Distance</i>
 
-<b>Martedì,</b> 16.30: <i><a href="https://www.twitch.tv/oldgenproject">OldGen</a></i> + dopo le 23.00 KH:DDD
+<b>Martedì,</b> 18.00: <i>KH:Dream Drop Distance</i>
 
-<b>Mercoledì,</b> 21.30: <i>Talk Show su Eva pre-rebuild</i>
+<b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b>  21.30 <i>Dark souls 2 w/Cydonia</i>
+<b>Giovedì,</b>  18.00 <i>Chair Simulator</i> Feller's Oneshot
 
-<b>Venerdì,</b> 15.00 Evangelion watch party (serve il prime) 
+<b>Venerdì,</b> 21.30 <i>Dark souls 2 w/Cydonia</i>
 
 <b>Sabato,</b> 16.00: <i>The Binding of Isaac: Repentance</i> + 18.00 World of Worship[S]
 
