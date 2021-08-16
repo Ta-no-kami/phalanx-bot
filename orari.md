@@ -2,9 +2,9 @@
  
 <code>settimana dal 16 al 22</code>
  
-<b>Lunedì,</b> 18.00: <i>KH:Dream Drop Distance</i>
+<b>Lunedì,</b> 18.00: <i>KH:X</i>
 
-<b>Martedì,</b> 18.00: <i>KH:Dream Drop Distance</i>
+<b>Martedì,</b> 18.00: <i>KH:X</i>
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
