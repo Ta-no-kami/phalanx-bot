@@ -14,4 +14,4 @@
 
 <b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i>
 
-<b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i> + 17.00 <i>Dark souls 2 w/Cydonia</i> 
+<b>Domenica,</b> 17.00 <i>Dark souls 2 w/Cydonia</i> 
