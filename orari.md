@@ -2,7 +2,7 @@
  
 <code>settimana dal 23 al 29</code>
  
-<b>Lunedì,</b> 18.00: <i>KH:X</i>
+<b>Lunedì,</b> 18.00: <i>KH:Back Cover</i>
 
 <b>Martedì,</b> Dalle 18.30: <b>Gamescom 2021</b>
 
