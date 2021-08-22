@@ -8,7 +8,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b>  18.00 <i>Knight's Quest</i> Feller's Oneshot a seguire <b>Gamescom 2021</b>
+<b>Giovedì,</b>  18.00 <i>Knight's Quest</i> Feller's Oneshot + 20.00 <b>Gamescom 2021</b>
 
 <b>Venerdì,</b> 21.30 <i>Dark souls 2 w/Cydonia</i>
 
