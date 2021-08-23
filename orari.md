@@ -6,9 +6,9 @@
 
 <b>Martedì,</b> 18.30: <b>XBOX Showcase</b>
 
-<b>Mercoledì,</b> 19.30: <b>Gamescom 2021 opening night</b>
+<b>Mercoledì,</b> 19.30: <b>Gamescom 2021</b> <i>Opening Night<i>
 
-<b>Giovedì,</b>  18.30: <i>Knight's Quest</i> Feller's Oneshot + 20.00: <b>Gamescom 2021</b>
+<b>Giovedì,</b>  18.30: <i>Knight's Quest</i> Feller's Oneshot + 20.00: <b>Gamescom 2021</b> <i>Awesome Indies Showcase + Future Games Show</i>
 
 <b>Venerdì,</b> 21.30: <i>Dark souls 2 w/Cydonia</i>
 
