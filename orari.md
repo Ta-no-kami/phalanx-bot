@@ -4,7 +4,7 @@
  
 <b>Lunedì,</b> 18.00: <i>KH:Back Cover</i>
 
-<b>Martedì,</b> Dalle 18.30: <b>XBOX Showcase</b>
+<b>Martedì,</b> 18.30: <b>XBOX Showcase</b>
 
 <b>Mercoledì,</b> 19.30: <b>Gamescom 2021 opening night</b>
 
