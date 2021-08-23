@@ -4,9 +4,9 @@
  
 <b>Lunedì,</b> 18.00: <i>KH:Back Cover</i>
 
-<b>Martedì,</b> Dalle 18.30: <b>Gamescom 2021</b>
+<b>Martedì,</b> Dalle 18.30: <b>XBOX Showcase</b>
 
-<b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
+<b>Mercoledì,</b> 19.30: <b>Gamescom 2021 opening night</b>
 
 <b>Giovedì,</b>  18.30: <i>Knight's Quest</i> Feller's Oneshot + 20.00: <b>Gamescom 2021</b>
 
