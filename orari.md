@@ -5,7 +5,7 @@
  
 <b>Lunedì,</b> 18.00: <i>KH:0.2</i>
 
-<b>Martedì,</b> 16.00 Commenti su Elden Ring w/Fossetti a seguire <i>KH:0.2</i> + 22.00 <i>Dark souls 2 <b>senza</b> Cydonia</i> (preparativi per il finale)
+<b>Martedì,</b> 16.00: Commenti su Elden Ring w/Fossetti a seguire <i>KH:0.2</i> + 22.00 <i>Dark souls 2 <b>senza</b> Cydonia</i> (preparativi per il finale)
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
