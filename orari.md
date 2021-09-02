@@ -9,7 +9,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 21.30: <i>Dark souls 2 w/Cydonia</i> 
+<b>Giovedì,</b> 21.00: <i>Dark souls 2 w/Cydonia</i> 
 
 <b>Venerdì,</b> -
 
