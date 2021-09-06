@@ -5,7 +5,7 @@
  
 <b>Lunedì,</b> 18.00: <i>KH:0.2</i>
 
-<b>Martedì,</b> 16.00: Commenti su Elden Ring w/Fossetti a seguire <i>KH:0.2</i> +21.30: <i>Dark souls 2 w/Cydonia</i> 
+<b>Martedì,</b> 21.30: <i>Dark souls 2 w/Cydonia</i> 
 
 <b>Mercoledì,</b> -
 
