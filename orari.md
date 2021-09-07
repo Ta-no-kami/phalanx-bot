@@ -9,7 +9,7 @@
 
 <b>Mercoledì,</b> -
 
-<b>Giovedì,</b> - 
+<b>Giovedì,</b> 22.00: Playstation Showcase
 
 <b>Venerdì,</b> -
 
