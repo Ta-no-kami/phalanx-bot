@@ -11,7 +11,7 @@
 
 <b>Giovedì,</b> 22.00: Playstation Showcase
 
-<b>Venerdì,</b> 21.30: <i>Tales of Arise</i> oneshot
+<b>Venerdì,</b> 23.30: <i>Tales of Arise</i> oneshot
 
 <b>Sabato,</b> 17.20: <i>Dark souls 3 w/Cydonia</i> 
 
