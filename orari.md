@@ -1,18 +1,20 @@
 
 <b>ORARI LIVE</b>
  
-<code>settimana dal 6 al 12</code>
+<code>settimana dal 13 al 19</code>
  
-<b>Lunedì,</b> 18.00: <i>KH:0.2</i>
+<b>Lunedì,</b> 17.00: <i>KH:0.2</i>
 
-<b>Martedì,</b> 16.30: <a href="https://www.twitch.tv/oldgenproject">OldGen</a>  + 21.30: <i>Dark souls 3 w/Cydonia</i> 
+<b>Martedì,</b> 18.00 <i>KH3</i>
 
-<b>Mercoledì,</b> -
+<b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 22.00: Playstation Showcase
+<b>Giovedì,</b> 18.00: <i>ClusterTruck</i> Feller's Oneshot
 
-<b>Venerdì,</b> 23.30: <i>Tales of Arise</i> oneshot
+<b>Venerdì,</b> 21.30 <i>Dark souls 3 w/Cydonia</i>
 
-<b>Sabato,</b> 17.20: <i>Dark souls 3 w/Cydonia</i> 
+<b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i> 
+ 
+<b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i>  + 17.00 <i>Dark souls 3 w/Cydonia</i>
 
-<b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i> 
+<code>Venerdì, Sabato e Domenica potrebbero esserci delle variazioni causa lavori</code>
