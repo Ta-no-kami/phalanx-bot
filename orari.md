@@ -3,7 +3,7 @@
  
 <code>settimana dal 13 al 19</code>
  
-<b>Lunedì,</b> 17.00: <i>KH:0.2</i>
+<b>Lunedì,</b> 18.00: <i>KH:0.2</i>
 
 <b>Martedì,</b> 18.00 <i>KH3</i>
 
