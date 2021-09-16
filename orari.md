@@ -9,7 +9,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: <i>Tales of Arise</i> Oneshot
+<b>Giovedì,</b> 18.00: -
 
 <b>Venerdì,</b> 21.30 <i>Dark souls 3 w/Cydonia</i>
 
