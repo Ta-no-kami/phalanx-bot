@@ -9,7 +9,7 @@
 
 <b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: (forse) Vlustertruck Feller's Oneshot
+<b>Giovedì,</b> 18.00: (forse) Clustertruck Feller's Oneshot
 
 <b>Venerdì,</b> 21.30 <i>Dark souls 3 w/Cydonia</i>
 
