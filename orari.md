@@ -9,7 +9,7 @@
 
 <b>Mercoledì,</b> 18.00: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: Deltarune (si riparte da pt1 causa save perso) </a> 
+<b>Giovedì,</b> 18.00: Deltarune (si riparte da pt1 causa save perso)</a> 
 
 
 <b>Venerdì,</b> 21.30 <i>Dark souls 3 w/Cydonia</i>
