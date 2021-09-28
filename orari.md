@@ -1,17 +1,13 @@
-<b>ORARI LIVE</b>
+<b>ORARI DELLE LIVE</b>
+
+<code>Settimana 39, dal 27 settembre al 3 ottobre</code>
  
-<code>settimana dal 27/09 al 03/10</code>
- 
-<b>Lunedì,</b> 18.00: <i>KH3</i>
-
-<b>Martedì,</b> 18.00 <i>KH3</i>
-
-<b>Mercoledì,</b> 18.00: <i>Scarlet Nexus</i>
-
-<b>Giovedì,</b> 18.00: Deltarune (si riparte da pt1 causa save perso)
-
-<b>Venerdì,</b> 21.30 <i>Dark souls 3 w/Cydonia</i>
-
-<b>Sabato,</b> 18.00: <i>The Binding of Isaac: Repentance</i> 
- 
-<b>Domenica,</b> 10.30: <i>The Binding of Isaac: Repentance</i> + 17.00 <i>Dark souls 3 w/Cydonia</i>
+| Giorno | Orario | Titolo | Orario | Titolo |
+| :----- | :----: | :----- | :----: | :------|
+| Lunedì| 18:00 | Kingdom Hearts III | | |
+| Martedì | 18:00 | Kingdom Hearts III | | |
+| Mercoledì | 00:00 | The Binding of Isaac: Repentance | 18:00 | Scarlet Nexus |
+| Giovedì | 18:00 | Deltarune <i>(si riparte da pt1)</i> | | |
+| Venerdì | 21:30 | Dark Souls III w/Cydonia | | |
+| Sabato | 18:00 | The Binding of Isaac: Repentance | | |
+| Domenica | 10:30 | The Binding of Isaac: Repentance | 17:00 | Dark Souls III w/Cydonia |
