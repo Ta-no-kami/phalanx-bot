@@ -9,18 +9,18 @@
 → 18:00 Kingdom Hearts III
 
 <b>Mercoledì</b>
-→ 00:00 The Binding of Isaac: Repentance: Repentance
+→ 00:00 The Binding of Isaac: Repentance
 → 18:00 Scarlet Nexus
 
 <b>Giovedì</b>
-→ 18:00 Deltarune <i>(si riparte da capitolo 1)</i>
+→ 18:00 Deltarune <i>(si riparte dal capitolo 1)</i>
 
 <b>Venerdì</b>
 → 21:30 Dark Souls III w/Cydonia
 
 <b>Sabato</b>
-→ 18:00 The Binding of Isaac: Repentance: Repentance
+→ 18:00 The Binding of Isaac: Repentance
 
 <b>Domenica</b> 
-→ 10:30 The Binding of Isaac: Repentance: Repentance
+→ 10:30 The Binding of Isaac: Repentance
 → 17:00 Dark Souls III w/Cydonia
