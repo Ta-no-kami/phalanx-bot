@@ -1,4 +1,3 @@
-
 <b>ORARI LIVE</b>
  
 <code>settimana dal 27/09 al 03/10</code>
