@@ -1,15 +1,15 @@
 
 <b>ORARI LIVE</b>
  
-<code>settimana dal 20 al 26</code>
+<code>settimana dal 27 al 3 </code>
  
 <b>Lunedì,</b> 18.00: <i>KH3</i>
 
-<b>Martedì,</b> 16.30 <i>Oldgen</i> + ~23.00 <i>KH3</i>
+<b>Martedì,</b> 18.00 <i> KH3</i>
 
-<b>Mercoledì,</b> 21.30: <i>Scarlet Nexus</i>
+<b>Mercoledì,</b> 18.00: <i>Scarlet Nexus</i>
 
-<b>Giovedì,</b> 18.00: Deltarune (si riparte da pt1 causa save perso) + 21:00 <a href="https://www.twitch.tv/playstation_it">PREVIEW Death Stranding: Director's Cut con Sabaku e Fortu</a> + 00.00  <a href="https://www.youtube.com/watch?v=WiD_9hUlgpY">Nintendo Direct</a> 
+<b>Giovedì,</b> 18.00: Deltarune (si riparte da pt1 causa save perso) </a> 
 
 
 <b>Venerdì,</b> 21.30 <i>Dark souls 3 w/Cydonia</i>
