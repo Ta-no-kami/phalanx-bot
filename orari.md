@@ -15,13 +15,15 @@
 
 <b>Giovedì</b>
 → 18:00 Deltarune <i>(si riparte dal capitolo 1)</i>
+→ 21:30 Dark Souls III EXTRA w/out Cydonia
 
 <b>Venerdì</b>
-→ 21:30 Dark Souls III w/Cydonia
+→ 21:30 Dark Souls III w/ Cydonia
 
 <b>Sabato</b>
-→ 18:00 The Binding of Isaac: Repentance
+→ 18:00 Aliens: Fireteam Elite Co-Op w/ Phenrir
+→ ??:?? The Binding of Isaac: Repentance
 
 <b>Domenica</b> 
-→ 10:30 The Binding of Isaac: Repentance
-→ 17:00 Dark Souls III w/Cydonia
+→ 10:30 Tales of Arise <i>(parte 2)</i>
+→ 17:00 Dark Souls III w/ Cydonia
