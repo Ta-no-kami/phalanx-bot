@@ -11,9 +11,9 @@
 <b>Mercoledì</b>
 → 00:00 The Binding of Isaac: Repentance
 → 18:00 Scarlet Nexus
+→ 23:50 The Binding of Isaac: Repentance
 
 <b>Giovedì</b>
-→ ??:?? The Binding of Isaac: Repentance
 → 18:00 Deltarune <i>(si riparte dal capitolo 1)</i>
 
 <b>Venerdì</b>
