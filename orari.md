@@ -2,7 +2,7 @@
 
 <b>Giovedì 30 settembre</b>
 → 18:00 Deltarune <i>(si riparte dal capitolo 1)</i>
-→ 21:30 Dark Souls III EXTRA <code>w/out Cydonia</code>
+→ 23:00 Dark Souls III EXTRA <code>w/out Cydonia</code>
 
 <b>Venerdì 1 ottobre</b>
 → 21:30 Dark Souls III w/ Cydonia
