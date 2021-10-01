@@ -22,7 +22,7 @@
 → 18:00 Kingdom Hearts III
 
 <b>Mercoledì 6 ottobre</b>
-→ 18:00 Scarlet Nexus
+→ 21:30 Scarlet Nexus
 
 <b>Giovedì 7 ottobre</b>
 → 18:00 Deltarune <i>(capitolo 1)</i>
