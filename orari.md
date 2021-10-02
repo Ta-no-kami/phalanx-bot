@@ -1,17 +1,10 @@
 <u><b>ORARI DELLE LIVE</b></u>
 
-<b>Giovedì 30 settembre</b>
-→ 18:00 Deltarune <i>(si riparte dal capitolo 1)</i>
-→ 23:00 Dark Souls III EXTRA <code>w/out Cydonia</code>
-
-<b>Venerdì 1 ottobre</b>
-→ 21:30 Dark Souls III w/ Cydonia
-
 <b>Sabato 2 ottobre</b>
 → 18:00 Aliens: Fireteam Elite Co-Op <code>w/Phenrir</code>
-→ ??:?? The Binding of Isaac: Repentance
 
-<b>Domenica 3 ottobre</b> 
+<b>Domenica 3 ottobre</b>
+→ ??:?? The Binding of Isaac: Repentance
 → 10:30 Tales of Arise <i>(parte 2)</i>
 → 17:00 Dark Souls III <code>w/Cydonia</code>
 
