@@ -1,7 +1,7 @@
 <u><b>ORARI DELLE LIVE</b></u>
 
 <b>Sabato 2 ottobre</b>
-→ 18:00 Aliens: Fireteam Elite Co-Op <code>w/Phenrir</code> #[S]abato
+→ 18:00 Aliens: Fireteam Elite Co-Op <code>w/Phenrir</code> #SabatoSponsor
 
 <b>Domenica 3 ottobre</b>
 → ??:?? The Binding of Isaac: Repentance
