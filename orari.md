@@ -8,7 +8,8 @@
 → 10:30 Tales of Arise <i>(parte 2)</i>
 → 17:00 Dark Souls III <code>w/Cydonia</code>
 
-<b>Lunedì 4 ottobre</b> 
+<b>Lunedì 4 ottobre</b>
+→ 18:00 Kingdom Hearts III
 → 21:30 DirettAnteprima ???
 
 <b>Martedì 5 ottobre</b> 
@@ -25,4 +26,4 @@
 → 21:30 Dark Souls III <code>w/Cydonia</code>
 
 <b>Sabato 9 ottobre</b>
-→ 18:00 <b>-TALK SHOW-</b> Sutoriimaa 2.0
+→ 18.00 <b>-TALK SHOW-</b> Sutoriimaa 2.0
