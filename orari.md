@@ -10,7 +10,7 @@
 → 21:30 DirettAnteprima ???
 
 <b>Martedì 5 ottobre</b> 
-→ 18:00 Old Gen <code>oldgenproject</code>
+→ 18:00 Kingdom Hearts III
 
 <b>Mercoledì 6 ottobre</b>
 → 21:30 Scarlet Nexus
