@@ -1,12 +1,9 @@
 <u><b>ORARI DELLE LIVE</b></u>
 
-<b>Sabato 2 ottobre</b>
-→ 18:00 Aliens: Fireteam Elite Co-Op <code>w/Phenrir</code> #SabatoSponsor
-
 <b>Domenica 3 ottobre</b>
 → 00:30 The Binding of Isaac: Repentance
 → 10:30 Tales of Arise <i>(parte 2)</i>
-→ 17:00 Dark Souls III <code>w/Cydonia</code>
+→ 17:30 Dark Souls III <code>w/Cydonia</code>
 
 <b>Lunedì 4 ottobre</b>
 → 18:00 Kingdom Hearts III
