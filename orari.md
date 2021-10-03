@@ -10,7 +10,7 @@
 → 21:30 DirettAnteprima ???
 
 <b>Martedì 5 ottobre</b> 
-→ 16:30 Old Gen <code>w/oldgenproject</code>
+→ 16:30 Old Gen
 
 <b>Mercoledì 6 ottobre</b>
 → 21:30 Scarlet Nexus
