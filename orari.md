@@ -10,7 +10,7 @@
 → 21:30 DirettAnteprima ???
 
 <b>Martedì 5 ottobre</b> 
-→ 18:00 Kingdom Hearts III
+→ 18:00 Old Gen <code>twitch.tv/oldgenproject</code>
 
 <b>Mercoledì 6 ottobre</b>
 → 21:30 Scarlet Nexus
@@ -20,7 +20,7 @@
 → 21:30 Dragon Age: Inquisition #GeForceNOW #adv
 
 <b>Venerdì 8 ottobre</b>
-→ 21:30 Dark Souls III <code>w/Cydonia</code>
+→ 21:30 Dark Souls III cw/Cydonia</code>
 
 <b>Sabato 9 ottobre</b>
 → 18.00 <b>-TALK SHOW-</b> Sutoriimaa 2.0
