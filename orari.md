@@ -7,7 +7,7 @@
 
 <b>Lunedì 4 ottobre</b>
 → 18:00 Kingdom Hearts III
-→ 21:30 DirettAnteprima ???
+→ 22:30 DirettAnteprima (っ˘ڡ˘ς)
 
 <b>Martedì 5 ottobre</b> 
 → 16:30 Old Gen <code>w/oldgenproject</code>
