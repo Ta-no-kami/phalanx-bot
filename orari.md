@@ -4,7 +4,7 @@
 <b>Martedì 5 ottobre</b> 
 → 16:00 Nintendo Direct
 → 16:30 Old Gen <code>w/oldgenproject</code>
-→ 21:30 DirettAnteprima: Metroid Dread su Nintendo Switch OLED
+→ 22:00 DirettAnteprima: Metroid Dread su Nintendo Switch OLED
 
 <b>Mercoledì 6 ottobre</b>
 → 21:30 Scarlet Nexus
