@@ -1,2 +1,2 @@
 <i>Welcome back!</i>
-<i>Fellow Undead }°{</i>
+<i>Fellow Undead</i>
