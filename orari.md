@@ -1,14 +1,6 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <i>gli orari sono indicativi e potrebbero subire variazioni</i>
 
-<b>Martedì 5 ottobre</b> 
-→ 16:00 Nintendo Direct
-→ 16:30 Old Gen <code>w/oldgenproject</code>
-→ 22:00 DirettAnteprima: Metroid Dread su Nintendo Switch OLED
-
-<b>Mercoledì 6 ottobre</b>
-→ 21:30 Scarlet Nexus
-
 <b>Giovedì 7 ottobre</b>
 → 18:00 Deltarune <i>(capitolo 1)</i>
 → 21:30 Dragon Age: Inquisition #GeForceNOW #adv
@@ -25,3 +17,9 @@
 
 <b>Lunedì 11 ottobre</b>
 → 18:00 Kingdom Hearts III
+
+<b>Martedì 12 ottobre</b>
+→ 18:00 Kingdom Hearts III
+
+<b>Mercoledì 13 ottobre</b>
+→ 21:30 Metroid Dread
