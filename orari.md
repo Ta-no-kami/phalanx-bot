@@ -3,7 +3,7 @@
 
 <b>Giovedì 7 ottobre</b>
 → 18:00 Deltarune <i>(capitolo 1)</i>
-→ 21:30 Dragon Age: Inquisition #GeForceNOW #adv
+→ 22:30 Dragon Age: Inquisition #GeForceNOW #adv
 
 <b>Venerdì 8 ottobre</b>
 → 21:30 Dark Souls III <code>w/Cydonia</code>
