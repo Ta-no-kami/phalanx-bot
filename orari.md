@@ -1,10 +1,6 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <i>gli orari sono indicativi e potrebbero subire variazioni</i>
 
-<b>Giovedì 7 ottobre</b>
-→ 18:00 Deltarune <i>(capitolo 1)</i>
-→ 22:30 Dragon Age: Inquisition #GeForceNOW #adv
-
 <b>Venerdì 8 ottobre</b>
 → 21:30 Dark Souls III <code>w/Cydonia</code>
 
@@ -23,3 +19,6 @@
 
 <b>Mercoledì 13 ottobre</b>
 → 21:30 Metroid Dread
+
+<b>Giovedì 14 ottobre</b>
+→ 18:00 Deltarune <i>(capitolo 1)</i>
