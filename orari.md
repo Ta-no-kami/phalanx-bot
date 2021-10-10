@@ -3,7 +3,7 @@
 
 <b>Domenica 10 ottobre</b>
 → 10:30 The Binding of Isaac: Repentance
-→ 17:00 Dark Souls III <code>w/Cydonia</code>
+→ 17:30 Dark Souls III <code>feat. Cydonia</code>
 
 <b>Lunedì 11 ottobre</b>
 → 18:00 Kingdom Hearts III
@@ -18,7 +18,7 @@
 → 18:00 Deltarune <i>(capitolo 1)</i>
 
 <b>Venerdì 15 ottobre</b>
-→ 21:30 Dark Souls III <code>w/Cydonia</code>
+→ 21:30 Dark Souls III <code>feat. Cydonia</code>
 
 <b>Sabato 16 ottobre</b>
 → 18:00 The Binding of Isaac: Repentance
