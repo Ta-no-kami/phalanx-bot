@@ -3,10 +3,10 @@
 
 <b>Lunedì 11 ottobre</b>
 → 18:00 Kingdom Hearts III
-→ 22:30 Dark Souls III Veteran EXTRA
 
 <b>Martedì 12 ottobre</b>
 → 18:00 Kingdom Hearts III
+→ 22:30 Dark Souls III Veteran EXTRA
 
 <b>Mercoledì 13 ottobre</b>
 → 21:30 Metroid Dread, Blind Run
