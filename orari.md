@@ -6,7 +6,6 @@
 
 <b>Martedì</b>
 → 16:30 <a href="https://www.twitch.tv/oldgenproject">Oldgen</a>
-→ 18:00 Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
 
 <b>Mercoledì</b>
 → 21:30 Metroid Dread (Blind Run)
