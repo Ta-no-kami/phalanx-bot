@@ -6,7 +6,7 @@
 
 <b>Martedì</b>
 → 16:30 Old Gen <code>t. oldgenproject</code>
-<s>→ 18:00 Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)</s>
+→ 18:00 Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
 
 <b>Mercoledì</b>
 → 21:30 Metroid Dread <i>(Blind Run)</i>
