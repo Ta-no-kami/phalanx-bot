@@ -5,7 +5,7 @@
 → 18:00 Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
 
 <b>Martedì</b>
-→ 16:30 Old Gen <code>t. oldgenproject</code>
+→ 16:30 <a href="https://www.twitch.tv/oldgenproject>Oldgen</a>
 → 18:00 Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
 
 <b>Mercoledì</b>
