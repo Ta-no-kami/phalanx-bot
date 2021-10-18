@@ -12,7 +12,7 @@
 → 21:30 Metroid Dread <i>(Blind Run)
 
 <b>Giovedì</b>
-→ 17:00 Spirito della Riscoperta LIVE: Deltarune(capitolo 1)</code>
+→ 17:00 Spirito della Riscoperta LIVE: Deltarune(capitolo 1)
 
 <b>Venerdì</b>
 → 21:30 Run Veterana: Dark Souls III <code>feat. Cydonia</code>
