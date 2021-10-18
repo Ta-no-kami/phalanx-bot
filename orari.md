@@ -9,7 +9,7 @@
 → 18:00 Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
 
 <b>Mercoledì</b>
-→ 21:30 Metroid Dread <i>(Blind Run)
+→ 21:30 Metroid Dread (Blind Run)
 
 <b>Giovedì</b>
 → 17:00 Spirito della Riscoperta LIVE: Deltarune(capitolo 1)
