@@ -1,24 +1,24 @@
 <b><u>ORARI DELLE LIVE</u></b>
-<i>gli orari sono indicativi e potrebbero subire variazioni</i>
 
-<b>Lunedì</b>
-→ 18:00 Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
+<i>Lunedì</i>
+<b>→ 18:00</b> Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
 
-<b>Martedì</b>
-→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Oldgen</a>
+<i>Martedì</i>
+<b>→ 16:30</b> <a href="https://www.twitch.tv/oldgenproject">Oldgen</a>
+<b>→ 21:30</b> Kingdom Hearts Saga: Kingdom Hearts III (Blind Run)
 
-<b>Mercoledì</b>
-→ 21:30 Metroid Dread (Blind Run)
+<i>Mercoledì</i>
+<b>→ 21:30</b> Metroid Dread (Blind Run)
 
-<b>Giovedì</b>
-→ 17:00 Spirito della Riscoperta LIVE: Deltarune(capitolo 1)
+<i>Giovedì</i>
+<b>→ 17:00</b> Spirito della Riscoperta LIVE: Deltarune(capitolo 1)
 
-<b>Venerdì</b>
-→ 21:30 Run Veterana: Dark Souls III <code>feat. Cydonia</code>
+<i>Venerdì</i>
+<b>→ 21:30</b> Run Veterana: Dark Souls III <code>feat. Cydonia</code>
 
-<b>Sabato</b>
-→ 18:00 Spirito dell'Arcade LIVE: The Binding of Isaac: Repentance
+<i>Sabato</i>
+<b>→ 18:00</b> Spirito dell'Arcade LIVE: The Binding of Isaac: Repentance
 
-<b>Domenica</b>
-→ 10:30 Spirito dell'Arcade LIVE: The Binding of Isaac: Repentance
-→ 21:30 Run Veterana: Dark Souls III <code>feat. Cydonia</code>
+<i>Domenica</i>
+<b>→ 10:30</b> Spirito dell'Arcade LIVE: The Binding of Isaac: Repentance
+<b>→ 21:30</b> Run Veterana: Dark Souls III <code>feat. Cydonia</code>
