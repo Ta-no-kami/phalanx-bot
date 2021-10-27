@@ -12,7 +12,7 @@
 <b>→ 23:00</b> <b>PlayStation: State of Play</b>
 
 <i>Giovedì 28 ottobre</i>
-<b>→ 18:00</b> <b>Deltarune (capitolo 2)</b> <code>(Blind Run)</code>
+<b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
 
 <i>Venerdì 29 ottobre</i>
 <b>→ 00:00</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
@@ -20,7 +20,7 @@
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 30 ottobre</i>
-<b>→ 18:00</b> <b>Deltarune (capitolo 2)</b><code>(Blind Run)</code>
+<b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
 
 <i>Domenica 31 ottobre</i>
 <b>→ 10:30</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
