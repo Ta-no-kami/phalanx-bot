@@ -13,6 +13,7 @@
 
 <i>Giovedì 28 ottobre</i>
 <b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
+<b>→ 23:59</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
 <i>Venerdì 29 ottobre</i>
 <b>→ 00:00</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
