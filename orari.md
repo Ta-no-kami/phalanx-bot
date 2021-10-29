@@ -16,7 +16,6 @@
 <b>→ 23:59</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
 <i>Venerdì 29 ottobre</i>
-<b>→ 00:00</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 <b>→ 17:00</b> <b>Just Chatting</b>
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
