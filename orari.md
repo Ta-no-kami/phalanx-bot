@@ -4,17 +4,19 @@
 <b>→ 18:00</b> <b>Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Martedì 2 novembre</i>
-<b>→ 18:00</b> <b>Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 16:30</b> <a href="https://www.twitch.tv/oldgenproject"><b>OldGen</b></a>
+<b>→ 21:30</b> <b>Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Mercoledì 3 novembre</i>
 <b>→ 21:30</b> <b>Metroid Dread</b> <code>(Blind Run)</code>
 
 <i>Giovedì 4 novembre</i>
-<b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
+<b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
+<b>→ 22:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Venerdì 5 novembre</i>
 <b>→ 17:00</b> <b>Just Chatting</b>
-<b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(EXTRA)</code>
 
 <i>Sabato 6 novembre</i>
 <b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
