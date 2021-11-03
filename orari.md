@@ -9,14 +9,17 @@
 
 <i>Mercoledì 3 novembre</i>
 <b>→ 21:30</b> <b>Metroid Dread</b> <code>(Blind Run)</code>
+<b>→ 23:59</b> <b>Gran Turismo</b> <code>(Speciale)</code>
 
 <i>Giovedì 4 novembre</i>
-<b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
-<b>→ 22:00</b> <b>Dark Souls III</b>, Run Veterana <code>(EXTRA, parte 2)</code>
+<b>→ 15:00</b> <b>Elden Ring</b>, reaction e analisi di 15 minuti di gameplay
+<s><b>→ 17:00</b> <b>Deltarune, capitolo 2</b> (Blind Run)</s>
+<b>→ 17:00</b> <b>Dark Souls III</b>, Run Veterana <code>(EXTRA, parte 2)</code>
+<b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Venerdì 5 novembre</i>
 <b>→ 17:00</b> <b>Just Chatting</b>
-<b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<s><b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
 
 <i>Sabato 6 novembre</i>
 <b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
