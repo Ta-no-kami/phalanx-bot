@@ -9,7 +9,7 @@
 
 <i>Mercoledì 3 novembre</i>
 <b>→ 21:30</b> <b>Metroid Dread</b> <code>(Blind Run)</code>
-<b>→ 23:59</b> <b>Gran Turismo</b> <code>(Speciale)</code>
+<b>→ 23:59</b> <b>Gran Turismo</b> #SonyPlayStation #adv</code>
 
 <i>Giovedì 4 novembre</i>
 <b>→ 15:00</b> <b>Elden Ring</b>, reaction e analisi di 15 minuti di gameplay
