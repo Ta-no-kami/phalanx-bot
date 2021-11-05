@@ -18,7 +18,7 @@
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Venerdì 5 novembre</i>
-<b>→ 17:00</b> <b>Just Chatting</b>
+<s><b>→ 17:00</b> <b>Just Chatting</b></s>
 <s><b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
 
 <i>Sabato 6 novembre</i>
