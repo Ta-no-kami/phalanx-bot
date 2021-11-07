@@ -25,5 +25,5 @@
 <b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
 
 <i>Domenica 7 novembre</i>
-<b>→ 10:30</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
+<s><b>→ 10:30</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
 <b>→ 17:00</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
