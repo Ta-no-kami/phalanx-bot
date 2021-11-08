@@ -9,8 +9,9 @@
 
 <i>Mercoledì 10 novembre</i>
 <b>→ 21:30</b> <b>Metroid Dread</b> <code>(Blind Run)</code>
+
 <i>Giovedì 11 novembre</i>
-<b>→ 17:00</b> <b>Deltarune, capitolo 2</b> (Blind Run)
+<b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
 
 <i>Venerdì 12 novembre</i>
 <b>→ 17:00</b> <b>Just Chatting</b>
