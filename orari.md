@@ -17,17 +17,17 @@
 <b>→ 22:00</b> <b>...</b> #GeForceNOW #adv
 
 <i>Venerdì 12 novembre</i>
-<b>→ 12:00</b> <b>Elden Ring, Closed Network Test</b>  (1 di 5)
+<b>→ 12:00</b> <b>Elden Ring</b>, Closed Network Test, 1 di 5
 <b>→ 17:00</b> <b>Just Chatting</b>
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 13 novembre</i>
-<b>→ 04:00</b> <b>Elden Ring, Closed Network Test</b>  (2 di 5)
+<b>→ 04:00</b> <b>Elden Ring</b>, Closed Network Test, 2 di 5
 <b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
-<b>→ 20:00</b> <b>Elden Ring, Closed Network Test</b> (3 di 5) <code>(feat. Cydonia, Fossa)</code>
+<b>→ 20:00</b> <b>Elden Ring</b>, Closed Network Test, 3 di 5 <code>(feat. Cydonia, Fossa)</code>
 
 <i>Domenica 14 novembre</i>
 <b>→ 10:30</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
+<b>→ 12:00</b> <b>Elden Ring</b>, Closed Network Test, 4 di 5
 <s><b>→ 17:00</b> <b>Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
-<b>→ 12:00</b> <b>Elden Ring, Closed Network Test</b>  (4 di 5)
-<b>→ +04:00</b> <b>Elden Ring, Closed Network Test</b>  (5 di 5)
+<b>→ +04:00</b> <b>Elden Ring</b>, Closed Network Test, 5 di 5
