@@ -8,12 +8,12 @@
 <b>→ 18:00</b> <b>Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Mercoledì 10 novembre</i>
-<b>→ 16:30</b> <b>Maratona</b> <code>(Segreta)</code>
+<b>→ 16:30</b> <b>Maratona Elden Ring!</b>
 <b>→ 21:00</b> <a href="https://www.twitch.tv/playstation_it"><b>PlayStation_IT</b></a>
 <s><b>→ 21:30</b> <b>Metroid Dread</b> (Blind Run)</s>
 
 <i>Giovedì 11 novembre</i>
-<b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
+<b>→ 17:30</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
 <b>→ 22:00</b> <b>...</b> #GeForceNOW #adv
 
 <i>Venerdì 12 novembre</i>
