@@ -18,6 +18,7 @@
 
 <i>Venerdì 12 novembre</i>
 <b>→ 12:00</b> <b>Elden Ring</b>, Closed Network Test, 1 di 5
+<b>→ 15:00</b> <a href="https://www.twitch.tv/multiplayerit"><b>Multiplayerit</b></a>
 <s><b>→ 17:00</b> <b>Just Chatting</b></s>
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
