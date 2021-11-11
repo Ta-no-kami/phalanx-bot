@@ -14,11 +14,11 @@
 
 <i>Giovedì 11 novembre</i>
 <b>→ 17:30</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
-<b>→ 22:00</b> <b>...</b> #GeForceNOW #adv
+<b>→ 22:00</b> <b>Thief: The Dark Project</b> #GeForceNOW #adv
 
 <i>Venerdì 12 novembre</i>
 <b>→ 12:00</b> <b>Elden Ring</b>, Closed Network Test, 1 di 5
-<b>→ 17:00</b> <b>Just Chatting</b>
+<b>→ 17:00</b> <s><b>Just Chatting</b></s>
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 13 novembre</i>
