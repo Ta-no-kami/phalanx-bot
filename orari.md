@@ -18,7 +18,7 @@
 
 <i>Venerdì 12 novembre</i>
 <b>→ 12:00</b> <b>Elden Ring</b>, Closed Network Test, 1 di 5
-<b>→ 17:00</b> <s><b>Just Chatting</b></s>
+<s><b>→ 17:00</b> <b>Just Chatting</b></s>
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 13 novembre</i>
