@@ -31,4 +31,4 @@
 <b>→ 10:30</b> <b>The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 <b>→ 12:00</b> <b>Elden Ring</b>, Closed Network Test, 4 di 5
 <s><b>→ 17:00</b> <b>Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
-<b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
+<b>→ 18:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
