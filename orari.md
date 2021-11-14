@@ -24,7 +24,7 @@
 
 <i>Sabato 13 novembre</i>
 <b>→ 04:00</b> <b>Elden Ring</b>, Closed Network Test, 2 di 5
-<s><b>→ 17:00</b> <b>Deltarune, capitolo 2</b> (Blind Run)</s>
+<s><b>→ 18:00</b> <b>Deltarune, capitolo 2</b> (Blind Run)</s>
 <b>→ 20:00</b> <b>Elden Ring</b>, Closed Network Test, 3 di 5 <code>(feat. Cydonia, Fossetti)</code>
 
 <i>Domenica 14 novembre</i>
@@ -32,4 +32,3 @@
 <b>→ 12:00</b> <b>Elden Ring</b>, Closed Network Test, 4 di 5
 <s><b>→ 17:00</b> <b>Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
 <b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
-<b>→ +04:00</b> <b>Elden Ring</b>, Closed Network Test, 5 di 5
