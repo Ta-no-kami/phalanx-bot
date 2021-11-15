@@ -2,7 +2,7 @@
 
 <i>Lunedì 15 novembre</i>
 <b>→ 17:00</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
-<s>→ 18:00</b> <b>Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
+<s><b>→ 18:00</b> <b>Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
 
 <i>Martedì 16 novembre</i>
 <b>→ 16:30</b> <a href="https://www.twitch.tv/oldgenproject"><b>OldGen</b></a>
