@@ -10,7 +10,7 @@
 <b>→ 21:30</b> <b>Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Mercoledì 17 novembre</i>
-<b>→ 21:30</b> <b>Metroid Dread</b> <code>(Blind Run)</code>
+<s><b>→ 21:30</b> <b>Metroid Dread</b> (Blind Run)</s>
 
 <i>Giovedì 18 novembre</i>
 <s><b>→ 18:00</b> <b>Deltarune, capitolo 2</b> (Blind Run)</s>
