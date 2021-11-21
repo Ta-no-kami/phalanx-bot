@@ -11,7 +11,7 @@
 
 <i>Mercoledì 24 novembre</i>
 <b>→ 21:00</b> <a href="https://www.twitch.tv/playerinsidetv"><b>PlayerInside</b></a>
-<b>→ 23:00</b> <b>Metroid Dread</b> <code>(Blind Run)</s></code>
+<b>→ 23:00</b> <b>Metroid Dread</b> <code>(Blind Run)</code>
 
 <i>Giovedì 25 novembre</i>
 <b>→ 14:30</b> <b>Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
