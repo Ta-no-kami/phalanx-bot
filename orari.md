@@ -1,7 +1,7 @@
 <b><u>ORARI DELLE LIVE</u></b>
 
 <i>Lunedì 22 novembre</i>
-<b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 22:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Martedì 23 novembre</i>
 <s>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>)</s>
