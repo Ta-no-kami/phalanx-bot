@@ -7,15 +7,16 @@
 <s>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>)</s>
 <b>→ 17:00</b> <b>Deltarune, capitolo 2</b> <code>(Blind Run)</code>
 <s><b>→ 18:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
-<b>→ 21:30 Pokémon: Nuzlocke Challenge</b>, Run Veterana Inversa <code>(feat. Cydonia)</code>
+<b>→ 21:30 Pokémon: Nuzlocke Challenge</b>, Run Veterana INVERSA <code>(feat. Cydonia)</code>
 
 <i>Mercoledì 24 novembre</i>
 <b>→ 21:00 <a href="https://www.twitch.tv/playerinsidetv">PlayerInside</a></b>
 <b>→ 23:00 Metroid Dread</b> <code>(Blind Run)</code>
 
 <i>Giovedì 25 novembre</i>
-<b>→ 14:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 15:00 <a href="https://www.twitch.tv/everyeyeit">Everyeyeit</a></b>
 <s><b>→ 18:00 Deltarune, capitolo 2</b> (Blind Run)</s>
+<b>→ 18:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Venerdì 26 novembre</i>
 <b>→ 17:00 Just Chatting: Riot Arcane</b>
