@@ -20,7 +20,7 @@
 
 <i>Venerdì 26 novembre</i>
 <b>→ 17:00 Just Chatting: Riot Arcane</b>
-<b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<s><b>→ 21:30 Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
 
 <i>Sabato 27 novembre</i>
 <b>→ 18:00 Deltarune, capitolo 2</b> <code>(Blind Run)</code>
