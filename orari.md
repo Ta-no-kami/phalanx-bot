@@ -17,6 +17,7 @@
 <b>→ 15:00 <a href="https://www.twitch.tv/everyeyeit">Everyeyeit</a></b>
 <s><b>→ 18:00 Deltarune, capitolo 2</b> (Blind Run)</s>
 <b>→ 18:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 23:59 (⌐■_■)</b> #GeForceNOW #ad
 
 <i>Venerdì 26 novembre</i>
 <b>→ 17:00 Just Chatting: Riot Arcane</b>
