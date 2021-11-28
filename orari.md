@@ -12,7 +12,7 @@
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Veterana INVERSA <code>(feat. Cydonia)</code>
 
 <i>Giovedì 2 dicembre</i>
-<b>→ 18:00 Returnal</b> <code>(Blind Run)</code>
+<b>→ 18:00 Returnal</b>
 
 <i>Venerdì 3 dicembre</i>
 <b>→ 17:00 Just Chatting</b>
