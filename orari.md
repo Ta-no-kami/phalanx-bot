@@ -1,4 +1,5 @@
 <b><u>ORARI DELLE LIVE</u></b>
+<b>Panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
 <i>Lunedì 29 novembre</i>
 <b>→ 12:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
