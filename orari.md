@@ -6,7 +6,7 @@
 
 <i>Martedì 30 novembre</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
-<b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<s><b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
 
 <i>Mercoledì 1 dicembre</i>
 <b>→ 17:00 Metroid Dread</b> <code>(Blind Run)</code>
