@@ -10,7 +10,7 @@
 
 <i>Mercoledì 1 dicembre</i>
 <b>→ 17:00 Metroid Dread</b> <code>(Blind Run)</code>
-<b>→ 21:30 Pokémon: Nuzlocke</b>, Run Veterana INVERSA <code>(feat. Cydonia)</code>
+<b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Giovedì 2 dicembre</i>
 <b>→ 18:00 Returnal</b>
