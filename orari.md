@@ -9,7 +9,8 @@
 <s><b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
 
 <i>Mercoledì 1 dicembre</i>
-<b>→ 17:00 Metroid Dread</b> <code>(Blind Run)</code>
+<b>→ 17:00 <a href="https://www.twitch.tv/terenas">Terenas</a></b> <code>(feat. Cydonia)</code>
+<s><b>→ 17:00 Metroid Dread</b> (Blind Run)</s>
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Giovedì 2 dicembre</i>
