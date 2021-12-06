@@ -7,7 +7,7 @@
 
 <i>Martedì 7 dicembre</i>
 <s>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>)</s>
-<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)
+<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Mercoledì 8 dicembre</i>
