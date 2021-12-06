@@ -1,28 +1,30 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Lunedì 29 novembre</i>
-<b>→ 12:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<i>Lunedì 6 dicembre</i>
+<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 21:30 Just Chatting: Dark Souls</b>, Analisi dei Boss <code>(feat. Pow3r)</code>
 
-<i>Martedì 30 novembre</i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
-<s><b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
-
-<i>Mercoledì 1 dicembre</i>
-<b>→ 16:00 <a href="https://www.twitch.tv/terenas">Terenas</a></b> <code>(feat. Cydonia)</code>
-<s><b>→ 17:00 Metroid Dread</b> (Blind Run)</s>
+<i>Martedì 7 dicembre</i>
+<s>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>)</s>
+<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
-<i>Giovedì 2 dicembre</i>
-<b>→ 18:00 Returnal</b>
+<i>Mercoledì 8 dicembre</i>
+<b>→ 10:30 Metroid Dread</b> (Blind Run)
 
-<i>Venerdì 3 dicembre</i>
+<i>Giovedì 9 dicembre</i>
+<b>→ 17:00 Halo Infinite</b> <code>(Blind Run)</code>
+<b>→ 23:59 (⌐■_■)</b> #GeForceNOW #ad
+
+<i>Venerdì 10 dicembre</i>
+<b>→ 1:00 The Game Awards 2021</b>
 <b>→ 17:00 Just Chatting</b>
 <b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
-<i>Sabato 4 dicembre</i>
+<i>Sabato 11 dicembre</i>
 <b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
-<i>Domenica 5 dicembre</i>
+<i>Domenica 12 dicembre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 <b>→ 17:00 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
