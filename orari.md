@@ -11,7 +11,7 @@
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Mercoledì 8 dicembre</i>
-<b>→ 10:30 Metroid Dread</b> (Blind Run)
+<b>→ 10:30 Metroid Dread</b> <code>(Blind Run)</code>
 
 <i>Giovedì 9 dicembre</i>
 <b>→ 17:00 Halo Infinite</b> <code>(Blind Run)</code>
