@@ -17,8 +17,7 @@
 <b>→ +1:00 The Game Awards 2021</b>
 
 <i>Venerdì 10 dicembre</i>
-<s><b>→ 17:00 Just Chatting</b></s>
-<b>→ 17:00 Halo Infinite</b> <code>(Blind Run)</code>
+<b>→ 17:00 <s>Just Chatting</s> Halo Infinite</b> <code>(Blind Run)</code>
 <b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 11 dicembre</i>
