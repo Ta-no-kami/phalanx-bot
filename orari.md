@@ -21,7 +21,8 @@
 <b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 11 dicembre</i>
-<b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
+<s><b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
+<b>→ 18:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 <b>→ +1:00 (⌐■_■)</b> #GeForceNOW #ad
 
 <i>Domenica 12 dicembre</i>
