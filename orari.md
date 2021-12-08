@@ -12,6 +12,7 @@
 
 <i>Mercoledì 8 dicembre</i>
 <b>→ 10:30 Metroid Dread</b> <code>(Blind Run)</code>
+<b>→ 21:30 <a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a></b>
 
 <i>Giovedì 9 dicembre</i>
 <b>→ +1:00 The Game Awards 2021</b>
