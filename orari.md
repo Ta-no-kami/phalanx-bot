@@ -15,7 +15,7 @@
 <b>→ 21:30 <a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a></b>
 
 <i>Giovedì 9 dicembre</i>
-<b>→ +1:00 The Game Awards 2021</b>
+<b>→ 23:59 The Game Awards 2021</b>
 
 <i>Venerdì 10 dicembre</i>
 <b>→ 17:00 <s>Just Chatting</s> Halo Infinite</b> <code>(Blind Run)</code>
