@@ -14,7 +14,7 @@
 <b>→ 10:30 Metroid Dread</b> <code>(Blind Run)</code>
 
 <i>Giovedì 16 dicembre</i>
-<b>(∩⏓‿⏓)⊃━☆ﾟ.*</b>
+<b>ʢ◉ᴥ◉ʡ</b>
 
 <i>Venerdì 17 dicembre</i>
 <b>→ 17:00 <s>Just Chatting</s> Halo Infinite</b> <code>(Blind Run)</code>
