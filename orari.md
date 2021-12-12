@@ -25,7 +25,7 @@
 <s><b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
 <b>→ 18:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 <b>→ +0:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
-<s>b>→ +1:00 (⌐■_■)</b> #GeForceNOW #ad</s>
+<s><b>→ +1:00 (⌐■_■)</b> #GeForceNOW #ad</s>
 
 <i>Domenica 12 dicembre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
