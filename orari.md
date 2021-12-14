@@ -3,7 +3,8 @@
 
 <i>Lunedì 13 dicembre</i>
 <b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
-<b>→ 21:30 Halo Infinite</b> <code>(Blind Run)</code>
+<s><b>→ 21:30 Halo Infinite</b> (Blind Run)</s>
+<b>→ 21:30 Fall Guys: Ultimate Alcol</b> <code>(feat. Dario Moccia & Co.)</code>
 
 <i>Martedì 14 dicembre</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
