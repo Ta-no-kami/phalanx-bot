@@ -16,7 +16,8 @@
 <b>→ 10:30 Metroid Dread</b> <code>(Blind Run)</code>
 
 <i>Giovedì 16 dicembre</i>
-<b>→ ʢ◉ᴥ◉ʡ <a href="https://www.twitch.tv/dariomocciatwitch">DarioMoccia</a></b>
+<b>→ 乁(Ȍ⍘Ȍ)ㄏ <a href="https://www.twitch.tv/everyeyeit">Everyeye.it</a></b>
+<b>→ ʢ◉ᴥ◉ʡ <a href="https://www.twitch.tv/dariomocciatwitch">Dario Moccia</a></b>
 
 <i>Venerdì 17 dicembre</i>
 <b>→ 16:00 Halo Infinite</b> <code>(Blind Run)</code>
