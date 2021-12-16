@@ -17,7 +17,7 @@
 
 <i>Giovedì 16 dicembre</i>
 <b>→ 10:00 <a href="https://www.twitch.tv/everyeyeit">Everyeye.it</a></b>
-<b>→ 21:30? <a href="https://www.twitch.tv/dariomocciatwitch">Dario Moccia</a></b>
+<b>→ 18:00 <a href="https://www.twitch.tv/dariomocciatwitch">Dario Moccia & Co.</a></b>
 
 <i>Venerdì 17 dicembre</i>
 <b>→ 16:00 Halo Infinite</b> <code>(Blind Run)</code>
