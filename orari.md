@@ -16,7 +16,7 @@
 <b>→ 10:30 Metroid Dread</b> <code>(Blind Run)</code>
 
 <i>Giovedì 16 dicembre</i>
-<b>→ 10:00? <a href="https://www.twitch.tv/everyeyeit">Everyeye.it</a></b>
+<b>→ 10:00 <a href="https://www.twitch.tv/everyeyeit">Everyeye.it</a></b>
 <b>→ 21:30? <a href="https://www.twitch.tv/dariomocciatwitch">Dario Moccia</a></b>
 
 <i>Venerdì 17 dicembre</i>
