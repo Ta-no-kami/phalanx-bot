@@ -29,4 +29,4 @@
 
 <i>Domenica 19 dicembre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 17:00 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
