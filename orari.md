@@ -1,32 +1,30 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Lunedì 13 dicembre</i>
+<i>Lunedì 20 dicembre</i>
 <b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
-<s><b>→ 21:30 Halo Infinite</b> (Blind Run)</s>
-<b>→ 21:30 Fall Guys: Ultimate Alcol</b> <code>(feat. Dario Moccia & Co.)</code>
-<b>→ +00:30 Dark Souls: Alcol Remastered</b> <code>(feat. Cydonia)</code>
 
-<i>Martedì 14 dicembre</i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
+<i>Martedì 21dicembre</i>
+<i>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>, ci vediamo l'11 gennaio!)</i>
+<b>→ 17:00 Evento speciale</b>, <code>(feat. Yotobi & ilGattoSulTubo)</code>
 <s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
+<b>→ 21:30 Halo Infinite</b> <code>(Blind Run)</code>
+
+<i>Mercoledì 22 dicembre</i>
+<b>→ 10:30 Metroid Dread</b> <code>(Blind Run)</code>
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
-<i>Mercoledì 15 dicembre</i>
-<b>→ 10:30 Metroid Dread</b> <code>(Blind Run)</code>
+<i>Giovedì 23 dicembre</i>
+<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
-<i>Giovedì 16 dicembre</i>
-<b>→ 10:00 <a href="https://www.twitch.tv/everyeyeit">Everyeye.it</a></b>
-<b>→ 18:00 <a href="https://www.twitch.tv/dariomocciatwitch">Dario Moccia & Co.</a></b>
-
-<i>Venerdì 17 dicembre</i>
-<b>→ 16:00 Halo Infinite</b> <code>(Blind Run)</code>
-<s><b>→ 17:00 Just Chatting</b></s>
+<i>Venerdì 24 dicembre</i>
+<b>→ 17:00 Just Chatting: Spider-Man, No Way Home</b>
 <s><b>→ 21:30 Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
 
-<i>Sabato 18 dicembre</i>
-<b>→ 10:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
+<i>Sabato 25 dicembre</i>
+<b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
-<i>Domenica 19 dicembre</i>
+<i>Domenica 26 dicembre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<b>→ 17:00 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
