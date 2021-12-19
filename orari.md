@@ -6,7 +6,7 @@
 
 <i>Martedì 21dicembre</i>
 <i>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>, ci vediamo l'11 gennaio!)</i>
-<b>→ 17:00 Evento speciale</b>, <code>(feat. Yotobi & ilGattoSulTubo)</code>
+<b>→ 17:00 Evento speciale ʢ◉ᴥ◉ʡ</b>, <code>(feat. Yotobi & ilGattoSulTubo)</code>
 <s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
 <b>→ 21:30 Halo Infinite</b> <code>(Blind Run)</code>
 
