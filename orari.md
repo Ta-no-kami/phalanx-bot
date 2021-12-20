@@ -15,8 +15,8 @@
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Giovedì 23 dicembre</i>
-<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
-<b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<b>→ 17:00 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Venerdì 24 dicembre</i>
 <b>→ 17:00 Just Chatting</b>, Spider-Man: No Way Home
