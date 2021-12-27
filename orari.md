@@ -6,7 +6,7 @@
 
 <i>Martedì 28 dicembre</i>
 <i>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>, ci vediamo l'11 gennaio!)</i>
-<b>→ 17:00 Dark Souls & Demon's Souls Remake</b>, PvP bendato <code>(feat. Phenrir)</code>
+<b>→ 17:00 BLINDFOLDED: Dark Souls & Demon's Souls Remake</b>, PvP<code>(feat. Phenrir)</code>
 <b>→ 21:30 Halo Infinite</b> <code>(Blind Run)</code>
 
 <i>Mercoledì 29 dicembre</i>
