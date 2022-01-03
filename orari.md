@@ -1,28 +1,27 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Lunedì 27 dicembre</i>
+<i>Lunedì 3 dicembre</i>
 <b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
-<i>Martedì 28 dicembre</i>
+<i>Martedì 4 gennaio</i>
 <i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b></s>, ci vediamo l'11 gennaio!</i>
-<b>→ 17:00 Blindfolded: Dark Souls & Demon's Souls</b>, PvP <code>(feat. Phenrir)</code>
+<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 <b>→ 21:30 Halo Infinite</b> <code>(Blind Run)</code>
 
-<i>Mercoledì 29 dicembre</i>
+<i>Mercoledì 5 gennaio</i>
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
-<i>Giovedì 30 dicembre</i>
+<i>Giovedì 6 gennaio</i>
 <b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-<b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
-
-<i>Venerdì 31 dicembre</i>
-<b>→ 17:00 Just Chatting</b>, Elden Ring Preview
 <s><b>→ 21:30 Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
 
-<i>Sabato 1 gennaio</i>
-<b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
+<i>Venerdì 7 gennaio</i>
+<b>→ 10:30 Just Chatting</b>, Elden Ring Preview
 
-<i>Domenica 2 gennaio</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 17:00 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<i>Sabato 8 gennaio</i>
+<s><b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
+
+<i>Domenica 9 gennaio</i>
+<s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
+<s><b>→ 17:00 Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
