@@ -5,7 +5,7 @@
 <b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Martedì 4 gennaio</i>
-<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b></s>, ci vediamo l'11 gennaio!
+<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b></s></i>, ci vediamo l'11 gennaio!
 <b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 <b>→ 21:30 Halo Infinite</b> <code>(Blind Run)</code>
 
@@ -14,7 +14,7 @@
 
 <i>Giovedì 6 gennaio</i>
 <b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-<s><b>→ 21:30 Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
+<b>→ 21:30 Dark Souls III</b>, Run Veterana (feat. Cydonia)
 
 <i>Venerdì 7 gennaio</i>
 <b>→ 10:30 Just Chatting</b>, Elden Ring Preview
