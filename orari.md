@@ -14,7 +14,7 @@
 
 <i>Giovedì 6 gennaio</i>
 <b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-<b>→ 21:30 Dark Souls III</b>, Run Veterana (feat. Cydonia)
+<b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Venerdì 7 gennaio</i>
 <b>→ 10:30 Just Chatting</b>, Elden Ring Preview
