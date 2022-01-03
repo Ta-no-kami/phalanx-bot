@@ -17,7 +17,7 @@
 <b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Venerdì 7 gennaio</i>
-<b>→ 10:30 Just Chatting</b>, Elden Ring Preview
+<b>→ 10:30 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
 
 <i>Sabato 8 gennaio</i>
 <s><b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
