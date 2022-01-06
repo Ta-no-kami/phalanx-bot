@@ -18,7 +18,7 @@
 
 <i>Venerdì 7 gennaio</i>
 <b>→ 10:30 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-<b>→ 21:30 <a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a></b></s></i>
+<b>→ 21:30 <a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a></b>
 
 <i>Sabato 8 gennaio</i>
 <s><b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
