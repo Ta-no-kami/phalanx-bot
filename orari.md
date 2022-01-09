@@ -1,13 +1,6 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Venerdì 7 gennaio</i>
-<b>→ 10:30 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-<b>→ 21:30 <a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a></b>
-
-<i>Sabato 8 gennaio</i>
-<s><b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
-
 <i>Domenica 9 gennaio</i>
 <s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
 <s><b>→ 17:00 Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
