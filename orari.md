@@ -3,6 +3,7 @@
 
 <i>Lunedì 10 dicembre</i>
 <s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
+<b>→ 23:00 Just Chatting</b>, DadoBax reaction video
 
 <i>Martedì 11 gennaio</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
