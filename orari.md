@@ -1,10 +1,6 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Domenica 9 gennaio</i>
-<s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
-<s><b>→ 17:00 Dark Souls III</b>, Run Veterana (feat. Cydonia)</s>
-
 <i>Lunedì 10 dicembre</i>
 <s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
 
