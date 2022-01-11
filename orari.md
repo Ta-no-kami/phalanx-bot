@@ -3,7 +3,7 @@
 
 <i>Lunedì 10 dicembre</i>
 <s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
-<b>→ 23:00 Just Chatting</b>, DadoBax reaction video
+<b>→ 23:00 Bloodborne</b>
 
 <i>Martedì 11 gennaio</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
@@ -27,4 +27,4 @@
 
 <i>Domenica 16 gennaio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 17:00 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<b>→ 17:00 Dark Souls III</b>, Run Veterana EXTRA
