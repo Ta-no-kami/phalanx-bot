@@ -19,7 +19,7 @@
 <b>→ 21:30 Halo Infinite</b>
 
 <i>Venerdì 14 gennaio</i>
-<b>→ 10:30 God of War</b>, PC #NVIDIAGeForceNOW #adv
+<b>→ 17:00 God of War</b>, PC #NVIDIAGeForceNOW #adv
 <b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 15 gennaio</i>
