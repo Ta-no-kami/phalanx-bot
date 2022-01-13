@@ -19,11 +19,11 @@
 <b>→ 21:30 Halo Infinite</b>
 
 <i>Venerdì 14 gennaio</i>
-<b>→ 17:00 God of War</b>, PC #NVIDIAGeForceNOW #adv
+<b>→ 17:00 God of War</b>, PC #NVIDIAGeForceNOW
 <b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
 
 <i>Sabato 15 gennaio</i>
-<b>→ 18:00 Genshin Impact</b>, Sabato Sponsor #adv
+<b>→ 18:00 Genshin Impact</b>, Sabato Sponsor
 
 <i>Domenica 16 gennaio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
