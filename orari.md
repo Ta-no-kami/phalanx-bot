@@ -1,30 +1,29 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Lunedì 10 dicembre</i>
-<s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
-<b>→ 23:00 Bloodborne</b>
+<i>Lunedì 17 gennaio</i>
+<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
-<i>Martedì 11 gennaio</i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
+<i>Martedì 18 gennaio</i>
+<b>→ 10:30 Monster Hunter Rise</b>, PC <code>(12 ore)</code>
+<s><i>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b></i>)</s>
 <s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
+
+<i>Mercoledì 19 gennaio</i>
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
-<i>Mercoledì 12 gennaio</i>
-<b>→ 10:30 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-<b>→ 18:00 Monster Hunter Rise</b>, PC <code>(6 ore)</code>
-
-<i>Giovedì 13 gennaio</i>
+<i>Giovedì 20 gennaio</i>
 <b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-<b>→ 21:30 Halo Infinite</b>
+<s><b>→ 21:30 Halo Infinite</b></s>
+<b>→ 21:30 Ruined King: A League of Legends Story</b> #NVIDIAGeForceNOW
 
-<i>Venerdì 14 gennaio</i>
-<b>→ 17:00 God of War</b>, PC #NVIDIAGeForceNOW
-<b>→ 21:30 Dark Souls III</b>, Run Veterana <code>(feat. Cydonia)</code>
+<i>Venerdì 21 gennaio</i>
+<b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
+<b>→ 21:30 Dark Souls III</b>, Run Veterana FINALE<code>(feat. Cydonia)</code>
 
-<i>Sabato 15 gennaio</i>
-<b>→ 18:00 Genshin Impact</b>, Sabato Sponsor
+<i>Sabato 22 gennaio</i>
+<b>→ 18:00 Monster Hunter Rise</b>
 
-<i>Domenica 16 gennaio</i>
+<i>Domenica 23 gennaio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 17:00 Dark Souls III</b>, Run Veterana EXTRA
+<b>→ 17:00 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
