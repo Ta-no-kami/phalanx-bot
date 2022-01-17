@@ -15,7 +15,7 @@
 <i>Giovedì 20 gennaio</i>
 <b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
 <s><b>→ 21:30 Halo Infinite</b></s>
-<b>→ 21:30 Ruined King: A League of Legends Story</b> #NVIDIAGeForceNOW
+<b>→ 21:30 Ruined King: A League of Legends Story</b> #NVIDIAGFN
 
 <i>Venerdì 21 gennaio</i>
 <b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
