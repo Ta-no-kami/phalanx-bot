@@ -6,7 +6,7 @@
 
 <i>Martedì 18 gennaio</i>
 <b>→ 10:30 Monster Hunter Rise</b>, PC <code>(12 ore)</code>
-<s><i>(<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b></i>)</s>
+<i>(<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b></s>, ci si vede il 25 gennaio!</i>)
 <s><b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga (Blind Run)</s>
 
 <i>Mercoledì 19 gennaio</i>
