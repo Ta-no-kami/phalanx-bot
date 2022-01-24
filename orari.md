@@ -12,10 +12,10 @@
 <b>→ 21:30 Halo Infinite</b>, FINALE
 
 <i>Giovedì 27 gennaio</i>
-<b>→ 21:30 Pokémon DLPS: Nuzlocke</b>, Run Vet. INVERSA <code>(12ore, feat. Cydonia)</code>
+<b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Venerdì 28 gennaio</i>
-<b>→ 15:00 Leggende Pokémon: Arceus</b> <code>(feat. Cydonia)</code>
+<b>→ 15:00 Leggende Pokémon: Arceus</b> <code>(12ore, feat. Cydonia)</code>
 
 <i>Sabato 29 gennaio</i>
 <b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
