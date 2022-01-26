@@ -9,7 +9,8 @@
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Mercoledì 26 gennaio</i>
-<b>→ 21:30 Halo Infinite</b>, FINALE
+<b>→ 17:00 Halo Infinite</b>, FINALE
+<b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
 
 <i>Giovedì 27 gennaio</i>
 <b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
