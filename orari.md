@@ -1,26 +1,25 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> 🦠🤒🛏️
 
-<i>Lunedì 24 gennaio</i>
+<i>Lunedì 31 gennaio</i>
+<b>→ 17:00 Uncharted 4: Fine di un ladro</b>, One-shot #adv
+
+<i>Martedì 1 febbraio </i>
+<i>(<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b></s> ci vediamo l'8 febbraio!)</i>
+<b>→ 17:00 Uncharted: L'eredità perduta</b>, One-shot #adv
+
+<i>Mercoledì 2 febbraio</i>
 <b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
-<i>Martedì 25 gennaio</i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
-<b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
+<i>Giovedì 3 febbraio</i>
+<b>→ 17:00 Resident Evil: Dead Aim</b>, Resident Evil Saga
 
-<i>Mercoledì 26 gennaio</i>
-<b>→ 17:00 Halo Infinite</b>, FINALE
-<b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
+<i>Venerdì 4 febbraio</i>
+<b>→ 21:30 Leggende Pokémon: Arceus</b> <code>(feat. Cydonia)</code>
 
-<i>Giovedì 27 gennaio</i>
-<b>→ 21:30 Pokémon: Nuzlocke</b>, Run Vet. INVERSA <code>(feat. Cydonia)</code>
+<i>Sabato 5 febbraio</i>
+<b>→ 21:30 Monster Hunter Rise</b> <code>(PC)</code>
 
-<i>Venerdì 28 gennaio</i>
-<b>→ 15:00 Leggende Pokémon: Arceus</b> <code>(12ore, feat. Cydonia)</code>
-
-<i>Sabato 29 gennaio</i>
-<b>→ 17:00 Resident Evil Zero</b>, Resident Evil Saga <code>(Blind Run)</code>
-
-<i>Domenica 30 gennaio</i>
+<i>Domenica 6 febbraio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 <b>→ 17:00 Leggende Pokémon: Arceus</b> <code>(feat. Cydonia)</code>
