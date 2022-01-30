@@ -9,7 +9,7 @@
 <b>→ 17:00 Uncharted: L'eredità perduta</b>, One-shot #adv
 
 <i>Mercoledì 2 febbraio</i>
-<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Giovedì 3 febbraio</i>
 <b>→ 17:00 Resident Evil: Dead Aim</b>, Resident Evil Saga
@@ -19,6 +19,7 @@
 
 <i>Sabato 5 febbraio</i>
 <b>→ 21:30 Monster Hunter Rise</b> <code>(PC)</code>
+<b>→ 23:59 ...</b> #NVIDIAGFN
 
 <i>Domenica 6 febbraio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
