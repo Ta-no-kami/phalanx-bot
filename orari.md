@@ -9,7 +9,7 @@
 <b>→ 17:00 Uncharted: L'eredità perduta</b>, One-shot #adv
 
 <i>Mercoledì 2 febbraio</i>
-<b>→ 17:00 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 17:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 <b>→ 23:00 Eventi speciali</b>, Sony State of Play
 
 <i>Giovedì 3 febbraio</i>
