@@ -15,7 +15,7 @@
 <i>Giovedì 3 febbraio</i>
 <s><b>→ 17:00 Resident Evil: Dead Aim</b>, Resident Evil Saga</s>
 <b>→ 17:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 22:30 Eventi speciali</b>, GhostWire: Tokyo <code>(Official Showcase | PS5)</code>
+<b>→ 22:30 Eventi speciali</b>, GhostWire: Tokyo <code>(Showcase | PS5)</code>
 
 <i>Venerdì 4 febbraio</i>
 <b>→ 17:00 Dying Light 2</b> #NVIDIAGFN
