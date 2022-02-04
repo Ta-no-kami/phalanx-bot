@@ -18,7 +18,7 @@
 <b>→ 22:30 Eventi speciali</b>, GhostWire: Tokyo <code>(Showcase | PS5)</code>
 
 <i>Venerdì 4 febbraio</i>
-<b>→ 17:00 Dying Light 2</b> #RTXOn #adv
+<b>→ 17:00 Dying Light 2</b> #GFNThursday #adv
 <b>→ 21:30 Leggende Pokémon: Arceus</b> <code>(feat. Cydonia)</code>
 
 <i>Sabato 5 febbraio</i>
