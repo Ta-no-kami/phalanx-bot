@@ -7,8 +7,7 @@
 
 <i>Martedì 8 febbraio </i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
-<b>→ ??:?? Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
-<b>→ ??:?? Halo Infinite</b>, multiplayer
+<b>→ ??:?? Kingdom Hearts III / Halo Infinite</b> <code>(multiplayer)</code>
 
 <i>Mercoledì 9 febbraio</i>
 <b>→ 21:30 Resident Evil: Dead Aim</b>, Resident Evil Saga
