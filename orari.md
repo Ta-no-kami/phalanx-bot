@@ -2,7 +2,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
 <i>Lunedì 7 febbraio</i>
-<b>→ 17:00 Demon's Souls: creazione PG per Elden Ring</b>, serie con Cydonia
+<b>→ 17:00 Demon's Souls: creazione PG Elden Ring</b>, serie con Cydonia
 <b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Martedì 8 febbraio </i>
@@ -13,7 +13,7 @@
 <b>→ 21:30 Resident Evil: Dead Aim</b>, Resident Evil Saga
 
 <i>Giovedì 10 febbraio</i>
-<b>→ 21:30 Quattro chiacchiere: Elden Ring</b>, compendio di tutto, analisi della CGI e ultima discussione seria pre-release <code>(DirettAnteprima)</code>
+<b>→ 21:30 Quattro chiacchiere: Elden Ring</b>, compendio di tutto, analisi della CGI e ultima discussione pre-release <code>(DirettAnteprima)</code>
 
 <i>Venerdì 11 febbraio</i>
 <b>→ 17:00 Resident Evil: Dead Aim / Bloodborne PSX</b>
