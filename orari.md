@@ -2,12 +2,12 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
 <i>Lunedì 7 febbraio</i>
-<b>→ 17:00 Demon's Souls (2020)</b>, creazione del PG di Elden Ring per la serie con Cydonia
+<b>→ 17:00 Demon's Souls (2020)</b>, creazione del PG per la serie di Elden Ring con Cydonia
 <b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Martedì 8 febbraio </i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
-<b>→ ??:?? Kingdom Hearts III / Halo Infinite</b> <code>(multiplayer)</code>
+<b>→ 18:15 Kingdom Hearts III / Halo Infinite</b> <code>(multiplayer)</code>
 
 <i>Mercoledì 9 febbraio</i>
 <b>→ 21:30 Resident Evil: Dead Aim</b>, Resident Evil Saga
