@@ -6,7 +6,7 @@
 <b>→ 21:30 Kingdom Hearts III</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
 
 <i>Martedì 8 febbraio </i>
-<b>→ 11:00 Halo Infinite</b> <code>(multiplayer)</code>
+<b>→ 11:00 Halo Infinite</b>, multiplayer
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
 
 <i>Mercoledì 9 febbraio</i>
