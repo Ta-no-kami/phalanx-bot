@@ -10,7 +10,8 @@
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
 
 <i>Mercoledì 9 febbraio</i>
-<b>→ 21:30 Resident Evil: Dead Aim</b>, Resident Evil Saga
+<b>→ 18:00 Resident Evil: Dead Aim</b>, Resident Evil Saga
+<b>→ 23:00 Eventi speciali: Nintendo Direct</b>
 
 <i>Giovedì 10 febbraio</i>
 <b>→ 21:30 Quattro chiacchiere: Elden Ring</b>, compendio di tutte le informazioni note, analisi della CGI e ultima discussione seria pre-release <code>(DirettAnteprima)</code>
