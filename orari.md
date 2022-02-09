@@ -12,6 +12,7 @@
 <i>Mercoledì 9 febbraio</i>
 <b>→ 18:00 Resident Evil: Dead Aim</b>, Resident Evil Saga
 <b>→ 22:30 Eventi speciali: Nintendo Direct</b>
+<b>→ 23:59 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
 <i>Giovedì 10 febbraio</i>
 <b>→ 21:30 Quattro chiacchiere: Elden Ring</b>, compendio di tutte le informazioni note, analisi della CGI e ultima discussione seria pre-release <code>(DirettAnteprima)</code>
