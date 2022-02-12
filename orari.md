@@ -25,5 +25,5 @@
 <b>→ 17:00 Bloodborne PSX</b>
 
 <i>Domenica 13 febbraio</i>
-<b>→ 10:30 Bloodborne PSX</b>
+<s><b>→ 10:30 Bloodborne PSX</b></s>
 <b>→ 17:00 Leggende Pokémon: Arceus</b> <code>(feat. Cydonia)</code>
