@@ -18,7 +18,7 @@
 <b>→ 21:30 Quattro chiacchiere: Elden Ring</b>, compendio di tutte le informazioni note, analisi della CGI e ultima discussione seria pre-release <code>(DirettAnteprima)</code>
 
 <i>Venerdì 11 febbraio</i>
-<b>→ 17:00 Resident Evil: Dead Aim / Bloodborne PSX</b>
+<b>→ 17:00 Resident Evil: Dead Aim</b>
 <b>→ 21:30 Leggende Pokémon: Arceus</b> <code>(feat. Cydonia)</code>
 
 <i>Sabato 12 febbraio</i>
