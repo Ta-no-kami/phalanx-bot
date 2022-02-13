@@ -2,7 +2,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
 <i>Lunedì 14 febbraio</i>
-<b>→ 17:00 Kingdom Hearts Union χ</b>, Kingdom Hearts Saga <code>(Blind Run)</code>
+<b>→ 17:00 Kingdom Hearts Union χ</b>, K. Hearts Saga <code>(Blind Run)</code>
 <b>→ 21:30 Quattro chiacchiere: Uncharted (film)</b>, visto in anteprima
 
 <i>Martedì 15 febbraio </i>
