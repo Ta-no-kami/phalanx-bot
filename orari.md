@@ -14,7 +14,7 @@
 <b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Giovedì 17 febbraio</i>
-<b>→ 17:00 Sifu</b> <code>(Blind Run)</code>
+<s><b>→ 17:00 Sifu</b> (Blind Run)</s>
 <b>→ 21:30 Leggende Pokémon: Arceus</b> <code>(feat. Cydonia)</code>
 
 <i>Venerdì 18 febbraio</i>
