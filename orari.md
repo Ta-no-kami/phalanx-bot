@@ -25,4 +25,4 @@
 
 <i>Domenica 20 febbraio</i>
 <b>→ 🛬 Roma</b>
-<b>→ 23:30 Horizon Forbidden West</b>
+<b>→ 23:30 Horizon Forbidden West</b> #adv
