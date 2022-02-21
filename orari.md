@@ -21,4 +21,4 @@
 
 <i>Domenica 27 febbraio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 17:00 Leggende Pokémon: Arceus</b>, Run Vet. Inversa <code>(feat. Cydonia)</code>
+<b>→ 17:00 Leggende Pokémon: Arceus</b>, R. Vet. Inversa <code>(feat. Cydonia)</code>
