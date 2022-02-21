@@ -2,7 +2,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
 <i>Lunedì 21 febbraio</i>
-<b>→ 18:00 Kingdom Hearts Union χ</b>, K. Hearts Saga <code>(Blind Run)</code>
+<b>→ 15:00 Kingdom Hearts Union χ</b>, K. Hearts Saga <code>(Blind Run)</code>
 
 <i>Martedì 22 febbraio </i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
