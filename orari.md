@@ -11,13 +11,13 @@
 <b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Giovedì 24 febbraio</i>
-<b>→ 17:00 Talk Show // Q&A</b>
+<b>→ 18:00 Talk Show // Q&A</b>
 
 <i>Venerdì 25 febbraio</i>
 <b>→ 20:00 Elden Ring</b>, Co-op Run 6h <code>(feat. Cydonia)</code>
 
 <i>Sabato 26 febbraio</i>
-<b>→ 17:00 Monster Hunter Rise</b>, Spirito del Fanboy LIVE
+<b>→ 17:00 Sifu</b>
 
 <i>Domenica 27 febbraio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
