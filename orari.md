@@ -1,5 +1,6 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
+<b>→ Elden Ring: <code>f3ll0ws</code>
 
 <i>Lunedì 21 febbraio</i>
 <b>→ 15:00 Kingdom Hearts Union χ</b>, K. Hearts Saga <code>(Blind Run)</code>
