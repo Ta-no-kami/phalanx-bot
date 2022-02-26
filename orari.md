@@ -18,7 +18,7 @@
 <b>→ 20:00 Elden Ring</b>, Co-op Run 6h <code>(feat. Cydonia)</code>
 
 <i>Sabato 26 febbraio</i>
-<b>→ 17:00 Sifu</b>
+<b>→ 18:00 Sifu</b>
 
 <i>Domenica 27 febbraio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
