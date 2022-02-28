@@ -13,7 +13,7 @@
 <b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Giovedì 3 marzo</i>
-<b>→ 18:00 Gran Turismo 7</b> <code>(One-shot)</code>
+<b>→ 18:00 Gran Turismo 7</b>, One-shot
 
 <i>Venerdì 4 marzo</i>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
