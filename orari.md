@@ -10,7 +10,7 @@
 <b>→ Trasferta di lavoro 🚗🏠</b>
 
 <i>Mercoledì 2 marzo</i>
-<b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
+<s><b>→ 21:30 Inscryption</b> (Blind Run)</s>
 
 <i>Giovedì 3 marzo</i>
 <b>→ 18:00 Sifu</b> <code>(Blind Run)</code>
@@ -20,7 +20,8 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 5 marzo</i>
-<b>→ 18:00 Monster Hunter Rise</b>, PC
+<b>→ 17:00 Inscryption</b> (Blind Run)
+<s><b>→ 18:00 Monster Hunter Rise</b>, PC</s>
 
 <i>Domenica 6 marzo</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
