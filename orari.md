@@ -16,7 +16,7 @@
 <b>→ 18:00 Sifu</b> <code>(Blind Run)</code>
 
 <i>Venerdì 4 marzo</i>
-<b>→ 15:30 Gran Turismo 7</b>, One-shot
+<b>→ 17:00 Gran Turismo 7</b>, One-shot
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 5 marzo</i>
