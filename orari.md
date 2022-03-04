@@ -20,7 +20,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 5 marzo</i>
-<b>→ 17:00 Inscryption</b> (Blind Run)
+<b>→ 17:00 Inscryption</b> <code>(Blind Run)</code>
 <s><b>→ 18:00 Monster Hunter Rise</b>, PC</s>
 
 <i>Domenica 6 marzo</i>
