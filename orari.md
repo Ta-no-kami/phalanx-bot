@@ -7,10 +7,11 @@
 
 <i>Martedì 8 marzo </i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
-<b>→ 21:30 Sifu</b> <code>(Blind Run)</code>
+<b>→ 22:00 Sifu</b> <code>(Blind Run)</code>
 
 <i>Mercoledì 9 marzo</i>
-<b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
+<b>→ 18:00 Inscryption</b> <code>(Blind Run)</code>
+<b>→ 22:40 Eventi speciali: PlayStation State of Play</b> 
 
 <i>Giovedì 10 marzo</i>
 <b>→ 18:00 Stranger of Paradise: Final Fantasy Origin</b>, 1 di ?
