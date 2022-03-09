@@ -14,7 +14,7 @@
 <b>→ 22:40 Eventi speciali: PlayStation State of Play</b> 
 
 <i>Giovedì 10 marzo</i>
-<b>→ 18:00 Stranger of Paradise: Final Fantasy Origin</b>, 1 di ?
+<b>→ 18:00 Live Segreta</b>
 <b>→ 23:59 ???</b> #NVIDIAGeForceNOW
 
 <i>Venerdì 11 marzo</i>
