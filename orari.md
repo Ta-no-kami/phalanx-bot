@@ -14,10 +14,11 @@
 <b>→ 22:40 Eventi speciali: PlayStation State of Play</b> 
 
 <i>Giovedì 10 marzo</i>
-<b>→ 18:00 Live Segreta</b>
+<b>→ 18:00 The Binding of Isaac: Repentance</b>, EXTRA
 <b>→ 23:59 ???</b> #NVIDIAGeForceNOW
 
 <i>Venerdì 11 marzo</i>
+<b>→ 17:00 Stranger of Paradise: Final Fantasy Origin</b>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 12 marzo</i>
