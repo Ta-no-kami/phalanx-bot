@@ -18,7 +18,7 @@
 <b>→ 23:59 ???</b> #NVIDIAGeForceNOW
 
 <i>Venerdì 11 marzo</i>
-<b>→ 17:00 Stranger of Paradise: Final Fantasy Origin</b>
+<b>→ 17:00 Stranger of Paradise: Final Fantasy Origin</b> #adv
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 12 marzo</i>
