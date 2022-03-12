@@ -22,7 +22,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 12 marzo</i>
-<b>→ 18:00 Monster Hunter Rise</b>
+<b>→ 18:00 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Domenica 13 marzo</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
