@@ -10,7 +10,7 @@
 <b>→ Trasferta: Project Galileo</b>
 
 <i>Mercoledì 16 marzo</i>
-<b>→ 18:00 Kingdom Hearts Union χ FINALE</b>, KH Saga<code>(Blind Run)</code>
+<b>→ 17:00 Kingdom Hearts Union χ FINALE</b>, KH Saga<code>(Blind Run)</code>
 <b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Giovedì 17 marzo</i>
