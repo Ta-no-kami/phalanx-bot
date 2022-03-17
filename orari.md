@@ -15,7 +15,7 @@
 
 <i>Giovedì 17 marzo</i>
 <b>→ 15:30 Sifu</b> <code>(Blind Run)</code>
-<b>→ 17:00 Talk Show: Gran Turismo 7</b>
+<b>→ 17:00 <a href="https://www.twitch.tv/playstation_it">Talk Show: Gran Turismo 7</a></b>
 
 <i>Venerdì 18 marzo</i>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
