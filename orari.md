@@ -6,7 +6,7 @@
 <b>→ 17:00 Ghostwire: Tokyo</b>, One-shot
 
 <i>Martedì 22 marzo </i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">OldGen</a></b>
+<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
 <b>→ 21:30 Sifu</b> <code>(Blind Run)</code>
 
 <i>Mercoledì 23 marzo</i>
