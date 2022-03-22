@@ -7,7 +7,7 @@
 
 <i>Martedì 22 marzo </i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
-<b>→ 21:30 Sifu</b> <code>(Blind Run)</code>
+<b>→ 21:30 Gears of War</b>, Gears of War Saga
 
 <i>Mercoledì 23 marzo</i>
 <b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
