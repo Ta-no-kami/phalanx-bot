@@ -10,7 +10,7 @@
 <b>→ 21:30 Gears of War</b>, Gears of War Saga
 
 <i>Mercoledì 23 marzo</i>
-<b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
+<b>→ 18:00 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Giovedì 24 marzo</i>
 <b>→ 21:30 Leggende Pokémon: Arceus</b>, Vet. Inv. <code>(feat. Cydonia)</code>
