@@ -2,25 +2,26 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 <b>→ Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 21 marzo</i>
-<b>→ 17:00 Ghostwire: Tokyo</b>, One-shot
-
-<i>Martedì 22 marzo </i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
-<b>→ 21:30 Gears of War</b>, Gears of War Saga
-
-<i>Mercoledì 23 marzo</i>
-<b>→ 18:00 Inscryption</b> <code>(Blind Run)</code>
-
-<i>Giovedì 24 marzo</i>
-<b>→ 21:30 Leggende Pokémon: Arceus</b>, Vet. Inv. <code>(feat. Cydonia)</code>
-
-<i>Venerdì 25 marzo</i>
-<b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
-
-<i>Sabato 26 marzo</i>
+<i>Lunedì 28 marzo</i>
 <b>→ 18:00 Gears of War</b>, Gears of War Saga
 
-<i>Domenica 27 marzo</i>
+<i>Martedì 29 marzo </i>
+<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 5 aprile!</i>
+<b>→ 21:30 Sifu Night</b>
+
+<i>Mercoledì 30 marzo</i>
+<b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
+
+<i>Giovedì 31 marzo</i>
+<b><a href="https://www.twitch.tv/phenrir_mailoki">→ 14:30 Bloodborne PSX</b>, Co-Op <code>(feat. Phenrir)</code></a>
+<b>→ 21:30 Leggende Pokémon: Arceus</b>, FINALE <code>(feat. Cydonia)</code>
+
+<i>Venerdì 1 aprile</i>
+<b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
+
+<i>Sabato 2 aprile</i>
+<b>→ 18:00 Gears of War</b>, Gears of War Saga
+
+<i>Domenica 3 aprile</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 18:00 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
+<b>→ 17:00 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
