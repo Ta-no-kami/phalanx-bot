@@ -20,7 +20,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 2 aprile</i>
-<b>→ 18:00 Gears of War</b>, Gears of War Saga
+<b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
 <i>Domenica 3 aprile</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
