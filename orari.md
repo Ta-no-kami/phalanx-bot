@@ -6,15 +6,13 @@
 <b>→ 18:00 Gears of War</b>, Gears of War Saga
 
 <i>Martedì 29 marzo </i>
-<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 5 aprile!</i>
-<b>→ 21:30 Sifu Night</b>
+
 
 <i>Mercoledì 30 marzo</i>
-<b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
+
 
 <i>Giovedì 31 marzo</i>
-<b>→ 14:30 <a href="https://www.twitch.tv/phenrir_mailoki">Bloodborne PSX</b></a>, Co-Op <code>(feat. Phenrir)</code>
-<b>→ 21:30 Leggende Pokémon: Arceus</b>, FINALE <code>(feat. Cydonia)</code>
+
 
 <i>Venerdì 1 aprile</i>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
