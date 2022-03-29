@@ -3,6 +3,7 @@
 <b>→ Elden Ring:</b> <code>f3ll0ws</code>
 
 <i>Lunedì 28 marzo</i>
+<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 5 aprile!</i>
 <b>→ 18:00 Gears of War</b>, Gears of War Saga
 
 <i>Martedì 29 marzo </i>
