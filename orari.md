@@ -13,7 +13,7 @@
 <b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Giovedì 31 marzo</i>
-<b>→ 14:30 <a href="https://www.twitch.tv/phenrir_mailoki">Bloodborne PSX</b>, Co-Op</a> <code>(feat. Phenrir)</code>
+<b>→ 14:30 <a href="https://www.twitch.tv/phenrir_mailoki">Bloodborne PSX</b></a>, Co-Op <code>(feat. Phenrir)</code>
 <b>→ 21:30 Leggende Pokémon: Arceus</b>, FINALE <code>(feat. Cydonia)</code>
 
 <i>Venerdì 1 aprile</i>
