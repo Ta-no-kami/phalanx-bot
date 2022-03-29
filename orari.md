@@ -6,13 +6,13 @@
 <b>→ 18:00 Gears of War</b>, Gears of War Saga
 
 <i>Martedì 29 marzo </i>
-
+<b>→ 21:30 Sifu Night</b>
 
 <i>Mercoledì 30 marzo</i>
-
+<b>→ 21:30 Inscryption</b> <code>(Blind Run)</code>
 
 <i>Giovedì 31 marzo</i>
-
+<b>→ 21:30 Leggende Pokémon: Arceus</b>, FINALE <code>(feat. Cydonia)</code>
 
 <i>Venerdì 1 aprile</i>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
