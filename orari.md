@@ -14,6 +14,7 @@
 
 <i>Giovedì 7 aprile</i>
 <b>→ 18:00 Leggende Pokémon: Arceus</b>, completismo e analisi
+<b>→ 23:59 ...</b> #NVIDIAGeForceNOW #ad
 
 <i>Venerdì 8 aprile</i>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
