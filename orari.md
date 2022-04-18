@@ -2,26 +2,26 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 <b>→ Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 11 aprile</i>
+<i>Lunedì 18 aprile</i>
 <b>→ 18:00 Gears of War</b>, Gears of War Saga
 
-<i>Martedì 12 aprile </i>
-<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 19 aprile!</i>
-<b>→ 18:00 Inscryption</b>, ARG
-<b>→ 21:00 <a href="https://www.twitch.tv/phenrir_mailoki">Final Fantasy XIV</a></b> <code>(feat. Phenrir)</code>
+<i>Martedì 19 aprile </i>
+<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>
+<b>→ 21:30 Inscryption</b>, Kaycee's Mod
 
-<i>Mercoledì 13 aprile</i>
-<b>→ 21:30 Kingdom Hearts</b>
+<i>Mercoledì 20 aprile</i>
+<b>→ 21:30 Kingdom Hearts: Melody of Memory</b>, KH Saga <code>(Blind Run)</code></b>
 
-<i>Giovedì 14 aprile</i>
+<i>Giovedì 21 aprile</i>
+<b>→ 18:00 Talk Show</b>
+
+<i>Venerdì 22 aprile</i>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
-<i>Venerdì 15 aprile</i>
-<b>→ 18:00 Leggende Pokémon: Arceus</b>, completismo e analisi
-
-<i>Sabato 16 aprile</i>
+<i>Sabato 23 aprile</i>
 <b>→ 18:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
-<i>Domenica 17 aprile</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 17:00 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
+<i>Domenica 24 aprile</i>
+<b>→ Trasferta COMICON!</b> 🍃
+<s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
+<s><b>→ 17:00 Elden Ring</b>, Co-op Run (feat. Cydonia)</s>
