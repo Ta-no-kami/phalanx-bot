@@ -10,7 +10,7 @@
 <b>→ 21:30 Inscryption</b>, Kaycee's Mod
 
 <i>Mercoledì 20 aprile</i>
-<b>→ 21:30 Kingdom Hearts: Melody of Memory</b>, KH Saga <code>(Blind Run)</code></b>
+<b>→ 21:30 Kingdom Hearts: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
 
 <i>Giovedì 21 aprile</i>
 <b>→ 18:00 Talk Show</b>
