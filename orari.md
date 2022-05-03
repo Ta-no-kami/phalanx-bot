@@ -1,10 +1,10 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 2 aprile</i>
+<i>Lunedì 2 maggio</i>
 <b>→ 22:00 Anima della Scoperta VII</b>, Finale "Completismo" LIVE
 
-<i>Martedì 3 maggio </i>
+<i>Martedì 3 maggio</i>
 <b>→ 11:30 Inscryption</b>, Kaycee's Mod
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
 <b>→ 18:00 <a href="https://www.twitch.tv/slimdogsproduction">Quattro chiacchiere: videogiochi e cinema</a></b>
