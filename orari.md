@@ -7,6 +7,7 @@
 <i>Martedì 3 maggio </i>
 <b>→ 11:30 Inscryption</b>, Kaycee's Mod
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
+<b>→ 18:00 <a href="https://www.twitch.tv/slimdogsproduction">Quattro chiacchiere: videogiochi e cinema</a></b>
 
 <i>Mercoledì 4 maggio</i>
 <b>→ 15:00 Elden Ring</b>, maratona
