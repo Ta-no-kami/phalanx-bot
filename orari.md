@@ -15,17 +15,17 @@
 <b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Giovedì 5 maggio</i>
-<b>→ 15:00 Elden Ring</b>, maratona
+<b>→ 16:30 Elden Ring</b>, maratona
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Venerdì 6 maggio</i>
-<b>→ 15:00 Elden Ring</b>, maratona
-<b>→ 18:00 Gears of War 2</b>, Gears of War Saga
-<b>→ 23:00 Elden Ring</b>, maratona
+<b>→ 14:45 Elden Ring</b>, maratona
+<b>→ 19:00 Gears of War 2</b>, Gears of War Saga
+<b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Sabato 7 maggio</i>
-<b>→ 15:00 Elden Ring</b>, maratona
-<b>→ 18:00 Monster Hunter Rise</b>
+<b>→ 14:45 Elden Ring</b>, maratona
+<b>→ 19:00 Monster Hunter Rise</b>
 
 <i>Domenica 8 maggio</i>
 <b>→ Trasferta fiera Gamics Carrara!</b>
