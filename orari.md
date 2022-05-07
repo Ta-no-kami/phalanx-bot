@@ -25,7 +25,7 @@
 
 <i>Sabato 7 maggio</i>
 <b>→ 14:45 Elden Ring</b>, maratona
-<b>→ 19:00 Monster Hunter Rise</b>
+<b>→ 19:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
 <i>Domenica 8 maggio</i>
 <b>→ Trasferta fiera Gamics Carrara!</b>
