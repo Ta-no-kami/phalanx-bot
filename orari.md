@@ -10,7 +10,7 @@
 <b>→ 16:15 Elden Ring</b>, maratona
 <i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 17 maggio!</i>
 <b>→ 19:00 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
-<b>→ 23:59 Elden Ring</b>, maratona
+<b>→ 23:59 Eiyuden Chronicle: Rising</b>
 
 <i>Mercoledì 11 maggio</i>
 <b>→ 14:45 Elden Ring</b>, maratona
