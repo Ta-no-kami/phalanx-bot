@@ -18,7 +18,7 @@
 <b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Giovedì 12 maggio</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Co-op</a></b>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Co-op</a></b> <code>(feat. Phenrir)</code>
 <b>→ 14:45 Elden Ring</b>, maratona
 <b>→ 19:00 Gears of War 2</b>, Gears of War Saga
 <b>→ 23:30 Elden Ring</b>, maratona
