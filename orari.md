@@ -13,7 +13,7 @@
 
 <i>Mercoledì 18 maggio</i>
 <b>→ 14:00 Elden Ring</b>, maratona
-<b>→ 18:30 Microsoft Flight Simulator</b> <code>(feat. Papà Sabaku)</code>
+<b>→ 18:30 Microsoft Flight Simulator</b> <code>(feat. papà Sabaku)</code>
 <b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Giovedì 19 maggio</i>
