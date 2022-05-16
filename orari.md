@@ -8,7 +8,7 @@
 
 <i>Martedì 17 maggio</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
-<b>→ 16:30 <a href="https://www.twitch.tv/slimdogsproduction">Quattro chiacchiere: SlimDogs</a></b>
+<b>→ 18:15 <a href="https://www.twitch.tv/slimdogsproduction">Quattro chiacchiere: SlimDogs</a></b>
 <b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Mercoledì 18 maggio</i>
