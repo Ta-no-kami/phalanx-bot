@@ -4,7 +4,7 @@
 <i>Lunedì 16 maggio</i>
 <b>→ 14:45 Elden Ring</b>, maratona
 <b>→ 19:00 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
-<b>→ 23:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
+<b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Martedì 17 maggio</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
