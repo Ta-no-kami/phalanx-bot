@@ -13,13 +13,12 @@
 
 <i>Mercoledì 18 maggio</i>
 <b>→ 14:00 Elden Ring</b>, maratona
-<b>→ 18:30 Microsoft Flight Simulator</b> <code>(feat. papà Sabaku)</code>
+<b>→ 18:30 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
 <b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Giovedì 19 maggio</i>
-<b>→ 14:45 Elden Ring</b>, maratona
+<b>→ 14:45 Microsoft Flight Simulator</b> <code>(feat. papà Sabaku)</code>
 <b>→ 22:00 Elden Ring</b>, maratona
-<b>→ 23:59 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
 
 <i>Venerdì 20 maggio</i>
 <b>→ 14:45 Elden Ring</b>, maratona
