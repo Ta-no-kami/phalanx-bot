@@ -22,7 +22,7 @@
 
 <i>Venerdì 20 maggio</i>
 <b>→ 14:45 Elden Ring</b>, maratona
-<b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
+<s><b>→ 21:30 Elden Ring</b>, Co-op Run (feat. Cydonia)</s>
 
 <i>Sabato 21 maggio</i>
 <b>→ 18:00 Gears of War 2</b>, Gears of War Saga
