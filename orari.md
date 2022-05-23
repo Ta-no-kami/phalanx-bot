@@ -19,7 +19,7 @@
 
 <i>Giovedì 26 maggio</i>
 <b>→ 14:45 Elden Ring</b>, maratona
-<b>→ 19:00 Gears of War 2</b>, Gears of War Saga
+<b>→ 19:00 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
 <b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Venerdì 27 maggio</i>
