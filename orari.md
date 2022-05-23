@@ -14,7 +14,7 @@
 
 <i>Mercoledì 25 maggio</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Elden Ring</a></b> <code>(feat. Phenrir)</code>
-<b>→ 17:00 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: Playstation</a></b>
+<b>→ 17:00 <a href="https://www.twitch.tv/playstation_it">Quattro chiacchiere: PlayStation</a></b>
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Giovedì 26 maggio</i>
@@ -27,7 +27,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 28 maggio</i>
-<b>→ 18:00 Live Progaming - inclusività e gaming (link in arrivo)</b>
+<b>→ 18:00 Live Progaming - inclusività e gaming</b>
 <b>→ 23:59 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
 <i>Domenica 29 maggio</i>
