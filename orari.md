@@ -27,7 +27,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 28 maggio</i>
-<b>→ 18:00 Live Progaming - inclusività e gaming</b>
+<b>→ 18:00 <a href="https://www.twitch.tv/virtualarena_it">Quattro chiacchiere: Virtual Arena 2022 - inclusività e gaming</a></b>
 <b>→ 23:59 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 
 <i>Domenica 29 maggio</i>
