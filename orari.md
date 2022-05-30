@@ -3,7 +3,6 @@
 
 <i>Lunedì 30 maggio</i>
 <b>→ 14:45 Elden Ring</b>, maratona
-<b>→ 19:00 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
 
 <i>Martedì 31 maggio</i>
 <b>→ 16:00 <a href="https://www.twitch.tv/everyeyeit">Quattro chiacchiere: Everyeyeit</a></b>
@@ -27,7 +26,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 4 maggio</i>
-<b>→ Niente live! Preparazioni per Update</b> 🎯
+<b>→ 17:00 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
 
 <i>Domenica 5 maggio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
