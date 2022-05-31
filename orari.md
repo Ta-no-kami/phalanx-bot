@@ -10,24 +10,24 @@
 <b>→ 19:00 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
 <b>→ 23:30 Elden Ring</b>, maratona
 
-<i>Mercoledì 1 maggio</i>
+<i>Mercoledì 1 giugno</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Elden Ring</a></b> <code>(feat. Phenrir)</code>
 <b>→ 14:45 Elden Ring</b>, maratona
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
-<i>Giovedì 2 maggio</i>
+<i>Giovedì 2 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
 <b>→ 19:00 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
 <b>→ 23:00 Eventi speciali: State of Play | PlayStation</b>
 <b>→ 23:30 Elden Ring</b>, maratona
 
-<i>Venerdì 3 maggio</i>
+<i>Venerdì 3 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
 <b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
 
-<i>Sabato 4 maggio</i>
+<i>Sabato 4 giugno</i>
 <b>→ 17:00 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
 
-<i>Domenica 5 maggio</i>
+<i>Domenica 5 giugno</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 <b>→ 14:45 Elden Ring</b>, finale?
