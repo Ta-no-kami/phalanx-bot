@@ -8,12 +8,12 @@
 <b>→ 16:00 <a href="https://www.twitch.tv/everyeyeit">Quattro chiacchiere: Everyeyeit</a></b>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
 <b>→ 19:00 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
-<b>→ 23:30 Elden Ring</b>, maratona
+<b>→ 21:45 Elden Ring</b>, maratona
 
 <i>Mercoledì 1 giugno</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Elden Ring</a></b> <code>(feat. Phenrir)</code>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">A Way Out</a></b> <code>(feat. Phenrir)</code>
 <b>→ 14:45 Elden Ring</b>, maratona
-<b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
+<s><b>→ 21:30 Elden Ring</b>, Co-op Run for Cydonia</s>
 
 <i>Giovedì 2 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
