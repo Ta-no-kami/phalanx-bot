@@ -14,6 +14,7 @@
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">A Way Out</a></b> <code>(feat. Phenrir)</code>
 <b>→ 14:45 Elden Ring</b>, maratona
 <s><b>→ 21:30 Elden Ring</b>, Co-op Run for Cydonia</s>
+<b>→ 22:00 Elden Ring</b>, maratona
 
 <i>Giovedì 2 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
