@@ -19,8 +19,8 @@
 <i>Giovedì 2 giugno</i>
 <s><b>→ 14:45 Elden Ring</b>, maratona</s>
 <b>→ 19:00 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
-<b>→ 23:00 Eventi speciali: State of Play | PlayStation</b>
-<b>→ 23:30 Elden Ring</b>, maratona
+<b>→ 23:00 Elden Ring</b>, maratona
+<b>→ 23:59 Eventi speciali: State of Play | PlayStation</b>
 
 <i>Venerdì 3 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
