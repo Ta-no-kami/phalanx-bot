@@ -24,11 +24,11 @@
 
 <i>Venerdì 3 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
-<b>→ 21:30 Elden Ring</b>, Co-op Run <code>(feat. Cydonia)</code>
+<b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 4 giugno</i>
 <b>→ 17:00 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
 
 <i>Domenica 5 giugno</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 14:45 Elden Ring</b>, finale?
+<b>→ 17:00 Elden Ring</b>, maratona
