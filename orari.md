@@ -20,8 +20,8 @@
 <i>Giovedì 9 giugno</i>
 <b>→ 14:45 ...</b> #NVIDIAGeForceNOW
 <b>→ 15:45 Elden Ring</b>, maratona
-<b>→ 19:00 Eventi speciali: Summer Game Fest 2022</b>
-<b>→ 23:30 Eventi speciali: Devolver Digital Showcase</b>
+<b>→ 19:00 ES: Summer Game Fest 2022</b> 🏖️
+<b>→ 23:30 ES: Devolver Direct 2022</b> 🚀
 
 <i>Venerdì 10 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona (extra: PvP twink)
@@ -29,9 +29,9 @@
 
 <i>Sabato 11 giugno</i>
 <b>→ 16:00 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
-<b>→ 20:45 Eventi speciali: Future Games Show | GamesRadar</b>
+<b>→ 20:45 ES: Future Games Show</b> 🔮
 
 <i>Domenica 12 giugno</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 15:20 Eventi speciali: Xbox & Bethesda Games Showcase</b>
-<b>→ 20:40 Eventi speciali: PC Gaming Show</b>
+<b>→ 15:20 ES: Xbox & Bethesda Games Showcase</b> 🎮
+<b>→ 20:40 ES: PC Gaming Show</b> 🖥️
