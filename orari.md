@@ -3,7 +3,7 @@
 
 <i>Lunedì 6 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
-<b>→ 19:45 <a href="https://www.twitch.tv/phenrir_mailoki">Quattro chiacchiere: FFXVI</a></b> <code>Phenrir, B. Farey, J. Masera</code>
+<b>→ 19:45 <a href="https://www.twitch.tv/phenrir_mailoki">Quattro chiacchiere: FFXVI</a></b> <code>Phenrir, Farey, Masera</code>
 <b>→ 23:00 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
 
 <i>Martedì 7 giugno</i>
@@ -20,8 +20,8 @@
 <i>Giovedì 9 giugno</i>
 <b>→ 14:45 ...</b> #NVIDIAGeForceNOW
 <b>→ 15:45 Elden Ring</b>, maratona
-<b>→ 19:00 ES: Summer Game Fest 2022</b> 🏖️
-<b>→ 23:30 ES: Devolver Direct 2022</b> 🚀
+<b>→ 19:00 Summer Game Fest 2022</b> 🏖️
+<b>→ 23:30 Devolver Direct 2022</b> 🚀
 
 <i>Venerdì 10 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona (extra: PvP twink)
@@ -29,9 +29,9 @@
 
 <i>Sabato 11 giugno</i>
 <b>→ 16:00 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
-<b>→ 20:45 ES: Future Games Show</b> 🔮
+<b>→ 20:45 Future Games Show</b> 🔮
 
 <i>Domenica 12 giugno</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 15:20 ES: Xbox & Bethesda Games Showcase</b> 🎮
-<b>→ 20:40 ES: Glorious PC Master Race Gaming Show</b> 🖥️ 
+<b>→ 15:20 Xbox & Bethesda Games Showcase</b> 🎮
+<b>→ 20:40 Glorious PC Master Race Gaming Show</b> 🖥️ 
