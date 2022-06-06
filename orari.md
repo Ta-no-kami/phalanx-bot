@@ -4,7 +4,7 @@
 <i>Lunedì 6 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
 <b>→ 19:45 <a href="https://www.twitch.tv/phenrir_mailoki">Quattro chiacchiere: FFXVI</a></b> <code>Phenrir, Farey, Masera</code>
-<b>→ 23:00 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
+<b>→ 23:59 KH: Melody of Memory</b>, KH Saga <code>(Blind Run)</code>
 
 <i>Martedì 7 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
