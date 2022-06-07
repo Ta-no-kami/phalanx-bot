@@ -8,7 +8,7 @@
 
 <i>Martedì 7 giugno</i>
 <b>→ 14:45 Elden Ring</b>, maratona
-<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 13 giugno!</i>
+<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 14 giugno!</i>
 <b>→ 19:00 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
 <b>→ 23:30 Elden Ring</b>, maratona
 
