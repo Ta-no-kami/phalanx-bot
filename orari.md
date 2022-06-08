@@ -10,7 +10,7 @@
 <b>→ 14:45 Elden Ring</b>, maratona
 <i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 14 giugno!</i>
 <b>→ 20:00 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
-<b>→ +01:00 Elden Ring</b>, maratona
+<b>→ 23:30 Elden Ring</b>, maratona
 
 <i>Mercoledì 8 giugno</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">A Way Out</a></b> <code>Phenrir</code>
