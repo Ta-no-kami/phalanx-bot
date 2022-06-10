@@ -24,10 +24,12 @@
 <b>→ 23:30 Devolver Direct 2022</b> 🚀
 
 <i>Venerdì 10 giugno</i>
-<b>→ 14:45 Elden Ring</b>, maratona (extra: PvP twink)
+<b>→ 14:45 Join The Indie</b> 🇮🇹
+<b>→ 17:30 Mario Strikers</b> <code>(feat. Cydonia)</code>
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 11 giugno</i>
+<b>→ 10:30 Elden Ring</b>, maratona
 <b>→ 16:00 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
 <b>→ 20:45 Future Games Show</b> 🔮
 
