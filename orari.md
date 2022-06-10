@@ -35,5 +35,5 @@
 
 <i>Domenica 12 giugno</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 15:20 Xbox & Bethesda Games Showcase</b> 🎮
+<b>→ 18:20 Xbox & Bethesda Games Showcase</b> 🎮
 <b>→ 20:40 Glorious PC Master Race Gaming Show</b> 💪
