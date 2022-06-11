@@ -18,7 +18,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
 <i>Giovedì 9 giugno</i>
-<b>→ 14:45 ...</b> #NVIDIAGeForceNOW
+<b>→ 14:45 ???</b> #NVIDIAGeForceNOW
 <b>→ 15:45 Elden Ring</b>, maratona
 <b>→ 19:00 Summer Game Fest 2022</b> 🏖️
 <b>→ 23:30 Devolver Direct 2022</b> 🚀
