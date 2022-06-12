@@ -35,6 +35,6 @@
 <i>Domenica 12 giugno</i>
 <b>→ 10:30 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
 <s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
-<b>→ 14:35 Mario Strikers: Battle League Footbal</b>, Torneo Twitch Cup <code>(feat. Kyrenis)</code>
+<b>→ 14:35 Mario Strikers</b>, Torneo Twitch Cup <code>(feat. Kyrenis)</code>
 <b>→ 18:20 Xbox & Bethesda Games Showcase</b> 🎮
 <b>→ 20:40 Glorious PC Master Race Gaming Show</b> 💪
