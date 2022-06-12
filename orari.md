@@ -25,7 +25,7 @@
 
 <i>Venerdì 10 giugno</i>
 <b>→ 14:45 Join The Indie</b> 🇮🇹
-<b>→ 17:30 Mario Strikers: Battle League Footbal</b> <code>(feat. Cydonia)</code>
+<b>→ 17:30 Mario Strikers: Battle League</b> <code>(feat. Cydonia)</code>
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 11 giugno</i>
