@@ -25,7 +25,7 @@
 
 <i>Venerdì 10 giugno</i>
 <b>→ 14:45 Join The Indie</b> 🇮🇹
-<b>→ 17:30 Mario Strikers</b> <code>(feat. Cydonia)</code>
+<b>→ 17:30 Mario Strikers: Battle League Footbal</b> <code>(feat. Cydonia)</code>
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 11 giugno</i>
@@ -35,5 +35,6 @@
 <i>Domenica 12 giugno</i>
 <b>→ 10:30 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
 <s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
+<b>→ 14:35 Mario Strikers: Battle League Footbal</b>, Torneo Twitch Cup <code>(feat. Kyrenis)</code>
 <b>→ 18:20 Xbox & Bethesda Games Showcase</b> 🎮
 <b>→ 20:40 Glorious PC Master Race Gaming Show</b> 💪
