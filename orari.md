@@ -2,6 +2,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
 <i>Lunedì 13 giugno</i>
+<b>→ Trasferta in UK!</b> 🇬🇧
 <b>→ 23:30 Capcom Showcase 2022</b> 🛹
 
 <i>Martedì 14 giugno</i>
