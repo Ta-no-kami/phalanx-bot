@@ -12,9 +12,9 @@
 <b>→ Rientro dalla trasferta</b> 🛬
 
 <i>Giovedì 16 giugno</i>
-<b>→ 11:30 FINAL FANTASY VII 25th Anniversary Celebration</b> ✨
 <b>→ 17:00 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
+<b>→ 23:59 FINAL FANTASY VII 25th Anniversary Celebration</b> ✨
 
 <i>Venerdì 17 giugno</i>
 <b>→ TBA</b>
