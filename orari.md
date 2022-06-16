@@ -17,10 +17,14 @@
 <b>→ 23:59 FINAL FANTASY VII 25th Anniversary Celebration</b> ✨
 
 <i>Venerdì 17 giugno</i>
-<b>→ TBA</b>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live: A Way Out</a></b>
+<b>→ 18:00 Gears of War 2</b>, Gears of War Saga <code>(Blind Run)</code>
+<b>→ 22:00 <a href="https://www.twitch.tv/dariomocciatwitch">Pub dell'Amico di Dario Moccia</a></b>
 
 <i>Sabato 18 giugno</i>
-<b>→ TBA</b>
+<b>→ 14:45 Maratona Elden Ring</b>: EXTRA (99 arcano + twink PvP)
+<b>→ 19:00 Monster Hunter Rise</b>, IL RITORNO pre Sunbreak
 
 <i>Domenica 19 giugno</i>
-<b>→ TBA</b>
+<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
+<b>→ 17:00 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
