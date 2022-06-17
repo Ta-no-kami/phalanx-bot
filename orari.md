@@ -22,8 +22,8 @@
 <b>→ 22:00 <a href="https://www.twitch.tv/dariomocciatwitch">Pub dell'Amico di Dario Moccia</a></b>
 
 <i>Sabato 18 giugno</i>
-<b>→ 14:45 Maratona Elden Ring</b>: EXTRA (99 arcano + twink PvP)
-<b>→ 19:00 Monster Hunter Rise</b>, IL RITORNO pre Sunbreak
+<s><b>→ 14:45 Maratona Elden Ring</b>: EXTRA (99 arcano + twink PvP)</s>
+<s><b>→ 19:00 Monster Hunter Rise</b>, IL RITORNO pre Sunbreak</s>
 
 <i>Domenica 19 giugno</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
