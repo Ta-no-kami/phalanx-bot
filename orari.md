@@ -22,7 +22,7 @@
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 25 giugno</i>
-<b>→ 14:45 Maratona Elden Ring: EXTRA</b>, drop con 99 arcano e twink PvP
+<b>→ 14:45 Maratona Elden Ring: EXTRA</b>, 99 arcano e twink PvP
 
 <i>Domenica 26 giugno</i>
 <b>→ Trasferta al Nerd Show Bologna 2022!</b> 🤓
