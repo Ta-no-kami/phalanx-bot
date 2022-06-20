@@ -5,7 +5,7 @@
 <b>→ 16:00 Monster Hunter Rise</b>, IL RITORNO pre Sunbreak
 
 <i>Martedì 21 giugno</i>
-<b>→ 16:00 <a href="https://www.twitch.tv/redbullit">Red Bull OP - con Sabaku no Maiku, Vking e Marco Mottura</a></b>
+<b>→ 16:00 <a href="https://www.twitch.tv/redbullit">Red Bull OP - con Sabaku, Vking e Marco Mottura</a></b>
 <i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 28 giugno!</i>
 
 <i>Mercoledì 22 giugno</i>
