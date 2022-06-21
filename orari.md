@@ -11,6 +11,7 @@
 
 <i>Mercoledì 22 giugno</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live: A Way Out</a></b>
+<b>→ 15:30 Nintendo Direct: Xenoblade Chronicles 3</b>
 <b>→ 21:30 Inscryption</b>, Kaycee's Mod <code>(Blind Run)</code>
 
 <i>Giovedì 23 giugno</i>
