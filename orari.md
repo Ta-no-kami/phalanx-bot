@@ -7,6 +7,7 @@
 <i>Martedì 21 giugno</i>
 <b>→ 16:00 <a href="https://www.twitch.tv/redbullit">Red Bull OP - con Sabaku, Vking e Marco Mottura</a></b>
 <i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 28 giugno!</i>
+<b>→ 23:59 Talk Show: Top Gun Maverick</b>
 
 <i>Mercoledì 22 giugno</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live: A Way Out</a></b>
