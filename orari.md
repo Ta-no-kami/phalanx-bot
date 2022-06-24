@@ -25,6 +25,7 @@
 
 <i>Sabato 25 giugno</i>
 <b>→ 14:45 Maratona Elden Ring: EXTRA</b>, 99 arcano e twink PvP
+<b>→ 18:00 Talk Show: SUTORIIMAA 2.5</b>
 
 <i>Domenica 26 giugno</i>
 <b>→ Trasferta al Nerd Show Bologna 2022!</b> 🤓
