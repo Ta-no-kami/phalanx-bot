@@ -20,7 +20,7 @@
 <b>→ 23:59 Genshin Impact</b> #NVIDIAGeForceNOW
 
 <i>Venerdì 24 giugno</i>
-<b>→ 17:00 Talk Show: SUTORIIMAA 2.5</b>
+<s><b>→ 17:00 Talk Show: SUTORIIMAA 2.5</b></s>
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 25 giugno</i>
