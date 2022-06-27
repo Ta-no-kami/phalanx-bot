@@ -16,7 +16,7 @@
 
 <i>Giovedì 30 luglio</i>
 <b>→ 17:00 The Witcher</b> <code>(Saga backlog, Blind Run)</code>
-<b>→ 21:30 Retrogame Format: START</b>, il gioco sarà una sorpresa!
+<b>→ 21:30 Retrogame Format: START</b>, il gioco sarà una sorpresa! 🕹️
   
 <i>Venerdì 1 luglio, <ins>inizio subgoal!</ins></i>
 <b>→ 17:00 Talk Show</b> 🎤
