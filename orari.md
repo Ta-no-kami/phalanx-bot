@@ -5,6 +5,8 @@
 <b>→ 17:00 The Witcher</b>, introduzione <code>(Saga backlog: blind run)</code>
 
 <i>Martedì 28 giugno</i>
+<b>→ 14:00 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE EXTRA
+<b>→ 15:00 Eventi speciali: Nintendo Direct</b> ✨
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
 <b>→ 18:00 Death's Door</b> <code>(Jolly: blind run)</code>
 <b>→ 22:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
