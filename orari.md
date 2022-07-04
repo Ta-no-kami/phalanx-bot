@@ -1,32 +1,31 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 27 giugno</i>
-<b>→ 17:00 The Witcher</b>, introduzione <code>(Saga backlog: blind run)</code>
+<i>Lunedì 4 luglio</i>
+<b>→ 17:00 The Witcher</b> <code>(Saga backlog: blind run)</code>
 
-<i>Martedì 28 giugno</i>
-<b>→ 14:00 The Binding of Isaac: Repentance</b>, EXTRA
-<b>→ 15:00 Eventi speciali: Nintendo Direct</b> ✨
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
+<i>Martedì 5 luglio</i>
+<i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 12 luglio!</i>
 <b>→ 18:00 Death's Door</b> <code>(Jolly: blind run)</code>
 <b>→ 22:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
 
-<i>Mercoledì 29 giugno</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live: A Way Out</a></b>
-<b>→ 17:00 Outriders Worldslayer</b>, Sponsored <code>feat. Yotobi & Gatto</code>
+<i>Mercoledì 6 luglio</i>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live: Cuphead</a></b>
+<b>→ 17:00 MH Rise: Sunbreak</b> <code>(Spostata causa live sponsor)</code>
 <b>→ 21:30 Inscryption</b>, Kaycee's Mod <code>(Jolly: blind run)</code>
 
-<i>Giovedì 30 luglio</i>
-<b>→ 17:00 The Witcher</b> <code>(Saga backlog: blind run)</code>
-<b>→ 21:30 Retrogame Format: START</b>, il gioco sarà una sorpresa! 🕹️
+<i>Giovedì 7 luglio</i>
+<s><b>→ 17:00 The Witcher</b> (Saga backlog: blind run)</s>
+<b>→ 17:00 <a href="https://www.twitch.tv/playstation_it">PlayStationIT</a></b> <code>(feat. Phenrir & PlayerInside)</code>
+<b>→ 21:30 Retrogame Format: Sky Odyssey</b> 🕹️
   
-<i>Venerdì 1 luglio, <ins>inizio subgoal!</ins></i>
+<i>Venerdì 8 luglio</i>
 <b>→ 17:00 Talk Show</b> 🎤
 <b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
 
-<i>Sabato 2 luglio</i>
-<b>→ 10:30 MH Rise: Sunbreak</b>, G-RANK START <code>Maratona 12 ore!</code>
+<i>Sabato 9 luglio</i>
+<b>→ 18:00 [S]abato Sponsor: Outriders Worldslayer</b>
 
-<i>Domenica 3 luglio</i>
+<i>Domenica 10 luglio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 <b>→ 17:00 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
