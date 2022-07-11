@@ -10,20 +10,20 @@
 <b>→ 22:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
 
 <i>Mercoledì 13 luglio</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live: Cuphead</a></b>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live, Beyond: Due anime</a></b>
 <b>→ 21:30 Inscryption</b>, Kaycee's Mod <code>(Jolly: blind run)</code>
 
 <i>Giovedì 14 luglio</i>
-<s><b>→ 17:00 The Witcher</b> (Saga backlog: blind run)</s>
-<s><b>→ 21:30 Retrogame Format: Sky Odyssey</b></s> 🕹️
+<b>→ 17:00 The Witcher</b> (Saga backlog: blind run)
+<b>→ 21:30 Retrogame Format: Sky Odyssey</b> 🕹️
   
 <i>Venerdì 15 luglio</i>
-<b>→ 17:00 Talk Show</b> 🎤
-<b>→ 21:30 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
+<s><b>→ 17:00 Talk Show</b></s> 🎤
+<s><b>→ 21:30 Elden Ring</b>, Co-op Run for Cydonia</s>
 
 <i>Sabato 16 luglio</i>
-<b>→ 18:00 Monster Hunter Rise: Sunbreak</b>
+<s><b>→ 18:00 Monster Hunter Rise: Sunbreak</b></s>
 
 <i>Domenica 17 luglio</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
-<b>→ 17:00 Elden Ring</b>, Co-op Run for <code>Cydonia</code>
+<s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE</s>
+<s><b>→ 17:00 Elden Ring</b>, Co-op Run for Cydonia</s>
