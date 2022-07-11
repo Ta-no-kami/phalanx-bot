@@ -14,7 +14,7 @@
 <b>→ 21:30 Inscryption</b>, Kaycee's Mod <code>(Jolly: blind run)</code>
 
 <i>Giovedì 14 luglio</i>
-<b>→ 17:00 The Witcher</b> (Saga backlog: blind run)
+<b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
 <b>→ 21:30 Retrogame Format: Sky Odyssey</b> 🕹️
   
 <i>Venerdì 15 luglio</i>
