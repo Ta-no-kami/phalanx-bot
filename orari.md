@@ -18,7 +18,7 @@
 <b>→ 21:30 Retrogame Format: Sky Odyssey</b> 🕹️
   
 <i>Venerdì 22 luglio</i>
-<b>→ 17:00 Talk Show</b></s> 🎤
+<b>→ 17:00 Talk Show</b> 🎤
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 23 luglio</i>
