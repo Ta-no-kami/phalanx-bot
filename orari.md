@@ -12,7 +12,6 @@
 <i>Mercoledì 20 luglio</i>
 <b>→ In trasferta!</b> 🛩️
 <s><b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live</a></b></s>
-<s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for Cydonia </s>
 
 <i>Giovedì 21 luglio</i>
 <b>→ In trasferta!</b> 🛩️
