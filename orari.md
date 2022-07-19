@@ -5,7 +5,7 @@
 <b>→ 18:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
 
 <i>Martedì 19 luglio</i>
-<b>→ 16:00 Death's Door</b> <code>(Jolly: blind run)</code>
+<b>→ 16:00 Death's Door</b> 💀 <code>(Jolly: blind run)</code>
 <i><s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>, ci vediamo il 26 luglio!</i>
 <s><b>→ 22:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE</s>
 
