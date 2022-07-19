@@ -24,7 +24,7 @@
 <s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for Cydonia</s>
 
 <i>Sabato 23 luglio</i>
-<b>→ 18:00 Monster Hunter Rise: Sunbreak</b>
+<b>→ 18:00 Monster Hunter Rise: Sunbreak</b> 👹
 
 <i>Domenica 24 luglio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
