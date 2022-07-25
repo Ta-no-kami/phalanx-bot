@@ -7,8 +7,8 @@
 
 <i>Martedì 26 luglio</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Old Gen</a></b>
-<b>→18:00 Death’s Door</b> (Blind Run)
-<b>→20:00 Poly Quiz Show</b>
+<b>→ 18:00 Death’s Door</b> (Blind Run)
+<b>→ 20:00 Poly Quiz Show</b>
 
 <i>Mercoledì 27 luglio</i>
 <b>→ In trasferta!</b> 🛩️
