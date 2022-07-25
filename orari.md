@@ -6,7 +6,7 @@
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
 
 <i>Martedì 19 luglio</i>
-<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Old Gen</a></b></s> 
+<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Old Gen</a></b>
 <b>→18:00 Death’s Door</b> (Blind Run)
 <b>→20:00 Poly Quiz Show</b>
 
