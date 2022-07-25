@@ -26,4 +26,3 @@
 <i>Domenica 31 luglio</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell'Arcade LIVE
 <b>→ 17:00 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
-7
