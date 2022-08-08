@@ -5,7 +5,7 @@
 <b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
 
 <i>Martedì 9 agosto</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live - Attack on Titan Requiem</a></b>, 
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live - Attack on Titan Requiem</a></b>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
 <b>→ 18:00 Death’s Door</b> 💀 <code>(Jolly: blind run)</code>
 <b>→ 22:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
@@ -27,5 +27,5 @@
 <b>→ 18:00 Monster Hunter Rise: Sunbreak</b> 👹
 
 <i>Domenica 14 agosto</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE
+<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE 🕹️
 <b>→ 17:00 Gears of War 3</b> <code>(Jolly: blind run)</code>
