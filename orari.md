@@ -27,5 +27,5 @@
 <b>→ 18:00 Monster Hunter Rise: Sunbreak</b> 👹
 
 <i>Domenica 14 agosto</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE 🕹️
+<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE
 <b>→ 17:00 Gears of War 3</b> <code>(Jolly: blind run)</code>
