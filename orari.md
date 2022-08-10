@@ -15,7 +15,8 @@
 <b>→ dopo Dark Souls II</b>
 
 <i>Giovedì 11 agosto</i>
-<b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
+<s><b>→ 17:00 The Witcher</b> (Saga backlog: blind run)</s>
+<b>→ 17:00 Cult of the Lamb</b> 🛐
 <b>→ 21:30 Tenchu</b> 🥷 <code>(Retrogame format)</code>
 
 <i>Venerdì 12 agosto</i>
