@@ -18,8 +18,9 @@
 <b>→ 21:30 Tenchu</b> 🥷 <code>(Retrogame format: riscoperta)</code>
 
 <i>Venerdì 19 agosto</i>
-<b>→ 17:00 Talk Show: tier list dei boss di FromSoftware</b> 🎤
-<b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
+<b>→ 17:00 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
+<s><b>→ 17:00 Talk Show</b></s> 🎤
+<b>→ 21:30 <a href="https://www.twitch.tv/dariomocciatwitch">Dario Moccia - Pub del Nerd</a></b>
 
 <i>Sabato 20 agosto</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Extra</a></b>
