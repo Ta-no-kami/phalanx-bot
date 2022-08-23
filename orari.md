@@ -11,7 +11,7 @@
 <b>→ 19:00 gamescom: opening night live</b> 🌃 <code>(feat. Phenrir)</code>
 
 <i>Mercoledì 24 agosto</i>
-<b>→ 14:30 Death’s Door</b> 💀 <code>(Recupero: blind run)</code>
+<b>→ 14:00 Death’s Door</b> 💀 <code>(Recupero: blind run)</code>
 <b>→ 19:30 Future Games Show 2022</b> 🔮
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
 
