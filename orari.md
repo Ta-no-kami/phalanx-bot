@@ -6,7 +6,7 @@
 <b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
 
 <i>Martedì 23 agosto</i>
-<b>→ 14:00 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
+<b>→ 14:00 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE 
 <s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s> 💬
 <b>→ 19:00 gamescom: opening night live</b> 🌃 <code>(feat. Phenrir)</code>
 
@@ -25,7 +25,7 @@
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 27 agosto</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Extra</a></b>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Extra - Baldo: The Guardian Owls</a></b>
 <b>→ 17:00 Splatoon 3</b> <code>(feat. Cydonia, Kyrenis e Kodomo)</code>
 <s><b>→ 17:00 Monster Hunter Rise: Sunbreak</b></s> 👹
 
