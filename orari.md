@@ -22,7 +22,6 @@
 
 <i>Venerdì 26 agosto</i>
 <b>→ 17:00 Awesome Indies Show 2022</b> ✨
-<s><b>→ 17:00 Talk Show</b></s> 🎤
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
 
 <i>Sabato 27 agosto</i>
