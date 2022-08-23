@@ -27,8 +27,10 @@
 
 <i>Sabato 27 agosto</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Extra</a></b>
+<b>→ 17:00 Splatoon 3 <code>(feat. Cydonia, Kyrenis e Kodomo)</code>
 <s><b>→ 17:00 Monster Hunter Rise: Sunbreak</b></s> 👹
 
 <i>Domenica 28 agosto</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE
-<b>→ 17:00 Gears of War 3</b> <code>(Jolly: blind run)</code>
+<b>→ 17:00 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
+<s><b>→ 17:00 Gears of War 3</b> <code>(Jolly: blind run)</code></s>
