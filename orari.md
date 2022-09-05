@@ -2,7 +2,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
 <i>Lunedì 5 settembre</i>
-<b>→ 17:00 The Last of Us Part I (remake)</b>, 2 di 2 #adv <code>(feat. Mangaka96)</code></s>
+<b>→ 17:00 The Last of Us Part I (remake)</b>, 2 di 2 #adv <code>(feat. Mangaka96)</code>
 <s><b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code></s>
 
 <i>Martedì 6 settembre</i>
