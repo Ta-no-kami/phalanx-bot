@@ -14,7 +14,6 @@
 <i>Mercoledì 7 settembre</i>
 <b>→ 10:30 Death's Door</b> 💀 <code>(Recupero: completismo 100%)</code>
 <b>→ ??? Live da MOBA Milano</b>, lancio di Steelrising
-<s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for Cydonia</s> 
 
 <i>Giovedì 8 settembre</i>
 <b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
@@ -23,7 +22,7 @@
 <i>Venerdì 9 settembre</i>
 <b>→ 10:30 Gears of War 3</b> ⚙️ <code>(Recupero: blind run)</code>
 <b>→ 17:00 Marvel’s Spider-Man Remastered (pc)</b>, con chiacchiere 🎤
-<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
+<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 10 settembre</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live - Super Seducer</a></b>
@@ -32,4 +31,4 @@
 
 <i>Domenica 11 settembre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE
-<b>→ 17:00 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
+<b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
