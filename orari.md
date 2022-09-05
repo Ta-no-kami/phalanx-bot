@@ -12,7 +12,7 @@
 <s><b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE</s>
 
 <i>Mercoledì 7 settembre</i>
-<b>→ 10:30 Death's Door</b> 💀 <code>(completismo 100%)</code>
+<b>→ 10:30 Death's Door</b> 💀 <code>(Recupero: completismo 100%)</code>
 <b>→ ??? Live da MOBA Milano</b>, lancio di Steelrising
 <s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for Cydonia</s> 
 
