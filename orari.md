@@ -21,7 +21,7 @@
 <b>→ 21:30 Tenchu</b> 🥷 <code>(Retrogame format: riscoperta)</code>
 
 <i>Venerdì 9 settembre</i>
-<b>→ 10:30 Gears of War 3</b> <code>(Recupero: blind run)</code>
+<b>→ 10:30 Gears of War 3</b> ⚙️ <code>(Recupero: blind run)</code>
 <b>→ 17:00 Marvel’s Spider-Man Remastered (pc)</b>, con chiacchiere 🎤
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run for <code>Cydonia</code>
 
