@@ -6,7 +6,7 @@
 <s><b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code></s>
 
 <i>Martedì 6 settembre</i>
-<b>→ 10:30 Steelrising</b> <code>(demo)</code>
+<b>→ 12:30 Steelrising</b> <code>(pre-release)</code>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
 <b>→ 21:30 Dark Souls: Remastered</b>, in attesa della patch alla Cinders
 <s><b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE</s>
