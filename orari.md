@@ -13,7 +13,7 @@
 
 <i>Mercoledì 7 settembre</i>
 <s><b>→ 10:30 Death's Door</b> 💀 <code>(Recupero: completismo 100%)</code></s>
-<b>→ ??? Live da MOBA Milano</b>, lancio di Steelrising
+<b>→ Trasferta al MOBA Milano, per il lancio di Steelrising!</b>
 
 <i>Giovedì 8 settembre</i>
 <b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
