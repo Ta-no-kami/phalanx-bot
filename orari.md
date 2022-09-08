@@ -12,7 +12,6 @@
 <s><b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE</s>
 
 <i>Mercoledì 7 settembre</i>
-<s><b>→ 10:30 Death's Door</b> 💀 <code>(Recupero: completismo 100%)</code></s>
 <b>→ Trasferta al MOBA Milano, per il lancio di Steelrising!</b>
 
 <i>Giovedì 8 settembre</i>
@@ -26,8 +25,10 @@
 
 <i>Sabato 10 settembre</i>
 <b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live - Super Seducer</a></b>
-<b>→ 17:00 Kingdom Maker</b>, [S]abato Sponsor
+<b>→ 17:00 Death's Door</b> 💀 <code>(recupero:completismo 100%)</code>
+<s><b>→ 17:00 Kingdom Maker</b>, [S]abato Sponsor</s>
 <s><b>→ 17:00 Monster Hunter Rise: Sunbreak</b> 👹</s>
+<b>→ 21:00 Ubisoft Forward</b>
 
 <i>Domenica 11 settembre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE
