@@ -11,17 +11,23 @@
 <s><b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE</s>
 
 <i>Mercoledì 14 settembre</i>
-<b>→ 10:00 Quattro chiacchiere: Salotto del Videoludo (<a href="https://www.twitch.tv/roundtwotwitch">RoundTwo</a>)</b> 💬
+<b>→ 10:00 Quattro chiacchiere: Salotto del Videoludo (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> 💬
 <b>→ 12:00 Viaggi: Asakusa</b> 🗾
-<b>→ 14:30 Viaggi: Shibuya (<a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a>)</b> 🗾
+<b>→ 14:30 Viaggi: Shibuya (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia & Chiara</a>)</b> 🗾
 
 <i>Giovedì 15 settembre</i>
-<b>→ 10:00 Tokyo Game Show 2022 (<a href="https://www.twitch.tv/roundtwotwitch">RoundTwo</a>)</b> ✨
-<b>→ 12:00 Talk Show (<a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a>)</b> 🎤
+<b>→ 10:00 Tokyo Game Show 2022 (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> ✨
+<b>→ 12:00 Talk Show (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia & Chiara</a>)</b> 🎤
 <b>→ 14:30 Talk Show</b> 🎤
 
 <i>Venerdì 16 settembre</i>
+<b>→ 10:00 Talk Show (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> 🎤
+<b>→ 12:00 Talk Show</b> 🎤
+<b>→ 16:30 Quattro chiacchiere: Salotto del Videoludo (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia & Chiara</a>)</b> 💬
 
 <i>Sabato 17 settembre</i>
+<b>→ 10:00 Viaggi: sale giochi retrò (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> 🕹️
+<b>→ 12:00 Viaggi: sale giochi picchiaduro (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia & Chiara</a>)</b> 🕹️
+<b>→ 16:30 Viaggi: sale giochi VR</b> 🕹️
 
 <i>Domenica 18 settembre</i>
