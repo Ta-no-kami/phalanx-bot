@@ -1,35 +1,27 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 5 settembre</i>
-<b>→ 17:00 The Last of Us Part I</b>, 2 di 2 #adv <code>(feat. Mangaka96)</code>
+<i>Lunedì 12 settembre</i>
+<b>→ 17:00 Splatoon 3</b> #adv
 <s><b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code></s>
 
-<i>Martedì 6 settembre</i>
-<b>→ 12:30 Steelrising</b> <code>(pre-release)</code>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
-<b>→ 21:30 Dark Souls: Remastered</b>, in attesa della patch alla Cinders
+<i>Martedì 13 settembre</i>
+<b>→ In viaggio!</b> 🛫
+<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬</s>
 <s><b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE</s>
 
-<i>Mercoledì 7 settembre</i>
-<b>→ Trasferta al MOBA Milano, per il lancio di Steelrising!</b>
+<i>Mercoledì 14 settembre</i>
+<b>→ 10:00 Quattro chiacchiere: Salotto del Videoludo (<a href="https://www.twitch.tv/roundtwotwitch">RoundTwo</a>)</b> 💬
+<b>→ 12:00 Viaggi: Asakusa</b> 🗾
+<b>→ 14:30 Viaggi: Shibuya (<a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a>)</b> 🗾
 
-<i>Giovedì 8 settembre</i>
-<b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
-<b>→ 21:30 Tenchu</b> 🥷 <code>(Retrogame format: riscoperta)</code>
+<i>Giovedì 15 settembre</i>
+<b>→ 10:00 Tokyo Game Show 2022 (<a href="https://www.twitch.tv/roundtwotwitch">RoundTwo</a>)</b> ✨
+<b>→ 12:00 Talk Show (<a href="https://www.twitch.tv/cydonia_chiara">Cydonia & Chiara</a>)</b> 🎤
+<b>→ 14:30 Talk Show</b> 🎤
 
-<i>Venerdì 9 settembre</i>
-<b>→ 10:30 Gears of War 3</b> ⚙️ <code>(Recupero: blind run)</code>
-<b>→ 17:00 Marvel’s Spider-Man Remastered (pc)</b>, con chiacchiere 🎤
-<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
+<i>Venerdì 16 settembre</i>
 
-<i>Sabato 10 settembre</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir's Weekly Live - Super Seducer</a></b>
-<b>→ 17:00 Death's Door</b> 💀 <code>(recupero:completismo 100%)</code>
-<s><b>→ 17:00 Kingdom Maker</b>, [S]abato Sponsor</s>
-<s><b>→ 17:00 Monster Hunter Rise: Sunbreak</b> 👹</s>
-<b>→ 21:00 Ubisoft Forward</b>
+<i>Sabato 17 settembre</i>
 
-<i>Domenica 11 settembre</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE
-<b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
+<i>Domenica 18 settembre</i>
