@@ -32,5 +32,5 @@
 
 <i>Domenica 18 settembre</i>
 <b>→ 10:00 ARTNIA | SQUARE ENIX Café (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> ☕
-<b>→ 12:00 Hunter's Bar</b> 🍔
+<b>→ 12:00 HUNTERS BAR『モンハン酒場』</b> 🍔
 <b>→ 16:30 Viaggi: Shinjuku (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia_Chiara</a>)</b> 🗾
