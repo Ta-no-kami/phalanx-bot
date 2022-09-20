@@ -11,7 +11,7 @@
 <b>→ 12:00 HUNTERS BAR『モンハン酒場』</b> 🍔
 
 <i>Mercoledì 21 settembre</i>
-<b>→ 10:00 Pokémon Center Sky Tree Town (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia_Chiara</a>)</b> 🌆
+<b>→ 10:00 Pokémon Center Sky Tree Town (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia_Chiara</a>)</b>
 <b>→ 12:00 Evangelion Store Ikebukuro</b> 🤖
 <b>→ 14:30 Saluti (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> 💬
 
