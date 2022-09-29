@@ -11,6 +11,7 @@
 
 <i>Mercoledì 28 settembre</i>
 <b>→</b> 🏖️
+<s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code></s> 
 
 <i>Giovedì 29 settembre</i>
 <b>→ 17:00 Steelrising</b>
