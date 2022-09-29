@@ -18,8 +18,8 @@
 <b>→ 21:30 Tenchu</b> 🥷 <code>(Retrogame format: riscoperta)</code>
 
 <i>Venerdì 30 settembre</i>
-<b>→ 10:00 Maratona SUBtember</b>
-<b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
+<b>→ 10:00 Maratona SUBtember</b> ⚔️
+<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 1 ottobre</i>
 <b>→ Vicenza Comics & Games 2022</b> 🚆
