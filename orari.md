@@ -22,9 +22,9 @@
 <b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
 
 <i>Sabato 1 ottobre</i>
-<b>→</b> 🏖️
+<b>→ Vicenza Comics & Games 2022</b> 🚆
 <s><b>→ 17:00 Monster Hunter Rise: Sunbreak</b> 👹</s>
 
 <i>Domenica 2 ottobre</i>
-<b>→</b> 🏖️
+<b>→ Vicenza Comics & Games 2022</b> 🚆
 <s><b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE</s>
