@@ -1,28 +1,27 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 19 settembre</i>
-<b>→ 10:00 Viaggi: Akihabara (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia_Chiara</a>)</b> 🗾
-<b>→ 12:00 Viaggi: Akihabara</b> 🗾
-<b>→ 14:30 Ebisu Yokocho (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> 🍲
+<i>Lunedì 26 settembre</i>
+<b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
 
-<i>Martedì 20 settembre</i>
-<b>→ 10:00 Viaggi: Nakano Broadway (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> 🚶
-<b>→ 12:00 HUNTERS BAR『モンハン酒場』</b> 🍔
+<i>Martedì 27 settembre</i>
+<b>→ 🏖️</b>
+<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬</s>
+<s><b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE</s>
 
-<i>Mercoledì 21 settembre</i>
-<b>→ 10:00 Pokémon Center Sky Tree Town (<a href="https://www.twitch.tv/cydonia_chiara">canale: Cydonia_Chiara</a>)</b>
-<b>→ 12:00 Evangelion Store Ikebukuro</b> 🤖
-<b>→ 14:30 Saluti (<a href="https://www.twitch.tv/roundtwotwitch">canale: RoundTwo</a>)</b> 💬
+<i>Mercoledì 28 settembre</i>
+<b>→ 🏖️</b>
 
-<i>Giovedì 22 settembre</i>
-<b>→ TBA</b>
+<i>Giovedì 29 settembre</i>
+<b>→ 17:00 Steelrising</b>
+<s><b>→ 17:00 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code></s>
+<b>→ 21:30 Tenchu</b> 🥷 <code>(Retrogame format: riscoperta)</code>
 
-<i>Venerdì 23 settembre</i>
-<b>→ TBA</b>
+<i>Venerdì 30 settembre</i>
+<b>→ 10:00 Maratona SUBtember</b>
 
-<i>Sabato 24 settembre</i>
-<b>→ TBA</b>
+<i>Sabato 1 ottobre</i>
+<b>→ 🏖️</b>
 
-<i>Domenica 25 settembre</i>
-<b>→ TBA</b>
+<i>Domenica 2 ottobre</i>
+<b>→ 🏖️</b>
