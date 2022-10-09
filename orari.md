@@ -28,3 +28,4 @@
 <i>Domenica 9 ottobre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, Spirito dell’Arcade LIVE
 <b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
+<b>→ 21:30 Street Fighter VI</b>
