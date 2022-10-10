@@ -25,4 +25,6 @@
 <b>→ 17:00 GeForceNOW:</b> Enter the Gungeon o...?
 
 <i>Domenica 16 Ottobre</i>
-<b>→Trasferta Fiera Como</b> 🚆
+<b>→Trasferta Fiera Como</b> <a href="https://www.comofun.it"> Como Fun</a> 🚆
+
+
