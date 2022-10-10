@@ -5,7 +5,7 @@
 <b>→<s>17:00</s> 21:30 The Witcher</b> ⚗️ <code>(Saga backlog: blind run)</code>
 
 <i>Martedì 11 Ottobre</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir Weekly:Baldo</a></b>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir Weekly:</a> Baldo</b>
 <b>→ 17:00 Cult of the Lamb</b> 🐑
 <b>→ 21:30 Dark Souls III: Cinders</b>, Anima della Sfida II LIVE
 
