@@ -16,7 +16,7 @@
 <i>Giovedì 20 ottobre</i>
 <b>→ 17:00 Steelrising</b> 🥖
 <b>→ 21:30 Blood Omen: Legacy of Kain</b> 🩸 <code>[Retrogame format]</code>
-<b>→ 23:59 Resident Evil Showcase</b>
+<b>→ 23:59 Eventi speciali: Resident Evil Showcase</b> 🧿
 
 <i>Venerdì 21 Ottobre</i>
 <b>→ 15:30 DirettAnteprima, God of War: Ragnarök</b> 🎤
