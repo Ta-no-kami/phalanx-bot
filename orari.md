@@ -19,7 +19,7 @@
 <b>→ 23:59 Resident Evil Showcase</b>
 
 <i>Venerdì 21 Ottobre</i>
-<b>→ 15:30 DirettAnteprima, God of War: Ragnarök</b> 🎤 #adv
+<b>→ 15:30 DirettAnteprima, God of War: Ragnarök</b> 🎤
 <b>→ 17:00 Batora: Lost Haven</b> 🎤 #adv
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>(feat. Cydonia)</code>
 
