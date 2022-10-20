@@ -14,9 +14,10 @@
 <b>→ 22:00 Eventi speciali: Silent Hill</b> 🌫
 
 <i>Giovedì 20 ottobre</i>
-<b>→ 17:00 Steelrising</b> 🥖
-<b>→ 21:30 Blood Omen: Legacy of Kain</b> 🩸 <code>[Retrogame format]</code>
-<b>→ 23:59 Eventi speciali: Resident Evil Showcase</b> 🧿
+⚰️💀
+<s><b>→ 17:00 Steelrising</b> 🥖</s>
+<s><b>→ 21:30 Blood Omen: Legacy of Kain</b> 🩸 <code>[Retrogame format]</code></s>
+<s><b>→ 23:59 Eventi speciali: Resident Evil Showcase</b> 🧿</s>
 
 <i>Venerdì 21 Ottobre</i>
 <b>→ 15:30 DirettAnteprima, God of War: Ragnarök</b> 🎤
