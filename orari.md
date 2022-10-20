@@ -29,6 +29,6 @@
 <b>→ 17:00 A Plague Tale: Requiem</b> 🐀 #adv
 
 <i>Domenica 23 Ottobre</i>
-<b>→ 10:30 Scorn</b>
+<b>→ 10:30 Scorn</b> 🥓
 <s><b>→ 10:30 The Binding of Isaac: Repentance, Spirito dell'Arcade LIVE</b></s>
 <b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code>
