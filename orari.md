@@ -30,7 +30,7 @@
 <s><b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code></s>
 
 <i>Lunedì 31 ottobre</i>
-<b>→ 14:30 The Binding of Isaac</b> 💧 <code>[Da Lucca, Spirito dell'Arcade]</code>
+<b>→ 14:30 The Binding of Isaac</b> 💧 <code>[Da Lucca]</code>
 <s><b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code></s>
 
 <i>Martedì 1 novembre</i>
