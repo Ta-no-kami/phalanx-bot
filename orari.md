@@ -19,11 +19,11 @@
 <s><b>→ 21:30 Blood Omen: Legacy of Kain</b> 🩸 <code>[Retrogame format]</code></s>
 
 <i>Venerdì 28 ottobre</i>
-<b>→ 10:30 Scorn</b> 🥓 <code>[Da Lucca]</code>
+<b>→ 14:00 Scorn</b> 🥓 <code>[Da Lucca]</code>
 <s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code></s>
 
 <i>Sabato 29 ottobre</i>
-<b>→ 10:30 Scorn</b> 🥓 <code>[Da Lucca]</code>
+<b>→ 17:30 Scorn</b> 🥓 <code>[Da Lucca]</code>
 
 <i>Domenica 30 ottobre</i>
 <b>→ 10:00 Loopmancer</b> 🕵️ #adv <code>[Da Lucca, oneshot]</code>
