@@ -34,5 +34,5 @@
 <s><b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code></s>
 
 <i>Martedì 1 novembre</i>
-<b>→ 13:30 Cult of the Lamb</b> 🥩 <code>[Da Lucca]</code>
+<b>→ 14:30 Cult of the Lamb</b> 🥩 <code>[Da Lucca]</code>
 <s><b>→ 21:30 Dark Souls III: Cinders</b> <code>[Anima della Sfida II]</code></s>
