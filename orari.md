@@ -1,15 +1,6 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 24 ottobre</i>
-<b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code>
-
-<i>Martedì 25 ottobre</i>
-<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir Weekly: Baldo</a></b> 👨‍🌾
-<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s> 💬
-<b>→ 17:00 Cult of the Lamb</b> 🥩
-<b>→ 21:30 Dark Souls III: Cinders</b> <code>[Anima della Sfida II]</code>
-
 <i>Lunedì 31 ottobre</i>
 <b>→ 14:30 The Binding of Isaac</b> 💧 <code>[Da Lucca]</code>
 <s><b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code></s>
