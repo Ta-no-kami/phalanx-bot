@@ -10,25 +10,6 @@
 <b>→ 17:00 Cult of the Lamb</b> 🥩
 <b>→ 21:30 Dark Souls III: Cinders</b> <code>[Anima della Sfida II]</code>
 
-<i>Mercoledì 26 ottobre</i>
-<b>→ 17:00 Gears of War 3: RAAM's Shadow</b> ⚙️ <code>[Saga backlog]</code>
-
-<i>Giovedì 27 ottobre</i>
-<b>→ Inizio Lucca Comics & Games 2022, in viaggio!</b> 🔖
-<s><b>→ 17:00 Steelrising</b> 🥖</s>
-<s><b>→ 21:30 Blood Omen: Legacy of Kain</b> 🩸 <code>[Retrogame format]</code></s>
-
-<i>Venerdì 28 ottobre</i>
-<b>→ 14:00 Scorn</b> 🥓 <code>[Da Lucca]</code>
-<s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code></s>
-
-<i>Sabato 29 ottobre</i>
-<b>→ 17:30 Scorn</b> 🥓 <code>[Da Lucca]</code>
-
-<i>Domenica 30 ottobre</i>
-<b>→ 10:00 Loopmancer</b> 🕵️ #adv <code>[Da Lucca, oneshot]</code>
-<s><b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code></s>
-
 <i>Lunedì 31 ottobre</i>
 <b>→ 14:30 The Binding of Isaac</b> 💧 <code>[Da Lucca]</code>
 <s><b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code></s>
@@ -36,3 +17,21 @@
 <i>Martedì 1 novembre</i>
 <b>→ 14:30 Cult of the Lamb</b> 🥩 <code>[Da Lucca]</code>
 <s><b>→ 21:30 Dark Souls III: Cinders</b> <code>[Anima della Sfida II]</code></s>
+
+<i>Mercoledì 2 novembre</i>
+<b>→ Di ritorno da Lucca</b> 🏠
+
+<i>Giovedì 3 novembre</i>
+<b>→ 17:00 God of War: Ragnarök</b> 🪓 <code>[Effigie Live]</code>
+<b>→ 21:30 Blood Omen: Legacy of Kain</b> 🩸 <code>[Retrogame format]</code>
+
+<i>Venerdì 4 novembre</i>
+<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code>
+
+<i>Sabato 5 novembre</i>
+<b>→ 11:30 <a href="https://www.twitch.tv/phenrir_mailoki">Phenrir Weekly: Super Seducer</a></b> 💋
+<b>→ 15:00 SABathon</b>, maratona soulsborne
+
+<i>Domenica 6 novembre</i>
+<b>→ 10:30 Scorn</b> 🥓 <code>[Finale]</code>
+<b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code>
