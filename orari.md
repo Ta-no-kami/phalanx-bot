@@ -22,5 +22,5 @@
 <b>→ 18:00 Titan Souls</b> 🏹🗿
 
 <i>Domenica 13 novembre</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b> 💧 <code>Spirito dell'Arcade LIVE</code>
+<b>→ 10:30 The Binding of Isaac: Repentance</b> 💧 <code>[Spirito dell'Arcade]</code>
 <b>→ 17:00 Elden Ring</b>, Seamless Co-op Run <code>[feat. Cydonia]</code>
