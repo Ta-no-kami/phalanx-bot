@@ -5,7 +5,7 @@
 <b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code>
 
 <i>Martedì 8 novembre</i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
+<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>
 <b>→ 21:30 Dark Souls III: The Convergence</b> <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 9 novembre</i>
