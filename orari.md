@@ -25,5 +25,5 @@
 
 <i>Domenica 20 novembre</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b> 💧 <code>[Spirito dell'Arcade]</code>
-<b>→ 17:00 Pentiment ✒️ <code>[One-shot]</code><b>
+<b>→ 17:00 Pentiment</b> ✒️ <code>[One-shot]</code><b>
 <s><b>→ 17:00 Elden Ring</b>, Seamless Co-op Run ♾️ <code>[feat. Cydonia]</code></s>
