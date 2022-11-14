@@ -17,7 +17,7 @@
 <b>→ Collaborazione con Rick DuFer, sono fuori sede</b> 🧳
 
 <i>Venerdì 18 novembre</i>
-<b>→ 21:30 Outer Wilds</b> <code>[Blind Run]</code> 🪐🛸
+<b>→ 21:30 Outer Wilds</b> 🪐🛸 <code>[Blind Run]</code>
 
 <i>Sabato 19 novembre</i>
 <b>→ 10:00 Stranger of Paradise: Final Fantasy Origin</b> #adv <code>[feat. Cydonia & Phenrir]</code>
