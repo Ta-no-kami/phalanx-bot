@@ -10,7 +10,7 @@
 <b>→ 21:30 Dark Souls III: The Convergence</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 16 novembre</i>
-<b>→ 15:00 World of Warcraft</b> 😮 <code>[feat. Kurolily, Cydonia & Fossetti]</code>
+<b>→ 15:00 World of Warcraft</b> 😮 #adv <code>[feat. Kurolily, Cydonia & Fossetti]</code>
 <b>→ 21:30 Elden Ring</b>, Seamless Co-op Run ♾️ <code>[feat. Cydonia]</code>
 
 <i>Giovedì 17 novembre</i>
