@@ -1,29 +1,26 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 21 novembre</i>
-<b>→ 21:30 Effigie Live: le candidature ai TGA</b> 🎮🏆 <code>[Analisi e Previsioni]</code>
-<s><b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code></s>
+<i>Lunedì 281 novembre</i>
+<b>→17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code>
 
-<i>Martedì 22 novembre</i>
-<b>→ Trasferta all'estero</b> ✈️
-<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬</s>
-<s><b>→ 21:30 Dark Souls III: The Convergence</b> 🔮 <code>[Anima della Sfida II]</code></s>
+<i>Martedì 29 novembre</i>
+<b>→ 13:00 Dark Souls III: The Convergence</b> 🔮 <code>[Anima della Sfida II]</code>
+<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
 
-<i>Mercoledì 23 novembre</i>
-<b>→ 23:59 Gungrave G.O.R.E</b> #adv <code>[One-shot]</code>
-<s><b>→ 21:30 Elden Ring</b>, Seamless Co-op Run ♾️ <code>[feat. Cydonia]</code></s>
+<i>Mercoledì 30 novembre</i>
+<b>→ 16:00 World of Warcraft: Dragonflight</b> 🐲 #adv
 
-<i>Giovedì 24 novembre</i>
-<b>→ 18:00 Outer Wilds</b>, maratona 🪐🛸 <code>[Blind Run]</code>
+<i>Giovedì 1 dicembre</i>
+<b>→ 16:00 World of Warcraft: Dragonflight</b> 🐲 #adv
 
-<i>Venerdì 25 novembre</i>
-<b>→ Milan Games Week & Cartoomics</b> 😎
+<i>Venerdì 2 dicembre</i>
+<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run ♾️ <code>[feat. Cydonia]</code>
 
-<i>Sabato 26 novembre</i>
-<b>→ Milan Games Week & Cartoomics</b> 😎
+<i>Sabato 3 dicembre</i>
+<b>→ 14:00 Outer Wilds</b>, maratona 🪐🛸 <code>[Blind Run]</code>
 
 <i>Domenica 27 novembre</i>
-<b>→ 18:00 Titan Souls</b> 🏹🗿 <code>[Finale]</code>
+<b>→ Forlì Comics & Games</b> 😎
 <s><b>→ 10:30 The Binding of Isaac: Repentance</b> 💧 <code>[Spirito dell'Arcade]</code></s>
 <s><b>→ 17:00 Elden Ring</b>, Seamless Co-op Run ♾️ <code>[feat. Cydonia]</code></s>
