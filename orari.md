@@ -21,6 +21,6 @@
 <b>→ 14:00 Outer Wilds</b>, maratona 🪐🛸 <code>[Blind Run]</code>
 
 <i>Domenica 4 dicembre</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b> 💧 <code>[Spirito dell'Arcade]</code>
+<s><b>→ 10:30 The Binding of Isaac: Repentance</b> 💧 <code>[Spirito dell'Arcade]</code></s>
 <s><b>→ 17:00 Elden Ring</b>, Seamless Co-op Run ♾️ <code>[feat. Cydonia]</code></s>
 <b>→ Forlì Comics & Games</b> 😎
