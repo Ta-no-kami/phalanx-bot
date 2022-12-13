@@ -8,7 +8,7 @@
 <b>→ 16:30</b><a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a>💬 
 
 <i>Mercoledì 15 Dicembre</i>
-<b>→ 17:00</b> Invito da <a href="https://www.twitch.tv/roundtwotwitch" Roundtwo</a> w/Phenrir: parliamo di <b>God of War Ragnarok</b>
+<b>→ 17:00</b> Invito da <a href="https://www.twitch.tv/roundtwotwitch"> Roundtwo</a> w/Phenrir: parliamo di <b>God of War Ragnarok</b>
 <b>→ 21:30 COLOSSEI: Elden Ring 1.08 [PS5 - Mira NG+]</b> 🏟
      
 <i>Giovedì 15 Dicembre</i>
