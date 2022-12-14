@@ -1,13 +1,13 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 13 Dicembre</i>
+<i>Lunedì 12 Dicembre</i>
 <b>→ 17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code>
 
-<i>Martedì 14 Dicembre</i>
+<i>Martedì 13 Dicembre</i>
 <b>→ 16:30</b> <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a>💬 
 
-<i>Mercoledì 15 Dicembre</i>
+<i>Mercoledì 14 Dicembre</i>
 <b>→ 17:00</b> Invito da <a href="https://www.twitch.tv/roundtwotwitch"> Roundtwo</a> w/Phenrir: parliamo di <b>God of War Ragnarok</b>
 <b>→ 21:30 COLOSSEI: Elden Ring 1.08 [PS5 - Mira NG+]</b> 🏟
      
