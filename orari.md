@@ -1,7 +1,6 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-
 <i>Lunedì 19 Dicembre</i>
 <b>→ 17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code>
 <b>→ 21:30 Marvel's Midnight Suns</b> 🦸 #adv
