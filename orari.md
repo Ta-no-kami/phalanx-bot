@@ -2,8 +2,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
 <i>Lunedì 26 Dicembre</i>
-<b>→ 17:00 The Witcher</b> ⚗️ <code>[Saga backlog]</code>
-<b>→ 21:30 Marvel's Midnight Suns</b> 🦸 #adv
+<b>→ 21:30 The Callisto Protocol</b>
 
 <i>Martedì 27 Dicembre</i>
 <b>→ 17:00 Steelrising</b> 🥖
@@ -14,8 +13,8 @@
 <b>→ 15:30 Resident Evil Village - Shadows of Rose</b> 🧿
 
 <i>Giovedì 29 Dicembre</i>
-<b>→ 17:00 Live PC Game Pass</b>  🖥 #adv
-     <code>[w/Cydonia, Fossa, PlayerInside]</code>
+<b>→ 17:00 Live</b>  🖥 #adv
+     <code>[]</code>
 <b>→ 21:30 Legacy of Kain: Blood Omen</b> 🧛
      <code>[Retrogaming Format]</code>
 
