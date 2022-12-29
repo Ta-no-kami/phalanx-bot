@@ -13,8 +13,8 @@
 <b>→ 15:30 Resident Evil Village - Shadows of Rose</b> 🧿
 
 <i>Giovedì 29 Dicembre</i>
-<b>→ 17:00 Live</b>  🖥 #adv
-     <code>[]</code>
+<b>→ 17:00 Warhammer 40,000: Darktide</b>  🖥 #adv
+     <code>[Nvidia]</code>
 <b>→ 21:30 Legacy of Kain: Blood Omen</b> 🧛
      <code>[Retrogaming Format]</code>
 
