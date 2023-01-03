@@ -6,8 +6,8 @@
      <code>[blind run]</code> 
 
 <i>Martedì 3 gennaio</i>
-<b>→ 17:00 Elden Ring, creiamo il PG <code>[PC]</code> 🏟
-<b>→ 19:00 Elden Ring, colossei su [Prime Video](https://www.twitch.tv/primevideoit) <code>[PC]</code> 🏟
+<b>→ 17:00 Elden Ring</b>, creiamo il PG <code>[PC]</code> 🏟
+<b>→ 19:00 Elden Ring</b>, colossei su [Prime Video](https://www.twitch.tv/primevideoit) <code>[PC]</code> 🏟
 <b>→ 21:30 Elden Ring, Seamless Co-op Run</b> ♾️
      <code>[feat. Cydonia]</code>
 
@@ -15,7 +15,7 @@
 <b>→ 15:30 Resident Evil Outbreak</b> 🧿
 
 <i>Giovedì 5 gennaio</i>
-<b>→ 17:00 Steelrising</b> (finale?) 🥖
+<b>→ 17:00 Steelrising</b>, finale? 🥖
 <b>→ 21:30 Legacy of Kain: Blood Omen</b> 🧛
      <code>[Retrogaming Format]</code>
 
