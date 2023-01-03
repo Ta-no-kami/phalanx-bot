@@ -12,7 +12,7 @@
      <code>[feat. Cydonia]</code>
 
 <i>Mercoledì 4 gennaio</i>
-<b>→ 15:30 Resident Evil Outbreak</b> 🧿
+<b>→ 21:30 Resident Evil Outbreak</b> 🧿
 
 <i>Giovedì 5 gennaio</i>
 <b>→ 17:00 Steelrising</b>, finale? 🥖
@@ -21,7 +21,7 @@
 
 <i>Venerdì 6 gennaio</i>
 <b>→ 17:00 Talk Show</b> 🎤
-<b>→ 17:00 Elden Ring, Seamless Co-op Run</b> ♾️
+<b>→ 21:30 Elden Ring, Seamless Co-op Run</b> ♾️
      <code>[feat. Cydonia]</code>
 
 <i>Sabato 7 gennaio</i>
