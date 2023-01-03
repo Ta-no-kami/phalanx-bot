@@ -2,7 +2,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
 <i>Lunedì 2 gennaio</i>
-<b>→ 21:30 The Callisto Protocol</b> 👽
+<b>→ 17:00 The Callisto Protocol</b> 👽
      <code>[blind run]</code> 
 
 <i>Martedì 3 gennaio</i>
