@@ -7,7 +7,7 @@
 
 <i>Martedì 3 gennaio</i>
 <b>→ 17:00 Elden Ring</b>, creiamo il PG <code>[PC]</code> 🏟
-<b>→ 19:00 Elden Ring</b>, colossei su <a href="https://www.twitch.tv/primevideoit">Prime Video</a></b> <code>[PC]</code> 🏟
+<b>→ 19:00 Elden Ring</b>, colossei su <a href="https://www.twitch.tv/primevideoit">Prime Video</a> <code>[PC]</code> 🏟
 <b>→ 21:30 Elden Ring, Seamless Co-op Run</b> ♾️
      <code>[feat. Cydonia]</code>
 
