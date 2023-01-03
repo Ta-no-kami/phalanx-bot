@@ -3,7 +3,7 @@
 
 <i>Lunedì 2 gennaio</i>
 <b>→ 17:00 The Callisto Protocol</b> 👽
-     <code>[blind run]</code> 
+     <code>[Blind run]</code> 
 
 <i>Martedì 3 gennaio</i>
 <b>→ 17:00 Elden Ring</b>, creiamo il PG <code>[PC]</code> 🏟
