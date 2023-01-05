@@ -21,8 +21,7 @@
 
 <i>Venerdì 6 gennaio</i>
 <b>→ 17:00 Talk Show</b> 🎤
-<b>→ 21:30 Elden Ring, Seamless Co-op Run</b> ♾️
-     <code>[feat. Cydonia]</code>
+<b>→ 21:30 Dark Souls 3: The Convergence</b>
 
 <i>Sabato 7 gennaio</i>
 <b>→ 14:00 Outer Wils</b> 🪐 🌊
