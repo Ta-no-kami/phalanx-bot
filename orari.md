@@ -15,7 +15,7 @@
 
 <i>Giovedì 12 gennaio</i>
 <b>→ 17:00 Steelrising</b>, finale pre DLC 🥖
-<b>→ 21:30 Legacy of Kain: Blood Omen</b> 🧛
+<s><b>→ 21:30 Legacy of Kain: Blood Omen</b></s> 🧛
      <code>[Retrogaming Format]</code>
 
 <i>Venerdì 13 gennaio</i>
