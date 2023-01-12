@@ -8,7 +8,6 @@
 <i>Martedì 10 gennaio</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
 <b>→ 21:30 Elden Ring, Seamless Co-op Run EXTRA</b> ♾️
-     <code>[feat. Cydonia]</code>
 
 <i>Mercoledì 11 gennaio</i>
 <b>→ 21:30 Resident Evil Outbreak</b> 🧿
