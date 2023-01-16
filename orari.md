@@ -2,10 +2,9 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
 <i>Lunedì 16 gennaio</i>
-<s><b>→ 16:00 The Callisto Protocol</b> 🤒
-     <code>[Blind run]</code></s>
-<b>→ 21:30 Elden Ring</b>, PvP 🤺
-     <code>[Blind run]</code>    
+<s><b>→ 16:00 The Callisto Protocol</b></s> 🤒
+     <code>[Blind run]</code>
+<b>→ 21:30 Elden Ring</b>, PvP 🤺  
 
 <i>Martedì 17 gennaio</i>
 <b>→ 16:00 Dark Souls III: The Convergence</b> 🔮
@@ -16,7 +15,7 @@
 
 <i>Giovedì 19 gennaio</i>
 <b>→ 17:00 Metal: Hellsinger</b> 💀🤘🔥  #NVIDIAGFN
-<s><b>→ 21:30 Legacy of Kain: Blood Omen</b></s> 🧛
+<b>→ 21:30 Legacy of Kain: Blood Omen</b> 🧛
      <code>[Retrogaming Format]</code>
 
 <i>Venerdì 20 gennaio</i>
