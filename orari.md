@@ -11,7 +11,7 @@
 <s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬</s>
 
 <i>Mercoledì 18 gennaio</i>
-<b>→ 21:30 Resident Evil Outbreak</b> 🧿
+<s><b>→ 21:30 Resident Evil Outbreak</b></s> 🧿
 
 <i>Giovedì 19 gennaio</i>
 <b>→ 17:00 Metal: Hellsinger</b> 💀🤘🔥  #NVIDIAGFN
