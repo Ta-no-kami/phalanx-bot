@@ -10,11 +10,10 @@
 <b>→ Viaggio di lavoro!</b> 🧑‍💼
 
 <i>Mercoledì 25 gennaio</i>
-<b>→ Viaggio di lavoro!</b> 🧑‍💼
+<b>→ 21:00 Xbox and Bethesda Developer_Direct</b> 🎮
 
 <i>Giovedì 26 gennaio</i>
-<b>→ 15:00 Xbox and Bethesda Developer_Direct</b>, recupero 🎮
-<b>→ Forspoken</b>, maratona! 👁️‍🗨️
+<b>→ 15:00 Forspoken</b>, maratona! 👁️‍🗨️ <code>[10h+]</code>
 
 <i>Venerdì 27 gennaio</i>
 <b>→ 21:30 Pokémon Nero e Bianco</b>, Veteran run inversa ◼️◻️
