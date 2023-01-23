@@ -1,33 +1,30 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 16 gennaio</i>
-<s><b>→ 16:00 The Callisto Protocol</b></s> 🤒
+<i>Lunedì 23 gennaio</i>
+<b>→ 13:00 The Callisto Protocol</b> 👽
      <code>[Blind run]</code>
-<b>→ 21:30 Elden Ring</b>, PvP 🤺  
+<b>→ Viaggio di lavoro!</b> 🛫
 
-<i>Martedì 17 gennaio</i>
-<b>→ 16:00 Dark Souls III: The Convergence</b> 🔮
-<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬</s>
+<i>Martedì 24 gennaio</i>
+<b>→ Viaggio di lavoro!</b> 🧑‍💼
 
-<i>Mercoledì 18 gennaio</i>
-<s><b>→ 21:30 Resident Evil Outbreak</b></s> 🧿
+<i>Mercoledì 25 gennaio</i>
+<b>→ Viaggio di lavoro!</b> 🧑‍💼
 
-<i>Giovedì 19 gennaio</i>
-<b>→ 17:00 Metal: Hellsinger</b> 💀🤘🔥  #NVIDIAGFN
-<b>→ 21:30 Legacy of Kain: Blood Omen</b> 🧛
-     <code>[Retrogaming Format]</code>
+<i>Giovedì 26 gennaio</i>
+<b>→ 15:00 Xbox and Bethesda Developer_Direct</b>, recupero 🎮
+<b>→ Forspoken</b>, maratona! 👁️‍🗨️
 
-<i>Venerdì 20 gennaio</i>
-<b>→ 21:30 Elden Ring, Seamless Co-op Run</b> ♾️
+<i>Venerdì 27 gennaio</i>
+<b>→ 21:30 Pokémon Nero e Bianco</b>, Veteran run inversa ◼️◻️
      <code>[feat. Cydonia]</code>
 
-<i>Sabato 21 gennaio</i>
-<b>→ 15:30 Outer Wils</b> 🪐 🦉
+<i>Sabato 28 gennaio</i>
+<b>→ 15:30 Outer Wils: Echoes of the Eye</b> 🪐 🦉
      <code>[Anima della Scoperta LIVE]</code>
 
-<i>Domenica 22 gennaio</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b> 💧
+<i>Domenica 29 gennaio</i>
+<s><b>→ 10:30 The Binding of Isaac: Repentance</b></s> 💧
      <code>[Spirito dell'Arcade LIVE]</code>
-<b>→ 17:00 Elden Ring, Seamless Co-op Run</b> ♾️
-     <code>[feat. Cydonia]</code>
+<b>→ 17:00 Elden Ring</b>, PvP 🤺
