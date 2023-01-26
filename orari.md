@@ -13,7 +13,7 @@
 <b>→ 21:00 Xbox and Bethesda Developer_Direct</b> 🎮
 
 <i>Giovedì 26 gennaio</i>
-<b>→ 15:00 Forspoken</b>, maratona! 👁️‍🗨️ <code>[10h+]</code>
+<b>→ 15:00 Forspoken</b>, maratona! 👁️‍🗨️ #adv <code>[10h+]</code>
 
 <i>Venerdì 27 gennaio</i>
 <b>→ 21:30 Pokémon Nero e Bianco</b>, Veteran run inversa ◼️◻️
