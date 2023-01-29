@@ -26,4 +26,4 @@
 <i>Domenica 29 gennaio</i>
 <s><b>→ 10:30 The Binding of Isaac: Repentance</b></s> 💧
      <code>[Spirito dell'Arcade LIVE]</code>
-<b>→ 17:00 Elden Ring</b>, PvP & analisi torneo 🤺
+<b>→ 17:00 Elden Ring</b>, update PG torneo 🤺
