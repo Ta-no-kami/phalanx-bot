@@ -13,7 +13,7 @@
 <b>→ 21:30 Resident Evil Outbreak</b> 🧿
 
 <i>Giovedì 2 febbraio</i>
-<b>→ TBA</b> 🎮 #NVIDIAGFN 
+<b>→ 17:00</b> 🎮 #NVIDIAGFN 
 <b>→ 21:30 Blood Omen: Legacy of Kain</b> 🧛 
      <code>[Retrogaming format]</code>
 
