@@ -18,7 +18,7 @@
      <code>[Retrogaming format]</code>
 
 <i>Venerdì 3 febbraio</i>
-<b>→ 17:00 Steelrising</b>, finale 🥖
+<s><b>→ 17:00 Steelrising</b>, finale</s> 🥖
 <b>→ 21:30 Pokémon Nero e Bianco</b>, Veteran run inversa ◼️◻️
      <code>[feat. Cydonia]</code>
 
