@@ -13,12 +13,13 @@
 <b>→ 14:30 Resident Evil Outbreak</b> 🧿 <i>(in dubbio)</i>
 
 <i>Giovedì 9 febbraio</i>
-<b>→ 23:59 The Binding of Isaac: Repentance</b> 💧
-     <code>[Spirito dell'Arcade LIVE]</code> <i>(in dubbio)</i>
+<b>→ 23:59 The Binding of Isaac: Repentance</b> 💧 <i>(in dubbio)</i>
+     <code>[Spirito dell'Arcade LIVE]</code>
 
 <i>Venerdì 10 febbraio</i>
 <b>→ 14:00 Hogwarts Legacy</b>, maratona 🧙 
-<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run ♾<code>[feat. Cydonia]</code> #FINALE
+<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run ♾
+     <code>[feat. Cydonia]</code> #FINALE
 
 <i>Sabato 11 febbraio</i>
 <b>→ 14:00 Outer Wilds: Echoes of the Eye</b>, Extra+🪐 🦉
