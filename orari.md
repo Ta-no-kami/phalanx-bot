@@ -1,32 +1,28 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 30 gennaio</i>
-<b>→ 17:00 The Callisto Protocol</b> 👽 <code>[Blind run]</code>
-<b>→ 21:30 DirettAnteprima — Like a Dragon: Ishin!</b> 🐲
-
-<i>Martedì 31 gennaio</i>
-<b>→ 21:30 Dark Souls III: The Convergence</b> 🔮 
-     <code>[Anima della Sfida II]</code>
-  
-<i>Mercoledì 1 febbraio</i>
-<b>→ 21:30 Resident Evil Outbreak</b> 🧿
-
-<i>Giovedì 2 febbraio</i>
-<b>→ 17:00</b> 🎮 #NVIDIAGFN 
-<b>→ 21:30 Blood Omen: Legacy of Kain</b> 🧛 
-     <code>[Retrogaming format]</code>
-
-<i>Venerdì 3 febbraio</i>
-<s><b>→ 17:00 Steelrising</b>, finale</s> 🥖
+<i>Lunedì 6 gennaio</i>
+<b>→ 17:00 Dead Space</b> 🧑‍🚀🪚👾
 <b>→ 21:30 Pokémon Nero e Bianco</b>, Veteran run inversa ◼️◻️
      <code>[feat. Cydonia]</code>
 
-<i>Sabato 4 febbraio</i>
-<b>→ 15:30 Outer Wils: Echoes of the Eye</b> 🪐 🦉
+<i>Martedì 7 gennaio</i>
+<b>→ 18:30 Elden Ring</b>, Seamless Co-op Run Extra ♾
+  
+<i>Mercoledì 8 febbraio</i>
+<b>→ 14:30 Resident Evil Outbreak</b> 🧿 <i>(in dubbio)</i>
+
+<i>Giovedì 9 febbraio</i>
+<b>→ 23:59 The Binding of Isaac: Repentance</b> 💧
+     <code>[Spirito dell'Arcade LIVE]</code> <i>(in dubbio)</i>
+
+<i>Venerdì 10 febbraio</i>
+<b>→ 14:00 Hogwarts Legacy</b>, maratona 🧙 
+<b>→ 21:30 Elden Ring</b>, Seamless Co-op Run ♾<code>[feat. Cydonia]</code> #FINALE
+
+<i>Sabato 11 febbraio</i>
+<b>→ 14:00 Outer Wilds: Echoes of the Eye</b>, Extra+🪐 🦉
      <code>[Anima della Scoperta LIVE]</code>
 
-<i>Domenica 5 febbraio</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b> 💧
-     <code>[Spirito dell'Arcade LIVE]</code>
-<b>→ 17:00 Elden Ring</b>, Seamless Co-op Run ♾<code>[feat. Cydonia]</code>
+<i>Domenica 12 febbraio</i>
+<b>→ Nerd Show Bologna 2023!</b> 🤓
