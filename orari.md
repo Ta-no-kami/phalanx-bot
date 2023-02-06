@@ -7,6 +7,7 @@
      <code>[feat. Cydonia]</code>
 
 <i>Martedì 7 gennaio</i>
+<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
 <b>→ 18:30 Elden Ring</b>, Seamless Co-op Run Extra ♾
   
 <i>Mercoledì 8 febbraio</i>
