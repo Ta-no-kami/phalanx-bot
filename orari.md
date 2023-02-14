@@ -20,8 +20,7 @@
 
 <i>Venerdì 17 febbraio</i>
 <b>→ 17:00 Octopath Traveler II</b>, demo 🧭
-<b>→ 21:30 Steelrising</b>, finale 🥖 <i>(se non finito)</i>
-<b>→ 21:30 Dark Souls III: The Convergence</b> 🔮 <i>(alternativa)</i>
+<b>→ 21:30 Dark Souls III: The Convergence</b> 🔮
      <code>[Anima della Sfida II]</code>
 
 <i>Sabato 18 febbraio</i>
