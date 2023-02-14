@@ -14,7 +14,7 @@
      <code>[feat. Cydonia]</code>
 
 <i>Giovedì 16 febbraio</i>
-<b>→ 17:00 Everspace 2</b> #NVIDIAGFN #ADV
+<b>→ 17:00 Everspace 2</b> 🚀 #NVIDIAGFN #ADV
 <b>→ 21:30 Air Combat</b> 🛩️
      <code>[Retrogaming format]</code>
 
