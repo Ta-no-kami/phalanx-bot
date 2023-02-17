@@ -19,7 +19,7 @@
      <code>[Retrogaming format]</code>
 
 <i>Venerdì 17 febbraio</i>
-<b>→ 17:00 Octopath Traveler II</b>, demo 🧭
+<b>→ 17:00 Octopath Traveler II</b>, demo 🧭 #ADV
 <b>→ 21:30 Dark Souls III: The Convergence</b> 🔮
      <code>[Anima della Sfida II]</code>
 
