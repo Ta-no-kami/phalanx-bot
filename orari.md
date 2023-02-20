@@ -6,7 +6,7 @@
 
 <i>Martedì 21 febbraio</i>
 <b>→ 16:30 Quattro chiacchiere: <a href="https://www.twitch.tv/oldgenproject">OldGen LIVE</a> 💬 </b>
-<b>→ 18:00> Thymesia</b> 🗡 🧪  
+<b>→ 18:00 Thymesia</b> 🗡 🧪  
 <b>→ 21:30 Dark Souls III: The Convergence</b> 🔮
   [Anima della Sfida II]
 
