@@ -3,11 +3,11 @@
 
 <i>Lunedì 20 febbraio</i>
 <b>→ 17:00 Dead Space</b> 🧑‍🚀🪚👾
-<b>→ 21:30 Atomic Heart</b> ⚛️ 🖤 <code>[1 di 2]</code> 
+<b>→ 21:30 Atomic Heart</b> ⚛️ 🖤 <code>[1 di 2]</code> #ADV
 
 <i>Martedì 21 febbraio</i>
 <b>→ 16:30 Quattro chiacchiere: <a href="https://www.twitch.tv/oldgenproject">OldGen LIVE</a> 💬 </b>
-<b>→ 18:00 Atomic Heart</b> ⚛️ 🖤 <code>[2 di 2]</code> 
+<b>→ 18:00 Atomic Heart</b> ⚛️ 🖤 <code>[2 di 2]</code> #ADV
 <b>→ 21:30 Dark Souls III: The Convergence</b> 🔮
      <code>[Anima della Sfida II]</code>
 
