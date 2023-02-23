@@ -18,8 +18,9 @@
 
 <i>Giovedì 23 febbraio</i>
 <s><b>→ 11:30 Wild Hearts 🐾</b> <code>[maratona]</code></s>
-<b>→ 21:30 Air Combat</b> 🛩️
-     <code>[Retrogaming format]</code> #FINALE
+<b>→ 21:30 PlayStation State of Play</b> 📽️
+<s><b>→ 21:30 Air Combat</b> 🛩️
+     <code>[Retrogaming format]</code> #FINALE</s>
 
 <i>Venerdì 24 febbraio</i>
 <b>→ 17:00 Talk Show</b>, debrief del Nintendo Direct 🎙
