@@ -17,7 +17,7 @@
      <code>[feat. Cydonia]</code> #FINALE, <code>[2 di 2]</code> 
 
 <i>Giovedì 23 febbraio</i>
-<b>→ 11:30 Wild Hearts 🐾</b> <code>[maratona]</code>
+<s><b>→ 11:30 Wild Hearts 🐾</b> <code>[maratona]</code></s>
 <b>→ 21:30 Air Combat</b> 🛩️
      <code>[Retrogaming format]</code> #FINALE
 
