@@ -28,6 +28,7 @@
      <code>[feat. Cydonia]</code> 
 
 <i>Sabato 25 febbraio</i>
+<b>→ 16:00 Diamo un'occhiata all' <a href="https://www.twitch.tv/bandainamcoeurope">Evento Anniversario</a> di Elden Ring </b> e poi...
 <b>→ 17:00 Hi-Fi Rush</b> 🎸
 
 <i>Domenica 26 febbraio</i>
