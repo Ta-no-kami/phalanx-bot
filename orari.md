@@ -1,4 +1,4 @@
-Le ultime settimane in casa 3.0. 🔓
+Le ultime settimane in casa 3.0 🔓
 ————————————
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
@@ -7,7 +7,7 @@ Le ultime settimane in casa 3.0. 🔓
 <b>→ 17:00 Dead Space</b> 🧑‍🚀🪚👾
 
 <i>Martedì 28 Febbraio</i>
-<b>→ 17:00 Quattro chiacchiare ― Elden Ring: Shadow of the Erdtree</b> 🌳👣👻
+<b>→ 17:00 Quattro chiacchiere ― Elden Ring: Shadow of the Erdtree</b> 🌳👣👻
 <b>→ dopo Thymesia</b> 🗡 🧪
 <b>→ 21:30 Dark Souls III: The Convergence</b> 🔮
      <code>[Anima della Sfida II]</code>
