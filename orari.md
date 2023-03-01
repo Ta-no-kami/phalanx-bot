@@ -8,11 +8,11 @@ Le ultime settimane in casa 3.0 🔓
 
 <i>Martedì 28 Febbraio</i>
 <b>→ 17:00 Quattro chiacchiere</b> 🌳👣 <code>[Elden Ring: Shadow of the Erdtree]</code>
-<b>→ dopo Thymesia</b> 🗡 🧪
+<b>→ 18:30 Thymesia</b> 🗡 🧪
 <b>→ 21:30 Dark Souls III: The Convergence</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 1 Marzo</i>
-<b>→ 17:00 Octopath Traveler II</b>, One-shot 🧭 <code>[2 di 2]</code>
+<b>→ 17:00 Octopath Traveler II</b>, One-shot 🧭 #ADV <code>[2 di 2]</code>
 <b>→ 21:30 Elden Ring</b>, feat. Cydonia  ♾ <code>[Seamless Co-op Run NG+]</code>
 
 <i>Giovedì 23 febbraio</i>
