@@ -27,4 +27,4 @@ Le ultime settimane in casa 3.0 🔓
 
 <i>Domenica 5 marzo</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, D. + DELETE THIS 💧 <code>[Spirito dell'Arcade LIVE]</code> 
-<b>→ 17:00  Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+<b>→ 17:00 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
