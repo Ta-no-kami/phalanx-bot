@@ -19,7 +19,7 @@ Le ultime settimane in casa 3.0 🔓
 <b>→ 11:30 Wild Hearts 🐾</b> <code>[maratona]</code>
 
 <i>Venerdì 3 marzo</i>
-<b>→ 17:00 Wo Long: Fallen Dynasty</b>, One-shot 🐉 <code>[Diventerà una serie su Pureeyaa]</code>
+<b>→ 17:00 Wo Long: Fallen Dynasty</b>, One-shot 🐉 #ADV <code>[Diventerà una serie su Pureeyaa]</code>
 <b>→ 21:30 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
 <i>Sabato 4 marzo</i>
