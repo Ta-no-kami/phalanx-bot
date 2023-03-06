@@ -1,4 +1,4 @@
-Le ultime settimane in casa 3.0 🔓
+Settimana piena di chicche, Fellers; anche piena di IKEA. 🪑
 ————————————
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
