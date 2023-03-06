@@ -9,7 +9,7 @@ Settimana piena di chicche, Fellers; anche piena di IKEA. 🪑
 
 <i>Martedì 7 febbraio</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
-<b>→ 18:00 Thymesia</b> 🗡 🧪 <code>[Finale]</code>
+<b>→ 18:00 Thymesia</b> 🗡 🧪 <code>[Finale?]</code>
 <b>→ 22:30 Dark Souls III: The Convergence</b>, Extra+ 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 8 marzo</i>
