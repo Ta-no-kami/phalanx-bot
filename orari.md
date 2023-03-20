@@ -23,7 +23,7 @@ Cruciale: non preoccupatevi se nello scorso mese e mezzo mi avete visto distratt
 
 <i>Giovedì 23 Marzo</i>
 <b>→ 12:00 Resident Evil 4 Remake</b> <code>[Oneshot -> La serie va su Pureeyaa nel 4.0! Sutorimaa l'originale!] </code>🧿
-<b>→ subito dopo, <b>Resident Evil: Outbreak</b> <code>#FIN</code>
+<b>→ subito dopo, Resident Evil: Outbreak</b> <code>#FIN</code>
 <b>→ 21:30 Ace Combat 2</b> 🛩 <code>[Retrogaming Format] </code>
 
 <i>Venerdì 24 Marzo</i>
