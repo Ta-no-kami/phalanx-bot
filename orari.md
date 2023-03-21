@@ -22,8 +22,7 @@
 <i>Giovedì 23 marzo</i>
 <b>→ 12:00 Resident Evil 4 (2023)</b> 🧿 <code>[One-shot]</code>
 <b>→ dopo, Resident Evil Outbreak</b> #FIN
-<b>→ 21:30 Ace Combat 2</b> 🛩 
-     <code>[Retrogaming Format]</code>
+<b>→ 21:30 Ace Combat 2</b> 🛩 <code>[Retrogaming Format]</code>
 
 <i>Venerdì 24 marzo</i>
 <b>→ 17:00 Effigie Live: Final Fantasy XVI</b> 🦤
