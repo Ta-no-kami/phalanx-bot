@@ -27,8 +27,7 @@
 
 <i>Venerdì 24 marzo</i>
 <b>→ 17:00 Effigie Live: Final Fantasy XVI</b> 🦤
-<b>→ 21:30 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ 
-     <code>[Veteran run inversa]</code>
+<b>→ 21:30 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
   
 <i>Sabato 25 marzo</i>
 <b>→ 14:00 Hi-Fi Rush </b> 🎸
@@ -36,5 +35,4 @@
 <i>Domenica 26 marzo</i>
 <b>→ 10:30 The Binding of Isaac: Repentance</b>, ultime dailies! 💧 
      <code>[Spirito dell'Arcade]</code>
-<b>→ 17:00 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ 
-     <code>[Veteran run inversa]</code>
+<b>→ 17:00 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
