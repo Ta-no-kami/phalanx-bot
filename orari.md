@@ -8,6 +8,7 @@
 
 <i>Martedì 21 Marzo</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
+<b>→ 18:00 The Witcher 2: Assassins of Kings</b> ⚗️
 <b>→ 22:30 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 22 Marzo</i>
