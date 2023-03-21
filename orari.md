@@ -1,5 +1,5 @@
 <b>COMINCIA <u>THE WITCHER 2</u> OHI!</b>
-<code>-----------------------------------------------------</code>
+<code>------------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
