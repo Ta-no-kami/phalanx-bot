@@ -1,37 +1,28 @@
-<b>COMINCIA <u>THE WITCHER 2</u> OHI!</b>
 <code>--------------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 20 marzo</i>
-<b>→ 17:00 Diablo IV</b>, beta! <code>[sperando che i server reggano]</code>
-<b>→ 21:30 Crash Bandicoot 4: It's About Time</b>, feat. Dario Moccia 🍎
-     <code>[Veteran run inversa]</code>
-
-<i>Martedì 21 marzo</i>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
+<i>Lunedì 27 marzo</i>
 <b>→ 18:00 The Witcher 2: Assassins of Kings</b> ⚗️
-<b>→ 22:30 Dark Souls: Ascended Mod</b> 🔮 
+
+<i>Martedì 28 marzo</i>
+<b>→ 16:00 Quattro chiacchiere</b>, The Legend of Zelda: Tears of the Kingdom 💬
+<b>→ 21:30 Dark Souls: Ascended Mod</b> 🔮 
      <code>[Anima della Sfida II]</code>
 
-<i>Mercoledì 22 marzo</i>
-<b>→ 15:00 Wo Long: Fallen Dynasty</b>, micro-maratona 🥠🐉 <code>[drogato!]</code>
-<b>→ 21:30 Elden Ring</b>, feat. Cydonia ♾ 
-     <code>[Seamless Co-op Run NG+]</code>
+<i>Mercoledì 29 marzo</i>
+<b>→ Firenze Comics Day & Games 2023</b> 🖌️
 
-<i>Giovedì 23 marzo</i>
-<b>→ 12:00 Resident Evil 4 (2023)</b> 🧿 <code>[One-shot]</code>
-<b>→ dopo, Resident Evil Outbreak</b> #FIN
-<b>→ 21:30 Ace Combat 2</b> 🛩 <code>[Retrogaming Format]</code>
+<i>Giovedì 30 marzo</i>
+<b>→ <a href="https://thesign.academy/firenze-comics-day-games-2023-2/">Firenze Comics Day & Games 2023</a></b> 🖌️
 
-<i>Venerdì 24 marzo</i>
-<b>→ 17:00 Effigie Live: Final Fantasy XVI</b> 🦤
+<i>Venerdì 31 marzo</i>
 <b>→ 21:30 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
   
-<i>Sabato 25 marzo</i>
-<b>→ 14:00 Hi-Fi Rush </b> 🎸
+<i>Sabato 1 aprile</i>
+<b>→ 14:00 Hi-Fi Rush</b> 🎸
+<b>→ 18:00 Elden Ring: 1 anno di ricerche e studio</b> 🔎📜
 
-<i>Domenica 26 marzo</i>
-<b>→ 10:30 The Binding of Isaac: Repentance</b>, ultime dailies! 💧 
-     <code>[Spirito dell'Arcade]</code>
+<i>Domenica 2 aprile</i>
+<b>→ 10:30 Enter the Gungeon</b> 🔫 
 <b>→ 17:00 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
