@@ -8,16 +8,14 @@
 <i>Martedì 4 marzo</i>
 <b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>
 <b>→ 18:15 Resident Evil Outbreak</b> 🧿 #FINE
-<b>→ 22:30 Dark Souls: Ascended Mod</b> 🔮 
-     <code>[Anima della Sfida II]</code>
+<b>→ 22:30 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 5 marzo</i>
-<b>→ 21:30 Elden Ring</b>, feat. Cydonia ♾ 
-     <code>[Seamless Co-op Run NG+]</code>
+<b>→ 21:30 Elden Ring</b>, feat. Cydonia ♾ <code>[Seamless Co-op Run NG+]</code>
 
 <i>Giovedì 6 marzo</i>
 <b>→ 15:00 Wo Long: Fallen Dynasty</b> 🥠🐉 <code>[Blind Run]</code>
-<b>→ 21:00 Genshin Impact</b>, feat. Kurolily, 2 di 2 <code>[Veteran run inversa]</code>
+<b>→ 21:00 Genshin Impact</b>, feat. Kurolily, 2 di 2 <code>[Veteran run inversa]</code> #ad 
 
 <i>Venerdì 7 marzo</i>
 <b>→ 17:00 Talk Show</b>, Hellblade, FF16 & The Lords of the Fallen 🎙
