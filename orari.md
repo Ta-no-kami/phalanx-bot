@@ -7,7 +7,7 @@
 
 <i>Martedì 11 aprile</i>
 <s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>
-<b>→ 22:00 Wo Long: Fallen Dinasty</b> <code>[Blind Run]</code> 🥠 🐉
+<b>→ 22:00 Wo Long: Fallen Dynasty</b> <code>[Blind Run]</code> 🥠 🐉
 <b>→ 23:59 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 12 aprile</i>
