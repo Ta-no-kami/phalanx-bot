@@ -2,22 +2,27 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
 
-<i>Lunedì 10 aprile</i>
-<b>→ 22:00 The Witcher 2: Assassins of Kings</b> ⚗️
+<i>Lunedì 17 aprile</i>
+<b>→ 17:00 The Witcher 2: Assassins of Kings</b> ⚗️
+<b>→ 21:30 Launch Trailer di The Legend of Zelda: Tears of the Kingdom</b>
+<b>→       Debrief dello State of Play: Final Fantasy XVI</b>
 
-<i>Martedì 11 aprile</i>
-<s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>
-<b>→ 22:00 Wo Long: Fallen Dynasty</b> <code>[Blind Run]</code> 🥠 🐉
+<i>Martedì 18 aprile</i>
+<i><b>Trasfera Evento SUPERSegreto di cui saremo Felici</b></i> ✈️
+
+<i>Mercoledì 19 aprile</i>
+<b>→ 21:30 Elden Ring</b>, feat. Cydonia ♾ <code>[Seamless Co-op Run NG+]</code>
+
+<i>Giovedì 20 aprile</i>
+<b>→ 22:00 Wo Long: Fallen Dynasty</b> 🥠🐉 <code>[Blind Run]</code>
 <b>→ 23:59 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
-<i>Mercoledì 12 aprile</i>
-<b>→ 17:00 Elden Ring: 1 anno di ricerche e studio</b> <code>[3 di 3]</code> 🔎📜
-<b>→ 21:30 Hi-Fi Rush</b> 🎸#FINE
+<b>Venerdì 21 aprile</b>
+<b>→ 17:00 Dead Island 2</b> 🧟‍♀️ <code>[One-shot]</code>
 
-<i>da Giovedì 13 a Sabato 15 aprile</i>
-<b>→ Giorni di trasloco</b> 🚛
-<b>→ Torino Comics 2023</b> 💭 🎮
-<b>→ Meet & Greet a Monza</b> 🤗
+<i>Sabato 22 aprile</i>
+<b>→ 17:00 Hi-Fi Rush</b> 🎸
 
-<i>Domenica 16 aprile</i>
-<b>→ 21:30 Enter the Gungeon</b> 🔫 #NIGHT
+<i>Domenica 23 aprile</i>
+<b>→ 10:30 Enter the Gungeon</b> 🔫
+<b>→ 17:00 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
