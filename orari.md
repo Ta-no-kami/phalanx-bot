@@ -18,7 +18,7 @@
 <b>→ 23:59 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <b>Venerdì 21 aprile</b>
-<b>→ 17:00 Dead Island 2</b> 🧟‍♀️ <code>[One-shot]</code>
+<b>→ 17:00 Dead Island 2</b> 🧟‍♀️ <code>[One-shot]</code> #adv
 
 <i>Sabato 22 aprile</i>
 <b>→ 17:00 Hi-Fi Rush</b> 🎸
