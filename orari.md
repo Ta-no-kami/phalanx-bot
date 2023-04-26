@@ -11,7 +11,7 @@
 
 <i>Mercoledì 26 aprile</i>
 <b>→ 15:00 Live a sorpresa</b> 
-<b>→ 17:00 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+<s><b>→ 17:00 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code></s>
 
 <i>da Giovedì 27 aprile a Sabato 29 aprile</i>
 <b>→ Pacchi, pacchi e ancora pacchi!</b> 📦
