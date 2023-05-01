@@ -19,9 +19,9 @@ Poi avremo Tears, Diablo IV, FFXVI, tutti i format di Sutoriimaa che proseguono 
 <b>→ 23:39 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 3 Maggio</i>
-<b>→ 15:00 Live a sorpresa</b> 
+<b>→ 21:30 Elden Ring</b>  feat. Cydonia ♾  <code>[Seamless Co-op Run NG+] </code>
 
-<i>da Giovedì 4 Maggio a Sabato 29 aprile</i>
+<i>da Giovedì 4 Maggio</i>
 <b>ROGUE NIGHT</b>
 <b>→ 22:00 Allenamento PIL: Isaac Repentance</b> <code>lapillapillapil...</code>
 <b>→ 23:59 Enter the Gungeon 🔫</b>
