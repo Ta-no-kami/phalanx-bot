@@ -7,7 +7,7 @@
 
 <i>Martedì 9 maggio</i>
 <s><b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬</s>
-<b>→</b><i>Ultima trasferta per il trasloco!</i>
+<b>→</b> <i>Ultima trasferta per il trasloco!</i>
 
 <i>Mercoledì 10 maggio</i>
 <b>→ 21:30 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
