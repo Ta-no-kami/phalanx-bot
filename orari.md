@@ -1,6 +1,6 @@
 <code>--------------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u></b>
-<b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>Elden Ring:</b> <code>f3ll0ws</code>
+<b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>PIL:</b> <code>Sabaku_no_Fellers#9341</code>
 
 <i>Lunedì 22 maggio</i>
 <b>→ 17:00 Poly Isaac League</b>, iniziamo! 🏉 <code>[PIL]</code> 
@@ -14,8 +14,8 @@
 
 <i>Mercoledì 24 maggio</i>
 <b>→ 12:00 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️ <code>[Micro maratona]</code> 
-<b>→ 17:00 Miasma Chronicles</b> 🌪️ <code>[One-shot]</code>
-<b>→ 21:30 <u>PlayStation Showcase</u></b> 🎫
+<b>→ 17:00 Miasma Chronicles</b> 🌪️ <code>[One-shot]</code> #adv
+<b><u>→ 21:30 PlayStation Showcase</u></b> 🎫
 
 <i>Giovedì 25 maggio</i>
 <b>→ 11:00 Warhammer 40,000: Boltgun</b> ☄️ <code>[One-shot]</code> #adv
