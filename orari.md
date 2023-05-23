@@ -7,7 +7,7 @@
 
 <i>Martedì 23 maggio</i>
 <b>→ 15:00 Anteprima Final Fantasy XVI</b> 💬 <code>[Giocato 4 ore]</code> 
-<b>→ Diablo IV: Pergamene</b> 📜 #adv
+<b>→ 17:00 Diablo IV - Canto II: Sanctuarium</b> 📜 #adv
 <b>SOULS NIGHT</b>
 <b>→ 22:00 Wo Long: Fallen Dinasty</b> 🥠 🐉 <code>[Blind run]</code> 
 <b>→ 23:59 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code> 
