@@ -6,7 +6,7 @@
 <b>→ 17:00 Poly Isaac League</b>, iniziamo! 🏉 <code>[PIL]</code> 
 
 <i>Martedì 23 maggio</i>
-<b>→ Anteprima Final Fantasy XVI</b> 💬 <code>[Giocato 4 ore]</code> 
+<b>→ 15:00 Anteprima Final Fantasy XVI</b> 💬 <code>[Giocato 4 ore]</code> 
 <b>→ Diablo IV: Pergamene</b> 📜 #adv
 <b>SOULS NIGHT</b>
 <b>→ 22:00 Wo Long: Fallen Dinasty</b> 🥠 🐉 <code>[Blind run]</code> 
