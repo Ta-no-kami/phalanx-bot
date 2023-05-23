@@ -8,9 +8,10 @@
 <i>Martedì 23 maggio</i>
 <b>→ 15:00 Anteprima Final Fantasy XVI</b> 💬 <code>[Giocato 4 ore]</code> 
 <b>→ 17:00 Diablo IV - Canto II: Sanctuarium</b> 📜 #adv
-<b>SOULS NIGHT</b>
-<b>→ 22:00 Wo Long: Fallen Dinasty</b> 🥠 🐉 <code>[Blind run]</code> 
-<b>→ 23:59 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code> 
+<b>→ 22:00 Poly Isaac League</b> 🏉 <code>[1° giornata]</code> 
+<b>(SOULS NIGHT)</b>
+<s><b>→ 22:00 Wo Long: Fallen Dinasty</b> 🥠 🐉 <code>[Blind run]</code></s>
+<b>(→ 23:59 Dark Souls: Ascended Mod)</b> 🔮 <code>[Anima della Sfida II]</code> 
 
 <i>Mercoledì 24 maggio</i>
 <b>→ 12:00 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️ <code>[Micro maratona]</code> 
