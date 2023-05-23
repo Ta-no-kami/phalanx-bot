@@ -9,7 +9,7 @@
 <b>→ 15:00 Anteprima Final Fantasy XVI</b> 💬 <code>[Giocato 4 ore]</code> 
 <b>→ 17:00 Diablo IV - Canto II: Sanctuarium</b> 📜 #adv
 <b>→ 22:00 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
-<b>SOULS NIGHT</b>
+<s><b>SOULS NIGHT</b></s>
 <s><b>→ 22:00 Wo Long: Fallen Dinasty</b> 🥠 🐉 <code>[Blind run]</code></s>
 <s><b>→ 23:59 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code></s> 
 
