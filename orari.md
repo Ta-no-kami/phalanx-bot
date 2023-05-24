@@ -17,17 +17,18 @@
 <b>→ 12:00 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
 <s><b>→ 12:00 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️ <code>[Micro maratona]</code></s>
 <b>→ 17:00 Miasma Chronicles</b> 🌪️ <code>[One-shot]</code> #adv
-<b><u>→ 21:30 PlayStation Showcase</u></b> 🎫
-<b>→ 23:59 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
+<b><u>→ 21:30 PlayStation Showcase</u></b> 🎫KR
 
 <i>Giovedì 25 maggio</i>
 <b>→ 11:00 Warhammer 40,000: Boltgun</b> ☄️ <code>[One-shot]</code> #adv
+<b>→ 13:00 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
 <b>→ 17:00 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
 <b>ROGUE NIGHT</b>
 <b>→ 22:00 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
 
 <i>Venerdì 26 maggio</i>
-<b>→ 10:30 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️
+<b>→ 10:30 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
+<b>(→ 10:30 The Legend of Zelda: Tears of the Kingdom)</b> 🗡️🛡️
 <b>→ 21:30 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
 <i>Sabato 27 e domenica 28 maggio</i>
