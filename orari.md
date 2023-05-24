@@ -15,7 +15,7 @@
 
 <i>Mercoledì 24 maggio</i>
 <b>→ 12:00 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
-<b>(→ 12:00 The Legend of Zelda: Tears of the Kingdom)</b> 🗡️🛡️ <code>[Micro maratona]</code>
+<s><b>→ 12:00 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️ <code>[Micro maratona]</code></s>
 <b>→ 17:00 Miasma Chronicles</b> 🌪️ <code>[One-shot]</code> #adv
 <b><u>→ 21:30 PlayStation Showcase</u></b> 🎫
 <b>→ 23:59 Poly Isaac League</b> 🏉 <code>[1° settimana]</code> 
