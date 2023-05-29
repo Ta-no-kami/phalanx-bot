@@ -8,7 +8,7 @@
 
 <i>Martedì 30 maggio</i>
 <b>→ 11:00 Warhammer 40'000: Boltgun</b> ☄️ <code>[One-shot extra]</code>
-<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b></s>  💬
+<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b>  💬
 <b>→ 21:30 Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
 <i>Mercoledì 31 maggio</i>
@@ -33,4 +33,4 @@
 
 <i>Domenica 4 giugno</i>
 <b>→ 10:30 Enter the Gungeon</b> 🔫
-<b>→ 18:00 Diablo IV </b>, feat. Pow3r, Kurolily, Playerinside 😈
+<b>→ 18:00 Diablo IV</b>, feat. Pow3r, Kurolily, Playerinside 😈
