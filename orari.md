@@ -3,7 +3,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>PIL:</b> <code>Sabaku_no_Fellers#9341</code>
 
 <i>Lunedì 5 maggio</i>
-<b>→ 17:00 Diablo IV</b>, "la Diabolica Commedia" w/Cydonia & Kurolily 📜 <code>[proviamo Phalanx]</code>
+<b>→ 17:00 Diablo IV</b>, "la Diabolica Commedia" — feat. Cydonia & Kurolily 📜 <code>[proviamo Phalanx]</code> #adv
 <b>→ 22:00 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> 
 
 <i>Martedì 6 maggio</i>
