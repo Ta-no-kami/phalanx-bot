@@ -17,7 +17,7 @@
 <i>Giovedì 8 giugno</i>
 <b>→ 11:00 Poly Isaac League</b> 🏉 <code>[3° settimana]</code> 
 <b>→ 15:00 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> 
-<b>→ 22:00 <u>Summer game Fest</u></b> ⛱️
+<b>→ 22:00 <u>Summer Game Fest</u></b> ⛱️
 
 <i>Venerdì 9 giugno</i>
 <b>→ 10:30 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️
