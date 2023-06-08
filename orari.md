@@ -16,7 +16,7 @@
 
 <i>Giovedì 8 giugno</i>
 <b>→ 11:00 Poly Isaac League</b> 🏉 <code>[3° settimana]</code> 
-<b>→ 15:00 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> 
+<b>→ 15:30 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> #adv
 <b>→ 20:00 <u>Summer Game Fest</u></b> ⛱️
 
 <i>Venerdì 9 giugno</i>
