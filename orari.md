@@ -21,7 +21,7 @@
 <b>→ 23:59 <u>Devolver Digital Showcase</u></b> ✨
 
 <i>Venerdì 9 giugno</i>
-<b>→ 10:30 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️
+<s><b>→ 10:30 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️</s>
 <b>→ 15:00 Diablo IV</b>, modalità storia — feat. Phenrir 😈 <code>[Blind run]</code> 
 <b>→ 21:30 Pokémon Nero e Bianco</b>, postgame — feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
