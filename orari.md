@@ -32,4 +32,4 @@
 <b>→ 14:00 Poly Isaac League</b> 🏉 <code>[3° settimana]</code> 
 <b>→ 18:30 <u>Xbox Games Showcase</u></b> 🎮 
 <b>→ + <u>Starfield Direct</u></b> 🌌
-<b>→ 22:00 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code>
+<b>→ 22:40 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> #adv
