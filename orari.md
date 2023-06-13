@@ -2,34 +2,26 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>PIL:</b> <code>Sabaku_no_Fellers#9341</code>
 
-<i>Lunedì 5 maggio</i>
-<b>→ 17:00 Diablo IV</b>, "la Diabolica Commedia" — feat. Cydonia & Kurolily 📜 <code>[proviamo Phalanx]</code> #adv
+<i>Lunedì 12 giugno</i>
 <b>→ 22:00 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> 
 
-<i>Martedì 6 maggio</i>
-<b>→ 11:00 Poly Isaac League</b> 🏉 <code>[3° settimana]</code> 
-<b>→ 17:00 Diablo IV</b>, modalità storia — feat. Phenrir 😈 <code>[Blind run]</code> 
-<b>→ 22:00 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️ <code>[Micro maratona]</code>
+<i>Martedì 13 giugno</i>
+<b>→ 10:00 Poly Isaac League</b> 🏉 <code>[3° settimana]</code>
+<b>→ 16:30 <a href="https://www.twitch.tv/oldgenproject">Quattro chiacchiere: OldGen LIVE</a></b> 💬
+<b>→ 22:00 Recupero Ubisoft Forward e Capcom Showcase</b> ⏩ ✨
+<b>→ + The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️
 
-<i>Mercoledì 7 maggio</i>
-<b>→ 21:30 Genshin Impact</b> 🗺️ #adv
-
-<i>Giovedì 8 giugno</i>
-<b>→ 11:00 Poly Isaac League</b> 🏉 <code>[3° settimana]</code> 
-<b>→ 15:30 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> #adv
-<b>→ 20:00 <u>Summer Game Fest</u></b> ⛱️
-<b>→ 23:59 <u>Devolver Digital Showcase</u></b> ✨
-
-<i>Venerdì 9 giugno</i>
-<s><b>→ 10:30 The Legend of Zelda: Tears of the Kingdom</b> 🗡️🛡️</s>
-<b>→ 15:00 Diablo IV</b>, modalità storia — feat. Phenrir 😈 <code>[Blind run]</code> 
+<i>Mercoledì 14 giugno</i>
+<b>→ 17:00 Genshin Impact</b>, modalità storia 🗺️ #adv
 <b>→ 21:30 Pokémon Nero e Bianco</b>, postgame — feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
-<i>Sabato 10 giugno</i>
-<b>→ <i>Nessuna live!</i></b> <code>[Incredibile]</code>
+<i>Giovedì 15 giugno</i>
+<b>→ 10:30 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Morning Blind Run]</code>
 
-<i>Domenica 11 giugno</i>
-<b>→ 14:00 Poly Isaac League</b> 🏉 <code>[3° settimana]</code> 
-<b>→ 18:30 <u>Xbox Games Showcase</u></b> 🎮 
-<b>→ + <u>Starfield Direct</u></b> 🌌
-<b>→ 22:40 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code> #adv
+<i>Venerdì 16 e sabato 17 giugno</i>
+<b>→ <a href=https://www.termolicomics.it> Termoli Comics & Games</a></b> 📔
+<b>→ OldGen LIVE</b> 💬
+
+<i>Domenica 18 giugno</i>
+<b>→ 17:00 Pokémon Nero e Bianco</b>, postgame — feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+<b>→ 22:00 Diablo IV</b>, modalità storia — feat. Phenrir 💀 <code>[Blind run]</code>
