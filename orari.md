@@ -14,3 +14,6 @@
 <i>Mercoledì 14 giugno</i>
 <b>→ 17:00 Genshin Impact</b>, modalità storia 🗺️ #adv
 <b>→ 21:30 Pokémon Nero e Bianco</b>, postgame — feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+
+<i>Giovedì 15 giugno</i>
+<b>→ 10:30 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Morning Blind Run]</code>
