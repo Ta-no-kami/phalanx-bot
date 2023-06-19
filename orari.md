@@ -1,6 +1,6 @@
 <code>--------------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u></b>
-<b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b> | <b>PIL:</b> <code>Sabaku_no_Fellers#9341</code>
+<b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
 <i>Lunedì 19 giugno</i>
 <b>→ 17:00 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind Run]</code>
