@@ -13,6 +13,7 @@
 <b>→ 23:59 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Mercoledì 21 giugno</i>
+<b>→ 15:45 Nintendo Direct</b> 🎬
 <b>→ 17:00 Genshin Impact</b>, modalità storia 🗺️ #adv
 <b>→ 21:30 Live speciale</b> ✨
 
