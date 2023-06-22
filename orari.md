@@ -18,7 +18,7 @@
 <b>→ 21:30 Live speciale</b> ✨
 
 <i>Giovedì 22 giugno</i>
-<b>→ 15:00 Final Fantasy XVI</b> 🦤 <code>[One-shot, 1 di 2]</code>
+<b>→ 15:00 Final Fantasy XVI</b> 🦤 <code>[One-shot, 1 di 2]</code> #adv
 
 <i>Venerdì 23 giugno</i>
 <b>→ 21:30 Pokémon Nero e Bianco</b>, postgame — feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
