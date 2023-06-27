@@ -3,7 +3,7 @@
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
 <i>Lunedì 26 giugno</i>
-<b>→ 17:00 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind Run]</code>
+<b>→ 17:00 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
 <b>→ 21:30 The Legend of Zelda: Tears of the Kingdom</b> 🗡🛡
 
 <i>Martedì 27 giugno</i>
