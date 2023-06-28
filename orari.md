@@ -12,7 +12,7 @@
 
 <i>Mercoledì 28 giugno</i>
 <b>→ 11:30 Diablo IV</b>, modalità storia — feat. Phenrir 😈 <code>[Blind run]</code> #fine
-<b>→ 17:00 Genshin Impact</b>, modalità storia 🗺️ <code>[4 di 16]</code> #adv
+<b>→ 22:00 Genshin Impact</b>, modalità storia 🗺️ <code>[4 di 16]</code> #adv
 
 <i>Giovedì 29 giugno (da confermare)</i> 
 <b>→ 17:00 Alaloth: Champions of The Four Kingdoms</b> <code>[One-shot]</code> <i>Progetto Action RPG di stupendo successo italiano che mi ha anche citato lore-wise!</i>
