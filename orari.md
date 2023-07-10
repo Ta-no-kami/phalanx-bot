@@ -2,27 +2,29 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Lunedì 3 luglio</i>
-<b>→ Rientro dalla Giffoni Good Games (Salerno)</b> 🕹️
-
-<i>Martedì 4 luglio</i>
-<b>→ <i>Impegni super segreti</i></b>
-<b>→ 22:00 Dark Souls: Ascended Mod</b> 🔮 <code>[[Anima della Sfida II]]</code>
-
-<i>Mercoledì 5 luglio</i>
+<i>Lunedì 10 luglio</i>
 <b>→ 17:00 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
-<b>→ 21:30 Genshin Impact</b>, modalità storia 🗺️ <code>[5 di 16]</code> #adv
+<b>→ 21:30 OMORI</b> 💡 <code>[Blind run]</code>
 
-<i>Giovedì 6 luglio</i> 
-<b>→ 17:00 Elden Ring</b>, feat. Cydonia ♾ <code>[Seamless Co-op Run NG+]</code>
-<b>→ 21:30 The Legend of Zelda: Tears of the Kingdom</b> 🗡🛡 #fine 
+<i>Martedì 11 luglio</i>
+<b>→ 16:30 Quattro chiacchiere: <a href="https://www.twitch.tv/oldgenproject">OldGen LIVE</a></b> 💬
+<b>→ 22:00 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
-<i>Venerdì 7 luglio</i>
+<i>Mercoledì 12 luglio</i>
 <b>→ 17:00 Wo Long: Fallen Dynasty</b> 🥠 🐉 <code>[Blind run]</code>
-<b>→ 21:30 Pokémon Nero e Bianco</b>, postgame — feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+<b>→ 21:30 Genshin Impact</b>, modalità storia 🗺️ <code>[6 di 16]</code> #adv
 
-<i>Sabato 8 luglio</i>
-<b>→ 15:00 OMORI</b> 💡 <code>[Blind run]</code>
+<i>Giovedì 13 luglio</i> 
+<b>→ 17:00 Elden Ring</b>, feat. Cydonia ♾ <code>[Seamless Co-op Run NG+]</code>
+<b>→ 21:30 NVIDIA GeForce NOW</b>, si prova qualcosa 🎮 #adv
 
-<i>Domenica 9 luglio</i>
-<b>→ 14:00 Enter the Gungeon</b> 🔫
+<i>Venerdì 14 luglio</i>
+<b>→ 17:00 Wo Long: Fallen Dynasty</b> 🥠 🐉 <code>[Blind run]</code>
+<b>→ 21:30 OMORI</b> 💡 <code>[Blind run]</code>
+
+<i>Sabato 15 luglio</i>
+<b>→ <i>da decidere</i></b> 🤔
+
+<i>Domenica 16 luglio</i>
+<b>→ 10:30 Enter the Gungeon</b> 🔫
+<b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
