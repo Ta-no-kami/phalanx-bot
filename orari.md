@@ -26,5 +26,6 @@
 <b>→ <i>da decidere</i></b> 🤔
 
 <i>Domenica 16 luglio</i>
-<b>→ 10:30 Enter the Gungeon</b> 🔫
-<b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+<b>→ 17:00 Enter the Gungeon</b> 🔫
+<s><b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code></s>
+<b>→ 21:30 OMORI</b> 💡 <code>[Blind run]</code>
