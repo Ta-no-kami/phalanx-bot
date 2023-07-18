@@ -17,11 +17,11 @@
 <b>→ 21:30 Genshin Impact</b>, modalità storia 🗺️ <code>[7 di 16]</code> #adv
 
 <i>Venerdì 21 luglio</i>
-<b>→ 21:00 Armored Core VI: Fires of Rubicon</b>, feat. Pregianza 🦾🤖
+<b>→ 21:00 Quattro chiacchiere — Armored Core VI: Fires of Rubicon</b>, feat. Pregianza 🦾🤖
 
 <i>Sabato 22 luglio</i> 🎂
 <b>→ 12:00 OMORI</b> 💡 <code>[Blind run]</code>
 
 <i>Domenica 23 luglio</i>
 <s><b>→ 17:00 Enter the Gungeon</b> 🔫</s>
-<b>→ 21:30 Final Fantasy XVI</b> — recensione 🦤
+<b>→ 21:30 Final Fantasy XVI</b>, recensione 🦤
