@@ -4,7 +4,7 @@
 
 <i>Lunedì 17 luglio</i>
 <b>→ 17:00 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
-<b>→ 21:30 OMORI</b> 💡 <code>[Blind run]</code>
+<b>→ 21:30 Pokémon Nero e Bianco</b>, postgame — feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
 <i>Martedì 18 luglio</i>
 <b>→ 17:00 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
