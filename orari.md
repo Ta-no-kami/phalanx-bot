@@ -17,7 +17,7 @@
 <b>→ 21:30 Genshin Impact</b>, modalità storia 🗺️ <code>[7 di 16]</code> #adv
 
 <i>Venerdì 21 luglio</i>
-<b>→ 21:00 Quattro chiacchiere — Armored Core</b>, feat. Pregianza 🦾🤖
+<b>→ 21:00 Eventi speciali: Armored Core</b>, feat. Pregianza 🦾🤖
 
 <i>Sabato 22 luglio</i> 🎂
 <b>→ 12:00 OMORI</b> 💡 <code>[Blind run]</code>
