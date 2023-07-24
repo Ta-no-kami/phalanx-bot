@@ -7,8 +7,8 @@
 
 <i>Martedì 25 luglio</i>
 <b>→ 15:00 <a href="https://www.twitch.tv/redbullit"> Red Bull It:</a></b>
-<b>→ Vampire Survivors</b> 🧛🏽‍♂️
-<b>→ Enter the Gungeon</b> 🔫
+<b>Vampire Survivors</b> 🧛🏽‍♂️
+<b>Enter the Gungeon</b> 🔫
 <b>→ 21:30 Live speciale! ✨</b>
 
 <i>Mercoledì 26 luglio</i>
