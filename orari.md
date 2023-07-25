@@ -6,7 +6,7 @@
 <b>→ 21:30 Dark Souls: Ascended Mod</b> 🔮 <code>[Anima della Sfida II]</code>
 
 <i>Martedì 25 luglio</i>
-<b>→ 15:00 <a href="https://www.twitch.tv/redbullit"> Red Bull It:</a></b>
+<b>→ 16:00 <a href="https://www.twitch.tv/redbullit"> Red Bull It:</a></b>
 <b>Vampire Survivors</b> 🧛🏽‍♂️
 <b>Enter the Gungeon</b> 🔫
 <b>→ 21:30 Live speciale! ✨</b>
