@@ -12,7 +12,7 @@
 <b>→ 21:30 Resident Evil 4 (2005)</b> 🧿
 
 <i>Giovedì 17 agosto</i> 
-<b>→ 17:30 Talk Show </b> 🎙
+<b>→ 18:00 Talk Show </b> 🎙
 
 <i>Venerdì 18 agosto</i>
 <b>→ 15:00 OMORI</b> 💡 <code>[Blind run]</code> 
