@@ -15,7 +15,7 @@
 <b>→ 17:30 Talk Show </b> 🎙
 
 <i>Venerdì 18 luglio</i>
-<b>→ 15:00 OMORI 💡 <code>[Blind run]]</code> 
+<b>→ 15:00 OMORI</b> 💡 <code>[Blind run]</code> 
 
 <i>Sabato 19 luglio</i> 🎂
 <b>→</b> 🏖️
