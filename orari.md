@@ -17,7 +17,7 @@
 <i>Venerdì 18 agosto</i>
 <b>→ 15:00 OMORI</b> 💡 <code>[Blind run]</code> 
 
-<i>Sabato 19 agosto</i> 🎂
+<i>Sabato 19 agosto</i>
 <b>→</b> 🏖️
 
 <i>Domenica 20 agosto</i>
