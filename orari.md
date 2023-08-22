@@ -14,7 +14,7 @@
 <b>→ Resident Evil 4 (2005)</b> 🧿
 
 <i>Giovedì 24 agosto</i> 
-<b>→ 17:00 Immortals of Aveum</b> 🪄 [One-shot]
+<b>→ 17:00 Immortals of Aveum</b> 🪄 <code>[One-shot]</code> 
 
 <i>Venerdì 25 agosto</i>
 <b>→ 11:00 OMORI</b> 💡 <code>[Blind run]</code> 
