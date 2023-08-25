@@ -15,6 +15,7 @@
 
 <i>Giovedì 24 agosto</i> 
 <b>→ 17:00 Immortals of Aveum</b> 🪄 <code>[One-shot]</code> #adv
+<b>→ 23:59 Armored Core VI: Fires of Rubicon</b> 🔥
 
 <i>Venerdì 25 agosto</i>
 <b>→ 11:00 OMORI</b> 💡 <code>[Blind run]</code> 
