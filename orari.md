@@ -6,10 +6,10 @@
 <b>→ 17:30 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
 
 <i>Martedì 29 agosto</i>
-<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[9 di 16]</code> #adv
+<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[8.1 di 16]</code>
 
 <i>Mercoledì 30 agosto</i>
-<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[10 di 16]</code> #adv
+<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[8.2 di 16]</code>
 
 <i>Giovedì 31 agosto</i>
 <b>→ 17:00 OMORI</b> 💡 <code>[Blind run]</code> 
