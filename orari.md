@@ -2,26 +2,23 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Lunedì 21 agosto</i>
-<b>→ 22:00 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
+<i>Lunedì 28 agosto</i>
+<b>→ 17:30 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
 
-<i>Martedì 22 agosto</i>
-<b>→ 19:00 gamescom: Opening Night Live</b> ✨
-<b>→ Enter the Gungeon</b> 🔫
+<i>Martedì 29 agosto</i>
+<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[9 di 16]</code> #adv
 
-<i>Mercoledì 23 agosto</i>
-<b>→ 19:30 Future Game Show</b> 🔮
-<b>→ Resident Evil 4 (2005)</b> 🧿
+<i>Mercoledì 30 agosto</i>
+<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[10 di 16]</code> #adv
 
-<i>Giovedì 24 agosto</i> 
-<b>→ 17:00 Immortals of Aveum</b> 🪄 <code>[One-shot]</code> #adv
-<b>→ 23:59 Armored Core VI: Fires of Rubicon</b> 🔥
+<i>Giovedì 31 agosto</i>
+<b>→ 17:00 OMORI</b> 💡 <code>[Blind run]</code> 
 
-<i>Venerdì 25 agosto</i>
-<b>→ 11:00 OMORI</b> 💡 <code>[Blind run]</code> 
+<i>Venerdì 1 settembre</i>
+<b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
-<i>Sabato 26 agosto</i>
-<b>→</b> 🏖️
+<i>Sabato 2 settembre</i>
+<b>→ Vittoria Comics & Games | Vittoria (RG)</b> 🎮
 
-<i>Domenica 27 agosto</i>
-<b>→</b> 🏖️
+<i>Domenica 3 settembre</i>
+<b>→ 17:00 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
