@@ -6,13 +6,14 @@
 <b>→ 17:30 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
 
 <i>Martedì 29 agosto</i>
-<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[8.1 di 16]</code>
+<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[8.1 di 16]</code> #adv
 
 <i>Mercoledì 30 agosto</i>
-<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[8.2 di 16]</code>
+<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[9 di 16]</code> #adv
 
 <i>Giovedì 31 agosto</i>
-<b>→ 17:00 OMORI</b> 💡 <code>[Blind run]</code> 
+<b>→ 17:00 OMORI</b> 💡 <code>[Blind run]</code>
+<b>→ 20:00 Starfield</b> 🌠 <code>[One-shot]</code> 
 
 <i>Venerdì 1 settembre</i>
 <b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
