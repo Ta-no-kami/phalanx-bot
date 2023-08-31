@@ -12,6 +12,7 @@
 <b>→ 21:30 Genshin Impact</b> 🗺️ <code>[9 di 16]</code> #adv
 
 <i>Giovedì 31 agosto</i>
+<b>→ 16:00 Super Mario Bros. Wonder Direct</b> ⭐ <code>[Eventi speciali]</code>
 <b>→ 17:00 OMORI</b> 💡 <code>[Blind run]</code>
 <b>→ 20:00 Starfield</b> 🌠 <code>[One-shot]</code> 
 
