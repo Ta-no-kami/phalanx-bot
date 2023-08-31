@@ -13,7 +13,7 @@
 
 <i>Giovedì 31 agosto</i>
 <b>→ 16:00 Super Mario Bros. Wonder Direct</b> ⭐ <code>[Eventi speciali]</code>
-<b>→ 17:00 OMORI</b> 💡 <code>[Blind run]</code>
+<s><b>→ 17:00 OMORI</b></s> 💡 <code>[Blind run]</code>
 <b>→ 20:00 Starfield</b> 🌠 <code>[One-shot]</code> 
 
 <i>Venerdì 1 settembre</i>
