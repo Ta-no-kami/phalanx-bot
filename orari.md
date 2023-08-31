@@ -14,7 +14,7 @@
 <i>Giovedì 31 agosto</i>
 <b>→ 16:00 Super Mario Bros. Wonder Direct</b> ⭐ <code>[Eventi speciali]</code>
 <s><b>→ 17:00 OMORI</b></s> 💡 <code>[Blind run]</code>
-<b>→ 20:00 Starfield</b> 🌠 <code>[One-shot]</code> 
+<b>→ 20:00 Starfield</b> 🌠
 
 <i>Venerdì 1 settembre</i>
 <b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
