@@ -2,25 +2,21 @@
 <b><u>ORARI DELLE LIVE</u></b>
 <b>→ panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
 
-<i>Lunedì 28 agosto</i>
-<b>→ 17:30 The Witcher 2: Assassins of Kings</b> ⚗️ <code>[Blind run]</code>
+<i>Lunedì 4 settembre</i>
+<b>→ 18:30 LIVE DEL 4.0 ― Talk, Show-off, Q&A: tutto!</b> 🎉🪅🎊
+<b>→ 22:30 Immortals of Aveum</b> [2 di 2] #adv
 
-<i>Martedì 29 agosto</i>
-<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[8.1 di 16]</code> #adv
+<i>Martedì 5 settembre</i>
+<b>→ 16.30 Quattro chiacchiere: Old Gen LIVE (https://www.twitch.tv/oldgenproject)</b> 💬
+<b>→ 18:30 Resident Evil 4</b> 
+<b>→ 22:30 OMORI</b> 💡<code>[Blind run] </code>
+  
+<i>Mercoledì 6 settembre</i>
+<b>→ 11:00 Starfield</b> 🌠 <code>[12 Ore]</code> 
 
-<i>Mercoledì 30 agosto</i>
-<b>→ 21:30 Genshin Impact</b> 🗺️ <code>[9 di 16]</code> #adv
+<i>Giovedì 7 settembre</i>
+<b>→ 17:00 Pokèmon Vet Inversa</b> 
+<b>→ 21:30 Genshin Impact, Story Mode</b> 🗺 <code>[10 di 16]</code> #adv
 
-<i>Giovedì 31 agosto</i>
-<b>→ 16:00 Super Mario Bros. Wonder Direct</b> ⭐ <code>[Eventi speciali]</code>
-<s><b>→ 17:00 OMORI</b></s> 💡 <code>[Blind run]</code>
-<b>→ 20:00 Starfield</b> 🌠
-
-<i>Venerdì 1 settembre</i>
-<b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
-
-<i>Sabato 2 settembre</i>
-<b>→ Vittoria Comics & Games | Vittoria (RG)</b> 🎮
-
-<i>Domenica 3 settembre</i>
-<b>→ 17:00 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+<i>8-9-10 settembre</i>
+<b>→ Sassari Cosplay and Comics</b> 🚆
