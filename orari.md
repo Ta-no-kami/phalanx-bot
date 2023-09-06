@@ -15,8 +15,8 @@
 <b>→ 11:00 Starfield</b> 🌠 <code>[12 Ore]</code> 
 
 <i>Giovedì 7 settembre</i>
-<b>→ 17:00 Post-Game Pokémon Nero e Bianco, feat. Cydonia</b> ◼️◻️ <code>[Veteran run inversa]</code>
-<b>→ 21:30 Genshin Impact, Story Mode</b> 🗺 <code>[10 di 16]</code> #adv
+<b>→ 17:00 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
+<b>→ 21:30 Genshin Impact</b>, Story Mode 🗺 <code>[10 di 16]</code> #adv
 
 <i>8-9-10 settembre</i>
 <b>→ Sassari Cosplay and Comics</b> 🚆
