@@ -4,12 +4,13 @@
 
 <i>Lunedì 4 settembre</i>
 <b>→ 18:30 LIVE DEL 4.0 ― Talk, Show-off, Q&A: tutto!</b> 🎉🪅🎊
-<b>→ 22:30 Immortals of Aveum</b> [2 di 2] #adv
+<b>→ 22:30 Immortals of Aveum</b> <code>[2 di 2]</code> #adv
 
 <i>Martedì 5 settembre</i>
-<b>→ 16.30 Quattro chiacchiere: Old Gen LIVE (https://www.twitch.tv/oldgenproject)</b> 💬
-<b>→ 18:30 Resident Evil 4</b> 
-<b>→ 22:30 OMORI</b> 💡<code>[Blind run] </code>
+
+<b>→ 16.30 Quattro chiacchiere: <a href="https://www.twitch.tv/oldgenproject">Old Gen LIVE</a></b> 💬
+<b>→ 18:45 Resident Evil 4</b> 
+<b>→ 23:15 OMORI</b> 💡 <code>[Blind run] </code>
   
 <i>Mercoledì 6 settembre</i>
 <b>→ 11:00 Starfield</b> 🌠 <code>[12 Ore]</code> 
