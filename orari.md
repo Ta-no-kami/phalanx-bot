@@ -7,8 +7,7 @@
 <b>→ 22:30 Immortals of Aveum</b> <code>[2 di 2]</code> #adv
 
 <i>Martedì 5 settembre</i>
-
-<b>→ 16.30 Quattro chiacchiere: <a href="https://www.twitch.tv/oldgenproject">Old Gen LIVE</a></b> 💬
+<b>→ 16.30 Quattro chiacchiere: <a href="https://www.twitch.tv/oldgenproject">OldGen LIVE</a></b> 💬
 <b>→ 18:45 Resident Evil 4</b> 
 <b>→ 23:15 OMORI</b> 💡 <code>[Blind run] </code>
   
@@ -16,7 +15,7 @@
 <b>→ 11:00 Starfield</b> 🌠 <code>[12 Ore]</code> 
 
 <i>Giovedì 7 settembre</i>
-<b>→ 17:00 Pokèmon Vet Inversa</b> 
+<b>→ 17:00 Post-Game Pokémon Nero e Bianco, feat. Cydonia</b> ◼️◻️ <code>[Veteran run inversa]</code>
 <b>→ 21:30 Genshin Impact, Story Mode</b> 🗺 <code>[10 di 16]</code> #adv
 
 <i>8-9-10 settembre</i>
