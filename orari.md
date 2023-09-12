@@ -10,7 +10,7 @@
 <b>→ 17:00 Armored Core VI</b>, approfondimento difficulty spike 🔥 <code>[2 di 2]</code> #adv
 <b>→ 21:30 Post-Game Pokémon Nero e Bianco</b>, feat. Cydonia ◼️◻️ <code>[Veteran run inversa]</code>
 
-<i>Martedì 13 settembre</i>
+<i>Mercoledì 13 settembre</i>
 <b>→ 18:30 OMORI</b> 💡 <code>[Blind run]</code>
 <b>→ 22:30 Genshin Impact</b>, Story Mode 🗺 <code>[11 di 16]</code> #adv
 
