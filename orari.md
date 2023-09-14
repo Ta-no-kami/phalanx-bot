@@ -15,8 +15,12 @@
 <b>→ 22:30 Genshin Impact</b>, Story Mode 🗺 <code>[11 di 16]</code> #adv
 
 <i>Giovedì 14 settembre</i>
-<b>→ 18:30 The Witcher 2</b>, Iorveth's Path ⚗️ <code>[Blind run]</code> 
-<b>→ 22:30 Retrogaming Night ― Resident Evil 4 (2005)</b> 🧿
+<b>→ 15:30 Nintendo Direct</b>
+<b>― The Witcher 2</b>, Iorveth's Path ⚗️ <code>[Blind run]</code>  
+<b>→ 22:30 PlayStation State of Play</b> 
+<b>― Retrogaming Night</b>
+<b>― Resident Evil 4 (2005)</b> 🧿
+<b>― Super Mario 64</b> 🍄
 
 <i>Venerdì 15 settembre</i>
 <b>→ 17:00 Talk Show: pre-JapanTrip</b> 🎙
