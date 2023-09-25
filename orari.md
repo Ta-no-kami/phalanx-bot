@@ -20,7 +20,7 @@
 
 <i>Venerdì 29 settembre</i>
 <b>→ 17:00 Talk Show: post JapanTrip</b> 🎙
-<b>→ 21:30 Undertale ― Genocide</b>, feat. Cydonia ❤️ <code>[Co-Op Run]</code>
+<b>→ 21:30 Undertale ― Genocide</b>, feat. Cydonia 🌻 <code>[Co-Op Run]</code>
 
 <i>Sabato 30 settembre</i>
 <b>→ 18:30 Cyberpunk 2077: Phantom Liberty</b> 🗽 #adv
