@@ -26,4 +26,5 @@
 <b>→ 18:30 Cyberpunk 2077: Phantom Liberty</b> 🗽 #adv
 
 <i>Domenica 1 ottobre</i>
-<b>→ 21:30 Rogue Night ― Enter the Gungeon</b> 🔫
+<b>→ 11:00 Enter the Gungeon</b> 🔫
+<b>→ 21:30 Splatoon 3 ― Splatfest</b> 🐙
