@@ -14,7 +14,7 @@
 <s><b>→ 21:30 The Witcher 2</b>, Iorveth's Path ⚗️ <code>[Blind run]</code></s>
 
 <i>Giovedì 28 settembre</i>
-<b>→ 22:30 Retrogaming Night</b>
+<b>→ 21:30 Retrogaming Night</b>
 <b>― Resident Evil 4 (2005)</b> 🧿
 <b>― Super Mario 64</b> 🍄
 
