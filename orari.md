@@ -23,7 +23,7 @@
 <b>→ 21:30 Undertale ― Genocide</b>, feat. Cydonia 🌻 <code>[Co-Op Run]</code>
 
 <i>Sabato 7 ottobre</i>
-<b>→ 18:30 Cyberpunk 2077: Phantom Liberty</b> 🗽 #adv
+<b>→ 18:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
 
 <i>Domenica 8 ottobre</i>
-<b>→ 21:30 Splatoon 3 ― Splatfest</b> 🐙
+<b>→ 21:30 Enter the Gungeon</b> 🔫
