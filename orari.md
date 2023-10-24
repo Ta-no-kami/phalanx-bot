@@ -6,7 +6,6 @@
 <b>→ 21:00 Gears of War: Judgment</b> ⚙️ <code>[Blind run]</code>
 
 <i>Martedì 24 ottobre</i>
-<b>→ 16:30 Quattro chiacchiere: <a href="https://www.twitch.tv/oldgenproject">Old Gen LIVE</a></b> 💬
 <b>→ 21:00 OMORI</b> 💡 <code>[Blind run]</code>
 
 <i>Mercoledì 25 ottobre</i>
