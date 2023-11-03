@@ -10,12 +10,12 @@
 <b>→ 14:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 <b>→ 21:00 Speciale Halloween ― World of Horror</b> 🕸🎃
 
-<i>Mercoledì 1 ottobre</i>
+<i>Mercoledì 1 novembre</i>
 <b>→ Lucca Comics & Games</b> 🎮
 
-<i>Giovedì 1 ottobre</i>
+<i>Giovedì 2 novembre</i>
 <b>→ Lucca Comics & Games</b> 🎮
 
-<i>Venerdì 3 ottobre</i>
+<i>Venerdì 3 novembre</i>
 <b>→ Lucca Comics & Games</b> 🎮
 <b>→ 17:30 Enter the Gungeon</b> 🔫
