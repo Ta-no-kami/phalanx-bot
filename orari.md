@@ -13,7 +13,7 @@
 <b>→ 21:30 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 
 <i>Giovedì 9 novembre</i>
-<b>→ 17:00 Cyberpunk 2077: Phantom Liberty</b> 🗽 <code>[Blind run]</code>
+<b>→ 15:00 OMORI</b> 💡 <code>[Blind run]</code>
 <b>→ 21:30 Retrogaming Night</b>
 <b>― Resident Evil 4 (2005)</b> 🧿
 <b>― Super Mario 64</b> 🍄
