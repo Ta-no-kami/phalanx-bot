@@ -25,5 +25,5 @@
 <b>→ Niente live!</b> 🐟 <code>[Gardacon (BS)]</code>
 
 <i>Domenica 12 novembre</i>
-<b>→ 17:00 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
-<b>→ 21:30 Quattro chiacchiere ― <a href="https://reddit.com/r/SabakuNoMaiku">Reddit</a></b> 🎙
+<b>→ 16:30 Quattro chiacchiere ― <a href="https://reddit.com/r/SabakuNoMaiku">Reddit</a></b> 🎙
+<b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
