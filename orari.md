@@ -26,4 +26,4 @@
 
 <i>Domenica 26 novembre</i>
 <b>→ 17:00 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
-<b>→ 22:00 Effigie delle News LIVE</b> 🎙
+<b>→ 22:00 Quattro chiacchiare</b> 🎙
