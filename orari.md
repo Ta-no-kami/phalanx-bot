@@ -25,5 +25,5 @@
 <b>→ Niente live!</b> 🐟 <code>[Milan Games Week & Cartoomics]</code>
 
 <i>Domenica 26 novembre</i>
-<b>→ 17:00 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
-<b>→ 22:00 Quattro chiacchiare</b> 🎙
+<b>→ 17:00 Quattro chiacchiare</b> 🎙
+<b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
