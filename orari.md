@@ -13,7 +13,7 @@
 <b>→ 21:30 OMORI</b> 💡 <code>[Blind run]</code>
 
 <i>Giovedì 23 novembre</i>
-<b>→ 17:30 OMORI</b> 💡 <code>[Blind run]</code>
+<s><b>→ 17:30 OMORI</b> 💡 <code>[Blind run]</code></s>
 <b>→ 22:00 Retrogaming Night</b>
 <b>― Super Mario 64</b> 🍄
 <b>― Resident Evil 4 (2005)</b> 🧿
