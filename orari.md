@@ -13,7 +13,7 @@
 <b>→ 21:30 Genshin Impact</b>, Liyue 🗺 <code>[2 di 2]</code>
 
 <i>Giovedì 30 novembre</i>
-<b>→ 17:00 Persona 5 Tactica</b> 🌟 <code>[One-shot]</code>
+<b>→ 17:00 Persona 5 Tactica</b> 🌟 <code>[One-shot]</code> #adv
 <b>→ 21:30 Retrogaming Night</b>
 <b>― Super Mario 64</b> 🍄
 <b>― Resident Evil 4 (2005)</b> 🧿
