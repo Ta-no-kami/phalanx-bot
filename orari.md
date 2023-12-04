@@ -26,5 +26,5 @@
 <b>→ 17:00 OMORI</b> 🔪 <code>[Hikikomori]</code>
 
 <i>Domenica 10 dicembre</i>
-<b>→ 17:00 Quattro chiacchiere</b> 🎙
+<b>→ 17:00 Quattro chiacchiere</b> 🍵
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
