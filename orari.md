@@ -14,7 +14,7 @@
 
 <i>Giovedì 7 dicembre</i>
 <b>→ 17:00 Retrogaming</b> 
-<b>― Super Mario 64 🍄<b>
+<b>― Super Mario 64 🍄</b>
 <b>― Resident Evil 4 (2005)</b> 🧿
 <b>→ 23:59 <u>Eventi speciali ― The Game Awards 2023</u></b> 👨‍🎤 #dopocena
 
