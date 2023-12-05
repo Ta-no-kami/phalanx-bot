@@ -4,9 +4,9 @@
 
 <i>Lunedì 4 dicembre</i>
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
+<b>→ 23:59 Grand Theft Auto VI ― trailer</b> 💸 <code>[Reaction?!]</code>
 
 <i>Martedì 5 dicembre</i>
-<b>→ 14:30 Grand Theft Auto VI ― trailer</b> 💸 <code>[Reaction]</code>
 <b>→ 22:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 
 <i>Mercoledì 6 dicembre</i>
