@@ -13,13 +13,14 @@
 <b>→ 21:30 OMORI</b> 🔪 <code>[Hikikomori]</code>
 
 <i>Giovedì 7 dicembre</i>
-<b>→ 17:00 Retrogaming</b> 
-<b>― Super Mario 64 🍄</b>
-<b>― Resident Evil 4 (2005)</b> 🧿
+<s><b>→ 17:00 Retrogaming</b></s>
+<s><b>― Super Mario 64 </b> 🍄</s>
+<s><b>― Resident Evil 4 (2005)</b> 🧿</s>
 <b>→ 23:59 <u>Eventi speciali ― The Game Awards 2023</u></b> 👨‍🎤 #dopocena
 
 <i>Venerdì 8 dicembre</i>
 <b>→ 01:30 <u>Eventi speciali ― The Game Awards 2023</u></b> 👨‍🎤 #spaghettata
+<b>→ 05:00 <u>Eventi speciali ― The Game Awards 2023</u></b> 👨‍🎤 #maritozzo
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
 
 <i>Sabato 9 dicembre</i>
