@@ -12,7 +12,7 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 
 <i>Giovedì 21 dicembre</i>
-<b>→ 17:00 OMORI</b> 🔪 <code>[Hikikomori]</code>
+<b>→ 21:30 OMORI</b> 🔪 <code>[Hikikomori]</code>
 
 <i>Venerdì 22 dicembre</i>
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
