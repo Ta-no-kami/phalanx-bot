@@ -1,5 +1,5 @@
 <code>---------------------------------------------------</code>
-<b><u>ORARI DELLE LIVE</u> | → panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">link</a></b>
+<b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì 15 gennaio</i>
 <b>→ 17:00 Granblue Fantasy: Relink</b> 🔮 #adv
