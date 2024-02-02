@@ -15,10 +15,12 @@
 <b>→ 21:00 Subnautica</b> 🐳 <code>[Blind run]</code>
 
 <i>Venerdì 2 febbraio</i>
-<b>→ 21:00 Resident Evil 4: Separate Ways (2005)</b> 🧿 <code>[Retrogaming Format]</code>
+<s><b>→ 21:00 Resident Evil 4: Separate Ways (2005)</b> 🧿 <code>[Retrogaming Format]</code></s>
+<b>→ 17:00 Granblue Fantasy: Relink</b> 🔮 <code>[Parte 2]</code> #adv
 
 <i>Sabato 3 febbraio</i>
-<b>→ No live!</b> 🎥
+<s><b>→ No live!</b> 🎥</s>
+<b>→ 17:00 Resident Evil 4: Separate Ways (2005)</b> 🧿 <code>[Retrogaming Format]</code>
 
 <i>Domenica 4 febbraio</i>
 <b>→ 17:00 Effige delle Nwes LIVE</b> 🎙️
