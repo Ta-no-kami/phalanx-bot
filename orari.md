@@ -16,7 +16,7 @@
 
 <i>Venerdì 2 febbraio</i>
 <s><b>→ 21:00 Resident Evil 4: Separate Ways (2005)</b> 🧿 <code>[Retrogaming Format]</code></s>
-<b>→ 17:00 Granblue Fantasy: Relink</b> 🔮 <code>[Parte 2]</code> #adv
+<b>→ 21:30 Granblue Fantasy: Relink</b> 🔮 <code>[Parte 2]</code> #adv
 
 <i>Sabato 3 febbraio</i>
 <s><b>→ No live!</b> 🎥</s>
