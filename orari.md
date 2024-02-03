@@ -20,7 +20,7 @@
 
 <i>Sabato 3 febbraio</i>
 <s><b>→ No live!</b> 🎥</s>
-<s><b>→ 17:00 Resident Evil 4: Separate Ways (2005)</b> 🧿 <code>[Retrogaming Format]</code></s>
+<s><b>→ 22:30 Resident Evil 4: Separate Ways (2005)</b> 🧿 <code>[Retrogaming Format]</code></s>
 
 <i>Domenica 4 febbraio</i>
 <b>→ 17:00 Effige delle Nwes LIVE</b> 🎙️
