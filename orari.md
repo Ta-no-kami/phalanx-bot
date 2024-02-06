@@ -5,8 +5,9 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 
 <i>Martedì 6 febbraio</i>
-<b>→ 17:00 Foamstars</b> 🫧 <code>[Blind run]</code> #adv
+<b>→ 17:00 Foamstars</b> 🫧 #adv
 <b>→ 21:30 Subnautica</b> 🐳 <code>[Blind run]</code>
+<b>→ +00:30 PlayStation: State of Play</b> 🍑
 
 <i>Mercoledì 7 febbraio</i>
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
