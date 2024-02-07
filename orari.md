@@ -13,7 +13,8 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 
 <i>Giovedì 8 febbraio</i>
-<b>→ 21:00 Subnautica</b> 🐳 <code>[Blind run]</code>
+<b>→ 17:00 Quattro chiacchiere su Final Fantasy VII Rebirth</b> 👼
+<b>→ 21:30 Subnautica</b> 🐳 <code>[Blind run]</code>
 <b>→ + ROG Hyperion EVA-02 Edition</b> 🤖
 
 <i>Venerdì 9 febbraio</i>
