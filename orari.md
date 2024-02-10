@@ -24,5 +24,5 @@
 <b>→ 22:30 Resident Evil 4: Separate Ways (2005)</b> 🧿 <code>[Retrogaming format]</code>
 
 <i>Domenica 11 febbraio</i>
-<s><b>→ 17:00 Effige delle News LIVE</b>/s> 🎙️<
+<s><b>→ 17:00 Effige delle News LIVE</b></s> 🎙️
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
