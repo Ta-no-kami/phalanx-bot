@@ -11,7 +11,8 @@
 <b>→ 21:30 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code> <i>un poco più tardi 2.0</i>
 
 <i>Giovedì 15</i>
-<b>→ 22:00 Subnautica</b> 🐳 <code>[Blind run]</code> <i>un poco più tardi 3.0</i>
+<b>→ 21:00  Official Xbox Podcast</b> 🎤
+<b>→ dopo Subnautica</b> 🐳 <code>[Blind run]</code>
 
 <i>Venerdì 16</i>
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
