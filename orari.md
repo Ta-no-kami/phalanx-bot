@@ -18,7 +18,7 @@
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
 
 <i>Sabato 17</i>
-<b>→ No live!</b> 🥇
+<b>→ "no live"</b> 🥇
 
 <i>Domenica 18</i>
 <b>→ 17:00 Effige delle News LIVE</b> 🎙️
