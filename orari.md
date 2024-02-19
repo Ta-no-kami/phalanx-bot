@@ -5,7 +5,7 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🩶 <code>[Blind run]</code>
 
 <i>Martedì 20</i>
-<b>→ 21:00 Subnautica</b> 🐳 <code>[Blind run]</code> <i>un poco più tardi 1.0</i>
+<b>→ 21:00 Subnautica</b> 🐳 <code>[Blind run]</code>
 
 <i>Mercoledì 21</i>
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
