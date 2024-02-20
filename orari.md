@@ -9,6 +9,7 @@
 
 <i>Mercoledì 21</i>
 <b>→ 15:00 Nintendo Direct: Partner Showcase</b> 📍
+<b>→ 16:00 Elden Ring: Shadow of the Erdtree</b> 🌲 <code>[Gameplay reveal trailer]</code>
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 
 <i>Giovedì 22</i>
