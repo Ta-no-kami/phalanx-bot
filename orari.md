@@ -8,6 +8,7 @@
 <b>→ 21:00 Subnautica</b> 🐳 <code>[Blind run]</code>
 
 <i>Mercoledì 21</i>
+<b>→ 15:00 Nintendo Direct: Partner Showcase</b> 📍
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🦄 <code>[Blind run]</code>
 
 <i>Giovedì 22</i>
