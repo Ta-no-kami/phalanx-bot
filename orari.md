@@ -8,7 +8,7 @@
 <b>→ 22:00 Subnautica</b> 🤿 <code>[Recensione LIVE]</code>
 
 <i>Mercoledì 6</i>
-<b>→ 18:45 Xbox Partner Preview | March 2024 🔮
+<b>→ 18:45 Xbox Partner Preview | March 2024</b> 🔮
 <b>→ dopo The Witcher 3: Wild Hunt</b> 🌊 <code>[Blind run]</code>
 
 <i>Giovedì 7</i>
