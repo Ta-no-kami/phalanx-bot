@@ -12,7 +12,7 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> ⛵️ <code>[Blind run]</code>
 
 <i>Giovedì 14</i>
-<b>→ 21:00 Tekken 8</b>, feat. Baron & Loci 🕹️👊 <code>[Spirito dell'Arcade]</code>
+<b>→ 21:00 Tekken 8</b>, feat. Baron 🕹️👊 <code>[Spirito dell'Arcade]</code>
 
 <i>Venerdì 15</i>
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 <code>[Veteran run]</code>
