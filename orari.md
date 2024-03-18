@@ -5,7 +5,7 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> | Skellige: Missioni principali ⛵️ <code>[Blind run]</code>
 
 <i>Martedì 19</i>
-<i>→ Invito da <b>RoundTwo</b> per gioco da tavolo eldritchiano</i> 🎲
+<i>→ Invito da <b>RoundTwo</b> per un gioco da tavolo eldritchiano</i> 🎲
 
 <i>Mercoledì 20</i>
 <b>→ 21:00 Dark Souls: Archthrones</b> | demo ⚔️ <code>[Anima della Sfida II]</code> 
