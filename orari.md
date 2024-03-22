@@ -14,6 +14,7 @@
 <b>→ 22:30 Dragon's Dogma II</b> | PC 🐉 <code>[One-shot]</code> 
 
 <i>Venerdì 22</i>
+<b>→ 17:00 Rise of the Ronin</b> 🏯🌊 #adv
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
 
 <i>Sabato 23</i>
