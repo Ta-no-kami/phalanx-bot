@@ -21,5 +21,4 @@
 <b>→ Niente live</b> 🍛
 
 <i>Domenica 24</i>
-<b>→ 17:00 Effige delle News LIVE</b> 🎙️
-<b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
+<b>→ 22:00 Effige delle News LIVE</b> 🎙️
