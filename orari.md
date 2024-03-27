@@ -8,7 +8,7 @@
 <b>→ 22:30 Rise of the Ronin</b> 🏯🌊 #adv
 
 <i>Mercoledì 27</i>
-<b>→ 14:10 Talk show</b> | Stellar Blade 🌟
+<b>→ 14:00 Talk show</b> | Stellar Blade 🌟
 <b>→ 21:30 Tekken 8</b>, feat. Loci 🕹️👊 | 2 di 4 <code>[Spirito dell'Arcade EXTRA]</code>
 
 <i>Giovedì 28</i>
