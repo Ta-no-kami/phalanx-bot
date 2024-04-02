@@ -20,4 +20,4 @@
 <b>→ Niente live</b> 🍵
 
 <i>Domenica 7</i>
-<b>→ 21:30 Stellar Blade</b> | Demo 🌟🍑
+<b>→ 21:30 Stellar Blade</b> | demo 🌟🍑
