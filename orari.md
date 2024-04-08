@@ -11,7 +11,7 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🧌 <code>[Blind run]</code>
 
 <i>Giovedì 11</i>
-<b>→ 21:00 Gran Turismo 7</b> 🏎️
+<b>→ 22:00 Gran Turismo 7</b> 🏎️
 
 <i>Venerdì 12</i>
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
