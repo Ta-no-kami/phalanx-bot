@@ -14,6 +14,7 @@
 <b>→ 22:00 Gran Turismo 7</b> 🏎️
 
 <i>Venerdì 12</i>
+<b>→ 17:00 Superliminal</b> 🧩 #NVIDIAGFN #adv
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
 
 <i>Sabato 13</i>
