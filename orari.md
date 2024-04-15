@@ -1,25 +1,24 @@
 <code>---------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
-<i>Lunedì 8</i>
+<i>Lunedì 15</i>
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🧝‍♂️ <code>[Blind run]</code>
 
-<i>Martedì 9</i>
-<b>→ 21:00 Dark Souls: Archthrones</b> | demo ⚔️ <code>[Anima della Sfida II]</code> 
+<i>Martedì 16</i>
+<b>→...</b>
 
-<i>Mercoledì 10</i>
-<b>→ 21:00 The Witcher 3: Wild Hunt</b> 🧌 <code>[Blind run]</code>
+<i>Mercoledì 17</i>
+<b>→...</b>
 
-<i>Giovedì 11</i>
-<b>→ 22:00 Gran Turismo 7</b> 🏎️
+<i>Giovedì 18</i>
+<b>→ 21:00 The Witcher 3: Wild Hunt</b> 🧝‍♂️ <code>[Blind run]</code>
 
-<i>Venerdì 12</i>
-<b>→ 17:00 Superliminal</b> 🧩 #NVIDIAGFN #adv
+<i>Venerdì 19</i>
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
 
-<i>Sabato 13</i>
-<b>→ Niente live</b> 🍵
+<i>Sabato 20</i>
+<b>→ 11:30 No Rest for the Wicked</b>  🗡
 
-<i>Domenica 14</i>
-<b>→ 17:00 Quattro chiacchiere</b> 🫖
+<i>Domenica 21</i>
+<b>→ 17:00 Effige delle News</b> 📣
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
