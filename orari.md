@@ -5,10 +5,10 @@
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🧝‍♂️ <code>[Blind run]</code>
 
 <i>Martedì 16</i>
-<b>→...</b>
+<b>→ ...</b>
 
 <i>Mercoledì 17</i>
-<b>→...</b>
+<b>→ ...</b>
 
 <i>Giovedì 18</i>
 <b>→ 21:00 The Witcher 3: Wild Hunt</b> 🧝‍♂️ <code>[Blind run]</code>
