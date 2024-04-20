@@ -17,7 +17,7 @@
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
 
 <i>Sabato 20</i>
-<b>→ 11:30 No Rest for the Wicked</b>  🗡
+<b>→ 13:00 No Rest for the Wicked</b>  🗡
 
 <i>Domenica 21</i>
 <b>→ 17:00 Effige delle News</b> 📣
