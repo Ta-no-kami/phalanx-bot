@@ -20,5 +20,5 @@
 <b>→ 13:00 No Rest for the Wicked</b>  🗡
 
 <i>Domenica 21</i>
-<b>→ 17:00 Effige delle News</b> 📣
+<s><b>→ 17:00 Effige delle News</b></s> 📣
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
