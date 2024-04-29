@@ -2,7 +2,7 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì 29</i>
-<b>→ 19:00 ID@Xbox</b> 🎮
+<b>→ 19:00 ID@Xbox Digital Showcase</b> 🎮
 <b>→ dopo The Witcher 3: WH - Blood and Wine</b> 🍷 <code>[Blind run]</code>
 
 <i>Martedì 30</i>
