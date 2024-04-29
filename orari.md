@@ -3,13 +3,13 @@
 
 <i>Lunedì 29</i>
 <b>→ 19:00 ID@Xbox</b> 🎮
-<b>→ dopo The Witcher 3: Wild Hunt - Blood and Wine</b> 🍷 <code>[Blind run]</code>
+<b>→ dopo The Witcher 3: WH - Blood and Wine</b> 🍷 <code>[Blind run]</code>
 
 <i>Martedì 30</i>
 <b>→ 21:00 Lies of P</b> 🤥 | NG+
 
 <i>Mercoledì 1</i>
-<b>→ 21:00 The Witcher 3: Wild Hunt - Blood and Wine</b> 🍷 <code>[Blind run]</code>
+<b>→ 21:00 The Witcher 3: WH - Blood and Wine</b> 🍷 <code>[Blind run]</code>
 
 <i>Giovedì 2</i>
 <b>→ 22:00 Fall Guys</b>, ProGaming Italia 🍬
