@@ -15,10 +15,10 @@
 <b>→ 22:00 Fall Guys</b>, ProGaming Italia 🍬
 
 <i>Venerdì 3</i>
-<b>→ 21:30 Sandland</b> 🏝️ <code>[One-shot]</code>
+<b>→ 21:30 Sand Land</b> 🏝️ <code>[One-shot]</code>
 
 <i>Sabato 4</i>
-<b>→ 12:00 Dark Souls</b> 🌑
+<b>→ 12:00 Dark Souls</b> 🌑 <code>[Anniversario]</code>
 
 <i>Domenica 5</i>
 <b>→ 17:00 Quattro chiacchiere</b> ☕️
