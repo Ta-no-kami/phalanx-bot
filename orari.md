@@ -12,7 +12,7 @@
 <b>→ 21:00 The Witcher 3: WH - Blood and Wine</b> 🍷 <code>[Blind run]</code>
 
 <i>Giovedì 2</i>
-<b>→ 22:00 Fall Guys</b>, ProGaming Italia 🍬
+<b>→ 22:00 Fall Guys</b>, ProGaming Italia 🍬 #adv
 
 <i>Venerdì 3</i>
 <b>→ 21:30 Sand Land</b> 🏝️ <code>[One-shot]</code>
