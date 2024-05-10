@@ -14,11 +14,12 @@
 <b>→ 21:00 Lies of P</b> 🤥 | NG+
 
 <i>Venerdì 10</i>
-<b>→ 21:00 Lies of P</b> 🤥 | NG+
+<s><b>→ 21:00 Lies of P</b> 🤥 | NG+</s>
+<b>→ 21:30 Anima Oscura</b> 🌑 <code>[Rewatch]</code>
 
 <i>Sabato 11</i>
 <b>→ 13:00 Fear & Hunger</b> 🧟‍♀️ <code>[6 ore]</code>
 
 <i>Domenica 12</i>
-<b>→ 21:30 Anima Oscura</b> 🌑 <code>[Rewatch]</code>
+<s><b>→ 21:30 Anima Oscura</b> 🌑 <code>[Rewatch]</code></s>
 
