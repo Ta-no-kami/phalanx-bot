@@ -17,7 +17,7 @@
 <b>→ 21:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code>
 
 <i>Sabato 18</i>
-<b>→ 13:00 Feller's One-shot S2</b>
+<b>→ 13:00 Feller's One-shot S2</b> 🥃
 
 <i>Domenica 19</i>
 <b>→ 17:00 Effigie delle News</b> 📣
