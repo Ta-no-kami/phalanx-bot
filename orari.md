@@ -5,7 +5,7 @@
 <b>→ 21:00 The Witcher 3: WH - Blood and Wine</b> 🧛‍♂️ <code>[Blind run]</code>
 
 <i>Martedì 21</i>
-<b>→ 17:00 Elden Ring: Shadow of the Erdtree</b> 🌲 | Story Trailer <code>[Reaction]</code>
+<b>→ 17:00 Elden Ring: Shadow of the Erdtree</b> 🌲 | Story Trailer
 <s><b>→ 22:00 Senua's Saga: Hellblade II</b> ✒️</s>
 
 <i>Mercoledì 22</i>
