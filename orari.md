@@ -14,7 +14,7 @@
 <b>→ Niente live!</b> 🫡
 
 <i>Venerdì 31</i>
-<b>→ 22:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code> #FIN
+<b>→ 22:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code> #FINE
 
 <i>Sabato 1</i>
 <b>→ Niente live!</b> 🫡
