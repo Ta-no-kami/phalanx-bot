@@ -11,7 +11,7 @@
 <b>→ 21:00 The Witcher 3: WH - Blood and Wine</b> 🧛‍♂️ <code>[Blind run]</code>
 
 <i>Giovedì 30</i>
-<b>→ Niente live!</b> 🫡
+<b>→ 23:59 State of Play | PlayStation</b> 🎮
 
 <i>Venerdì 31</i>
 <b>→ 22:30 Bloodborne</b>, feat. Cydonia 🩸 | NG+ <code>[Veteran run]</code> #FINE
