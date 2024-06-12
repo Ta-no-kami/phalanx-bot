@@ -17,7 +17,11 @@
 <b>→ Niente live!</b> 🫡
 
 <i>Sabato 15</i>
-<b>→ Elden Ring: Shadow of the Erdtree</b> 🌑🌲 <code>[Red Bull Levels]</code>
+<code>>Red Bull Levels</code>
+<b>→18:00 The Tarnished Trials - Bingo Edition</b> 
+<b>→19:05 Dance Pad Workshop with MissMikkaa</b> 
+<b>→19:30 The Brain and Brawn Challenge</b> 
+<b>→20:15 Elden Ring: Shadow of the Erdtree</b> 🌑🌲
 
 <i>Domenica 16</i>
 <b>→ 21:30 Fellers' one-shots</b> ⛵
