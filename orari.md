@@ -16,8 +16,7 @@
 <i>Venerdì 14</i>
 <b>→ Niente live!</b> 🫡
 
-<i>Sabato 15</i>
-<code>>Red Bull Levels</code>
+<i>Sabato 15</i> | <code>Red Bull Levels</code>
 <b>→18:00 The Tarnished Trials - Bingo Edition</b> 
 <b>→19:05 Dance Pad Workshop with MissMikkaa</b> 
 <b>→19:30 The Brain and Brawn Challenge</b> 
