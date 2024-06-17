@@ -1,26 +1,25 @@
 <code>---------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
-<i>Lunedì 10</i>
-<b>→ 21:00 Lies of P</b> 🤥 | NG+ #fine
+<i>Lunedì 17</i>
+<b>→ 21:00 The Witcher 3: WH - Blood and Wine</b> 🧛‍♂️ <code>[Blind run]</code>
 
-<i>Martedì 11</i>
-<b>→ 21:30 Metal Gear</b> | ZERO/#2 🐍⚙️ <code>[Veteran Run II]</code>
+<i>Martedì 18</i>
+<b>→ 15:30 Nintendo Direct</b> 🐌
+<b>→ 21:30 Metal Gear</b> | #0/3 🐍⚙️ <code>[Veteran Run II]</code>
 
-<i>Mercoledì 12</i>
-<b>→ 21:30 Metal Gear</b> | ZERO/#3 🐍⚙️ <code>[Veteran Run II]</code>
+<i>Mercoledì 19</i>
+<b>→ 21:00 The Witcher 3: WH - Blood and Wine</b> 🍷 <code>[Blind run]</code>
 
-<i>Giovedì 13</i>
+<i>Giovedì 20</i>
+<b>→ 21:30 Metal Gear</b> | #0/4 📦⚙️ <code>[Veteran Run II]</code>
+
+<i>Venerdì 21</i>
+<b>→ Elden Ring: Shadow of the Erdtree</b> 🌚 <code>[12 ore]</code>
+
+<i>Sabato 22</i>
 <b>→ Niente live!</b> 🫡
+<b>→<i>Termoli Comics & Games</i></b> 🏖️
 
-<i>Venerdì 14</i>
-<b>→ Niente live!</b> 🫡
-
-<i>Sabato 15</i> | <code>Red Bull Levels</code>
-<b>→18:00 The Tarnished Trials - Bingo Edition</b> 
-<b>→19:05 Dance Pad Workshop with MissMikkaa</b> 
-<b>→19:30 The Brain and Brawn Challenge</b> 
-<b>→20:15 Elden Ring: Shadow of the Erdtree</b> 🌑🌲
-
-<i>Domenica 16</i>
+<i>Domenica 23</i>
 <b>→ 21:30 Fellers' one-shots</b> ⛵
