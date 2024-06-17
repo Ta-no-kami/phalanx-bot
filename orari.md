@@ -6,16 +6,16 @@
 
 <i>Martedì 18</i>
 <b>→ 15:30 Nintendo Direct</b> 🐌
-<b>→ 21:30 Metal Gear</b> | #0/3 🐍⚙️ <code>[Veteran Run II]</code>
+<b>→ 21:30 Metal Gear</b> | #0/4 🐍⚙️ <code>[Veteran Run II]</code>
 
 <i>Mercoledì 19</i>
 <b>→ 21:00 The Witcher 3: WH - Blood and Wine</b> 🍷 <code>[Blind run]</code>
 
 <i>Giovedì 20</i>
-<b>→ 21:30 Metal Gear</b> | #0/4 📦⚙️ <code>[Veteran Run II]</code>
+<b>→ 21:30 Metal Gear</b> | #0/5 📦⚙️ <code>[Veteran Run II]</code>
 
 <i>Venerdì 21</i>
-<b>→ Elden Ring: Shadow of the Erdtree</b> 🌚 <code>[12 ore]</code>
+<b>→ 12:00 Elden Ring: Shadow of the Erdtree</b> 🌚 <code>[12 ore]</code>
 
 <i>Sabato 22</i>
 <b>→ Niente live!</b> 🫡
