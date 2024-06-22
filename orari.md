@@ -22,4 +22,5 @@
 <b>→<i>Termoli Comics & Games</i></b> 🏖️
 
 <i>Domenica 23</i>
-<b>→ 21:30 Fellers' one-shots</b> ⛵
+<b><s>→ 21:30 Fellers' one-shots</s></b> ⛵
+<b>→ 21:30 Metal Gear</b> | #0/6 🐍⚙️ <code>[Veteran Run II]</code>
