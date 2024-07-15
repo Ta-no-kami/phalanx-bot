@@ -20,6 +20,7 @@
 
 <i>Sabato 20</i>
 <b>→ 15:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌚 <code>[6 ore]</code>
+<b>→ 21:30 Doki Doki Literature Club!</b> 👧🎒
 
 <i>Domenica 21</i>
 <b>→ 17:00 Effigie delle News</b> 📣
