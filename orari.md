@@ -23,4 +23,4 @@
 <b>→ 21:30 Doki Doki Literature Club!</b> 👧🎒
 
 <i>Domenica 21</i>
-<b>→ 17:00 Effigie delle News</b> 📣
+<b>→ 21:30 Quattro chiacchiere</b> 🫖
