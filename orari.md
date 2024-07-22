@@ -1,26 +1,23 @@
 <code>---------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
-<i>Lunedì 15</i>
-<b>→ 15:00 Doki Doki Literature Club!</b> 👧🎒
-<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌚
+<i>Lunedì 22</i>
+<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌳
 
-<i>Martedì 16</i>
-<b>→ 21:30 Metal Gear Solid</b> 🐍⚙️ <code>[Veteran Run II]</code>
+<i>Martedì 23</i>
+<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🐴
 
-<i>Mercoledì 17</i>
-<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌚
+<i>Mercoledì 24</i>
+<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🪱
 
-<i>Giovedì 18</i>
-<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌚
+<i>Giovedì 25</i>
+<b>→ Chiuso per ferie</b> 🚘🏖
 
-<i>Venerdì 19</i>
-<b>→ 15:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌚
-<b>→ 21:30 Metal Gear Solid</b> 📦⚙️ <code>[Veteran Run II]</code>
+<i>Venerdì 26</i>
+<b>→ Chiuso per ferie</b> 🚘🏖
 
-<i>Sabato 20</i>
-<b>→ 15:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌚 <code>[6 ore]</code>
-<b>→ 21:30 Doki Doki Literature Club!</b> 👧🎒
+<i>Sabato 27</i>
+<b>→ Chiuso per ferie</b> 🚘🏖
 
-<i>Domenica 21</i>
-<b>→ 21:30 Quattro chiacchiere</b> 🫖
+<i>Domenica 28</i>
+<b>→ Chiuso per ferie</b> 🚘🏖
