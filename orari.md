@@ -19,6 +19,6 @@
 <i>Sabato 10</i>
 <b>→ Niente live!</b> ⏺
 
-<i>Domenica 4</i>
+<i>Domenica 11</i>
 <b>→ 17:00 Effigie delle News</b> 🗞📣
 <b>→ 21:30 Metal Gear Solid</b> 🐍 🎮 <code>[Veteran Run II]</code>
