@@ -1,24 +1,24 @@
 <code>---------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
-<i>Lunedì 5</i>
-<b>→ Niente live!</b> ⏺
+<i>Lunedì 12</i>
+<b>→ 21:00 Fallout: New Vegas</b> 🥫
 
-<i>Martedì 6</i>
-<b>→ 21:30 Metal Gear Solid</b> 🐍 🎮 <code>[Veteran Run II]</code>
+<i>Martedì 13</i>
+<b>→ 21:00 Fear & Hunger</b> 🫨 <code>[Blind Run]</code>
 
-<i>Mercoledì 7</i>
-<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🐴
+<i>Mercoledì 14</i>
+<b>→ 21:00 Fallout: New Vegas</b> 🛢️
 
-<i>Giovedì 8</i>
+<i>Giovedì 15</i>
+<b>→ 21:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
+
+<i>Venerdì 16</i>
 <b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🌳
 
-<i>Venerdì 9</i>
+<i>Sabato 17</i>
 <b>→ Niente live!</b> ⏺
 
-<i>Sabato 10</i>
-<b>→ Niente live!</b> ⏺
-
-<i>Domenica 11</i>
-<b>→ 17:00 Effigie delle News</b> 🗞📣
-<b>→ 21:30 Metal Gear Solid</b> 🐍 🎮 <code>[Veteran Run II]</code>
+<i>Domenica 18</i>
+<b>→ 17:00 Quattro chiacchiere</b> 🥤
+<b>→ 21:00 Elden Ring: Shadow of the Erdtree | The All Loring</b> 🪚
