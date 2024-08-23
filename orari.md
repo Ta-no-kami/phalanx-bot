@@ -16,7 +16,7 @@
 <b>→ <i>In divenire</i></b> 🔮
 
 <i>Venerdì 23</i>
-<b>→ 21:00 Metal Gear Solid: Special Missions</b> ❗️ <code>[Veteran Run II]</code>
+<b>→ 21:30 Metal Gear Solid: Special Missions</b> ❗️ <code>[Veteran Run II]</code>
 
 <i>Sabato 24</i>
 <b>→ Niente live!</b> ⏺
