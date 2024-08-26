@@ -1,26 +1,24 @@
 <code>---------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
-<i>Lunedì 19</i>
-<b>→ Niente live!</b> ⏺
+<i>Lunedì 26</i>
+<b>→ 21:30 Fallout: New Vegas</b> 🥫
 
-<i>Martedì 20</i>
-<b>→ <i>In divenire</i></b> 🔮
-<b>→ 19:00 Gamescom Opening Night Live 2024 ✨</b>
+<i>Martedì 27</i>
+<b>→ 21:30 Fear & Hunger</b> 🫨 <code>[Blind Run]</code>
 
-<i>Mercoledì 21</i>
-<b>→ <i>In divenire</i></b> 🔮
+<i>Mercoledì 28</i>
+<b>→ 21:00 Fallout: New Vegas</b> 🛢️
 
-<i>Giovedì 22</i>
-<b>→ 15:00 Monster Hunter Wilds | Demo</b> 🐗
-<b>→ <i>In divenire</i></b> 🔮
+<i>Giovedì 29</i>
+<b>→ 22:00 Visions of Mana</b> 🛐 #adv <code>[One-shot]</code>
 
-<i>Venerdì 23</i>
+<i>Venerdì 30</i>
 <b>→ 21:30 Metal Gear Solid: Special Missions</b> ❗️ <code>[Veteran Run II]</code>
 
-<i>Sabato 24</i>
-<b>→ Niente live!</b> ⏺
+<i>Sabato 31</i>
+<b>→ 17:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
 
-<i>Domenica 25</i>
-<b>→ 17:00 Effigie delle News</b> 🗞
+<i>Domenica 1</i>
+<b>→ 17:00 Elden Ring | The All Loring</b> 🌳
 <b>→ 21:30 Metal Gear Solid: Special Missions</b> 📦 <code>[Veteran Run II]</code>
