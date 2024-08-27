@@ -5,6 +5,7 @@
 <b>→ 21:30 Fallout: New Vegas</b> 🥫
 
 <i>Martedì 27</i>
+<b>→ 15:30 Indie World e Nintendo Direct: Partner Showcase</b> 🤡 
 <b>→ 21:30 Fear & Hunger</b> 🫨 <code>[Blind Run]</code>
 
 <i>Mercoledì 28</i>
