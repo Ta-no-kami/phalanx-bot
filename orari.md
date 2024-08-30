@@ -18,7 +18,7 @@
 <b>→ 21:30 Metal Gear Solid: Special Missions</b> ❗️ <code>[Veteran II]</code>
 
 <i>Sabato 31</i>
-<b>→ 17:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
+<b>→ 18:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
 
 <i>Domenica 1</i>
 <b>→ 17:00 Elden Ring | The All Loring</b> 🌳
