@@ -1,25 +1,25 @@
 <code>---------------------------------------------------</code>
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
-<i>Lunedì 26</i>
-<b>→ 21:30 Fallout: New Vegas</b> 🥫
+<i>Lunedì 2</i>
+<b>→ 21:00 Monster Hunter Wilds | Materiale inedito</b> 🐗
+<b>→ dopo Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
 
-<i>Martedì 27</i>
-<b>→ 15:30 Indie World e Nintendo Direct: Partner Showcase</b> 🤡 
-<b>→ 21:30 Fear & Hunger</b> 🫨 <code>[Blind Run]</code>
+<i>Martedì 3</i>
+<b>→ Niente live!</b> ⏺
 
-<i>Mercoledì 28</i>
-<b>→ 21:00 Fallout: New Vegas</b> 🛢️
+<i>Mercoledì 4</i>
+<b>→ Niente live!</b> ⏺
 
-<i>Giovedì 29</i>
-<b>→ 22:00 Visions of Mana</b> 🛐 #adv <code>[One-shot]</code>
+<i>Giovedì 5</i>
+<b>→ Niente live!</b> ⏺
 
-<i>Venerdì 30</i>
-<b>→ 21:30 Metal Gear Solid: Special Missions</b> ❗️ <code>[Veteran II]</code>
+<i>Venerdì 6</i>
+<b>→ 21:00 Fallout: New Vegas</b> 🥫
 
-<i>Sabato 31</i>
-<s><b>→ 18:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code></s>
+<i>Sabato 7</i>
+<b>→ 21:30 Elden Ring | The All Loring</b> 🌳
 
-<i>Domenica 1</i>
-<b>→ 17:00 Elden Ring | The All Loring</b> 🌳
+<i>Domenica 8</i>
+<b>→ 17:00 Quattro chiacchiere</b> 🍨
 <b>→ 21:30 Metal Gear Solid: Special Missions</b> 📦 <code>[Veteran II]</code>
