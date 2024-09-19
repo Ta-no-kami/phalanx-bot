@@ -5,6 +5,7 @@
 <b>→ 21:00 Fallout: New Vegas</b> 🥫
 
 <i>Martedì 17</i>
+<b>→ 17:00 Dragon Age: The Veilguard</b> 💅🏿💂🏿 <code>[Effigie]</code>
 <b>→ 22:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
 
 <i>Mercoledì 18</i>
