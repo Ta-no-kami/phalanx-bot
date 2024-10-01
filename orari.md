@@ -23,5 +23,5 @@
 <b>→ 21:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
 
 <i>Domenica</i>
-<b>→ 17:00 Quattro chiacchiere</b> | Giappone 2024 
+<b>→ 17:00 Quattro chiacchiere</b> | Giappone 2024 🫖
 <b>→ 21:30 Metal Gear Solid 2: Sons of Liberty</b> 🗽 <code>[Veteran II]</code>
