@@ -12,7 +12,7 @@
 
 <i>Giovedì</i>
 <b>→ 15:00 Fallout: New Vegas</b> 🥫
-<b>→ 18:00 RPG Night Live 2024</b> 🌃
+<b>→ 21:00 RPG Night Live 2024</b> 🌃
 
 <i>Venerdì</i>
 <b>→ 21:30 Metal Gear Solid 2: Sons of Liberty</b> 🗽 <code>[Veteran II]</code>
