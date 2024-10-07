@@ -11,6 +11,7 @@
 <b>→ 21:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
 
 <i>Giovedì</i>
+<b>→ 15:00 Fallout: New Vegas</b> 🥫
 <b>→ 18:00 RPG Night Live 2024</b> 🌃
 
 <i>Venerdì</i>
