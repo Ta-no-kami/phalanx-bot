@@ -19,7 +19,7 @@
 <b>→ 21:30 Metal Gear Solid 2: Sons of Liberty</b> 📦 <code>[Veteran II]</code>
 
 <i>Sabato</i>
-<b>→ 20:00 Quattro chiacchiere</b> feat. Pregianza 🫖
+<b>→ 20:00 Quattro chiacchiere</b>, feat. Pregianza 🫖
 
 <i>Domenica</i>
 <b>→ Game Ground 2024 | Bolzano Gaming Festival</b> 🥮
