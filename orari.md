@@ -8,6 +8,7 @@
 <b>→ 22:00 Fallout: New Vegas</b> 🥫
 
 <i>Mercoledì</i>
+<b>→ 15:45 Monster Hunter Wilds Showcase | Ottobre 2024</b> 🐗
 <b>→ 21:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
 
 <i>Giovedì</i>
