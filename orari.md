@@ -2,25 +2,22 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 21:00 Fear & Hunger</b> 💀 <code>[Blind Run]</code>
+<b>→ 21:00 Apokalypsis: Bloodborne</b>, codex "Anima della Caccia"& risposte 🩸
 
 <i>Martedì</i>
-<b>→ 22:00 Fallout: New Vegas</b> 🥫
+<b>→ 21:00 Metal Gear Solid 2: Sons of Liberty</b>, Extra 📷🐍 <code>[Veteran II]</code>
 
 <i>Mercoledì</i>
-<b>→ 15:45 Monster Hunter Wilds Showcase | Ottobre 2024</b> 🐗
-<b>→ 21:00 Fear & Hunger</b> 🍴 <code>[Blind Run]</code>
+<b>→ Horror Night | Penumbra: Overture</b> 🎃
 
 <i>Giovedì</i>
-<b>→ 17:00 Romancing SaGa 2: Revenge of the Seven</b> 🏴󠁪󠁰󠀴󠀱󠁿 <code>[One-shot]</code>  #adv
-<b>→ 21:00 RPG Night Live 2024</b> 🌃 <code>[luccacomicsandgames]</code>
+<b>→ Lucca Comics & Games 2024</b> 🔖
 
 <i>Venerdì</i>
-<b>→ 21:30 Metal Gear Solid 2: Sons of Liberty</b> 🗽 <code>[Veteran II]</code>
+<b>→ Lucca Comics & Games 2024</b> 🔖
 
 <i>Sabato</i>
-<b>→ 21:00 Effigie</b> 🫖 <code>[Da confermare]</code>
+<b>→ Monster Hunter: Wilds</b> 🦆 <code>[Demo]</code>
 
 <i>Domenica</i>
-<b>→ 17:00 Quattro chiacchiere</b>, Tier list dei boss di SoTE 🥇
-<b>→ 21:30 Metal Gear Solid 2: Sons of Liberty</b> 🐍 <code>[Veteran II]</code>
+<b>→ 12:00 Dragon Age: The Veilguard</b> 🟣 <code>[Maratona]</code> 
