@@ -2,7 +2,7 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 21:00 Apokalypsis: Bloodborne</b>, codex "Anima della Caccia"& risposte 🩸
+<b>→ 21:00 Apokálypsis: Bloodborne</b>, codex "Anima della Caccia"& risposte 🩸
 
 <i>Martedì</i>
 <b>→ 21:00 Metal Gear Solid 2: Sons of Liberty</b>, Extra 📷🐍 <code>[Veteran II]</code>
