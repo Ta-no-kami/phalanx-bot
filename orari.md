@@ -2,14 +2,13 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 17:30 The Game Awards 2024: nominations</b> 🏵️
-<b>→ 22:00 Fallout: New Vegas</b> 🥫
+<b>→ 21:00 Fallout: New Vegas</b> 🥫
 
 <i>Martedì</i>
-<b>→ 21:30 Anima dell’Anima</b> 🔥
+<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran]</code>
 
 <i>Mercoledì</i>
-<b>→ 12:00 Maratona Senza Frontiere</b>, Gears of War 4 🪖
+<b>→ 21:00 Gears of War 4</b> 🪖
 
 <i>Giovedì</i>
 <b>→ 21:30 Fallout: New Vegas</b> 🥫
@@ -18,7 +17,8 @@
 <b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran]</code>
 
 <i>Sabato</i>
-<b><i>→ Milan Games Week & Cartoomics 2024</i></b> 🕹️
+<b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
+<b>→ 15:00 Fear & Hunger</b>, feat. Frapollo94 💀🍴
 <b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran]</code>
