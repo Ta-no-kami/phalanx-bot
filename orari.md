@@ -5,7 +5,7 @@
 <b><i>→ Natale in Famiglia anticipato</i></b> 🎄
 
 <i>Martedì</i>
-<b>→ 21:30 Gears of War 5</b> 🪖 <code>[Blind run]</code>
+<b>→ 21:30 Gear 5</b> 🪖 <code>[Blind run]</code>
 
 <i>Mercoledì</i>
 <b>→21:00 Fallout: New Vegas</b> 🥫
