@@ -2,24 +2,23 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 21:00 Fallout: New Vegas</b> 🥫
+<b><i>→ Natale in Famiglia anticipato</i></b> 🎄
 
 <i>Martedì</i>
-<b>→ 21:00 Fellers' One-shot</b> 👊
+<b>→ 21:30 Gears of War 5</b> 🪖 <code>[Blind run]</code>
 
 <i>Mercoledì</i>
-<b>→ 21:00 Gears of War 4</b> 🪖
-<b>→ +Anima dell’Anima</b> 🔥
+<b>→21:00 Fallout: New Vegas</b> 🥫
 
 <i>Giovedì</i>
-<b>→ 20:30 PC Gaming Show 2024</b> 🖥️
-<b>→ +Fallout: New Vegas</b> 🥫
+<b>→ 22:00 The Game Awards 2024</b> 🏆
 
 <i>Venerdì</i>
-<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran]</code>
+<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
 
 <i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
-<b><i>→ Partecipazione dal vivo alla Maratona di Dario Moccia</i></b> 🏃
+<b>→ 17:00 Quattro chiacchiere</b> 🫖
+<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
