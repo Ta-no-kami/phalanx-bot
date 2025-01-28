@@ -11,13 +11,10 @@
 <b>→ 21:00 Feller's One-shot</b> ☕
 
 <i>Giovedì</i>
-<b>→ 18:30 Xbox Developer Direct 2025</b> 🎮
-<b>→ 20:30 Elden Ring</b> 💍 <code>[feat. Poly]</code>
-<b>→ +Anima dell'Anima</b> 🔥
+<b><i>→ Niente live...</i></b> 🕵️
 
 <i>Venerdì</i>
-<b>→ 12:00 Alien: Isolation</b> 👾 <code>[Parte 2]</code> 
-<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
+<b><i>→ Niente live...</i></b> 🕵️
 
 <i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
