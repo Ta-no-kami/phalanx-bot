@@ -15,7 +15,7 @@
 <b>→ 21:00 Feller's One-shot</b> ☕
 
 <i>Venerdì</i>
-<b>→ 11:30 Elden Ring: Nightreign</b> ⚔️ <code>[Network Test]</code>
+<b>→ 11:00 Elden Ring: Nightreign</b> ⚔️ <code>[Network Test]</code>
 <b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
 
 <i>Sabato</i>
