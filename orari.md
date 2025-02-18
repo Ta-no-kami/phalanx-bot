@@ -14,7 +14,7 @@
 <b>→ 21:00 Feller's One-shot</b> ☕
 
 <i>Venerdì</i>
-<b>→ 12:00 Dark Souls: The Scorched Contract</b>, feat. Frapolo94 ⚔️ <code>[Marathon, 2/2]</code>
+<b>→ 12:00 Dark Souls: The Scorched Contract</b>, feat. Frapollo94 ⚔️ <code>[Marathon, 2/2]</code>
 
 <i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
