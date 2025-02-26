@@ -2,24 +2,26 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 21:00 Fallout: New Vegas - Lonesome Road</b> 🥫 
+<b>→ 17:00 Monster Hunter: Wilds</b> <code>Recensione LIVE</code>🐗
+<b>→ 18:00 Annapurna Interactive Showcase 2025</b> 🌌
+<b>→ 19:00 ID@Xbox Showcase 2025</b> 📺
 
 <i>Martedì</i>
-<b>→ 21:00 Gears 5: Hivebusters</b> 🪖 <code>[Blind run]</code>
+<b>→ 21:30 Avowed</b>, feat. Cydonia 💫 <code>[One-shot, 2/2]</code> #adv
 
 <i>Mercoledì</i>
-<b>→ 21:30 Avowed</b>, feat. Cydonia 💫 <code>[One-shot, 1/2]</code>
+<s><b>→ 21:30 Fallout: New Vegas - La Casa vince sempre</b></s> 🥫 
 
 <i>Giovedì</i>
-<b>→ 21:00 Feller's One-shot</b> ☕
+<b>→ 12:00 Monster Hunter: Wilds</b> <code>[Maratona]</code>🐗
 
 <i>Venerdì</i>
-<b>→ 12:00 Dark Souls: The Scorched Contract</b>, feat. Frapollo94 ⚔️ <code>[Marathon, 2/2]</code>
+<b>→ 12:00 Monster Hunter: Wilds</b> <code>[Maratona]</code>🐗
+<b>+ Pokémon Presents 2025</b> 🎁
 
 <i>Sabato</i>
-<b><i>→ Niente live!</i></b> 🕺
+<b>→ 12:00 Monster Hunter: Wilds</b> <code>[Maratona]</code>🐗
 
 <i>Domenica</i>
-<b>→ 17:00 Quattro chiacchiere</b> 🫖
-<b>→ 21:30 Fallout: New Vegas - Lonesome Road</b> 🥫 
-<b>→ Gears 5: Hivebusters</b> 🪖 
+<b>→ 12:00 Monster Hunter: Wilds</b> <code>[Maratona]</code>🐗
+<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
