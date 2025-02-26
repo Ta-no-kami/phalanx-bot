@@ -2,7 +2,7 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 17:00 Monster Hunter: Wilds</b> <code>Recensione LIVE</code>🐗
+<b>→ 17:00 Monster Hunter: Wilds</b> <code>[Recensione LIVE]</code>🐗
 <b>→ 18:00 Annapurna Interactive Showcase 2025</b> 🌌
 <b>→ 19:00 ID@Xbox Showcase 2025</b> 📺
 
