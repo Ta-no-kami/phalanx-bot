@@ -12,7 +12,7 @@
 <b>→ 12:00 Monster Hunter: Wilds</b> <code>[Maratona]</code> 🐗
 
 <i>Giovedì</i>
-<b>→ 12:00 Monster Hunter: Wilds</b> <code>[Maratona]</code> 🐗
+<b>→ 21:00 Fallout: New Vegas</b> 🥫
 
 <i>Venerdì</i>
 <b><i>→ Niente live!</i></b> 🕺
