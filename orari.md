@@ -18,7 +18,7 @@
 <b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
 
 <i>Sabato</i>
-<b>→ 17:00 Monster Hunter: Wilds</b>, talk 🐗 #adv
+<b>→ 17:00 Monster Hunter: Wilds</b>, talk 🐗
 
 <i>Domenica</i>
 <b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
