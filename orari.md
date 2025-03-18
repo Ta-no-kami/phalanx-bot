@@ -2,23 +2,22 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 17:00 Death Stranding 2: On The Beach</b>, analisi #kojimamortaccitualispoiler 👣
-<b>→ 21:00 Split Fiction</b>, feat. Skarlet <code>[Blind Run]</code> 🎮🎮
-
-<i>Martedì</i>
 <b>→ 21:00 Anima dell'Anima</b> 🔥
 
+<i>Martedì</i>
+<b>→ 21:00 Monster Hunter: Wilds</b>, feat. Pregianza 🐗
+
 <i>Mercoledì</i>
-<b>→ 21:00 Split Fiction</b>, feat. Skarlet <code>[Blind Run]</code> 🎮🎮
+<b>→ 21:00 Split Fiction</b>, feat. Skarlet 🎮🎮 <code>[Blind Run]</code>
 
 <i>Giovedì</i>
-<b>→ 21:00 Finale Poly Quiz Show </b> ❓
+<b>→ 21:00 Gears of War</b>, finale di serie e recensione ⚙️
 
 <i>Venerdì</i>
-<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
+<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b>, feat. Cydonia 🌲🌑 <code>[Veteran run]</code>
 
 <i>Sabato</i>
-<b>→ 17:00 Monster Hunter: Wilds</b>, talk 🐗
+<b>→ 21:00 Split Fiction</b>, feat. Skarlet 🎮🎮 <code>[Blind Run]</code>
 
 <i>Domenica</i>
-<b>→ 21:30 Elden Ring: Shadow of the Erdtree</b> 🌲🌑 <code>[Veteran run]</code>
+<b>→ 22:00 Elden Ring: Shadow of the Erdtree</b>, feat. Cydonia 🌲🌑 <code>[Veteran run]</code>
