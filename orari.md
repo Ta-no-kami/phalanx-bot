@@ -12,7 +12,7 @@
 <b>→ 20:30 Split Fiction</b>, feat. Skarlet 🎮🎮 <code>[Blind Run]</code>
 
 <i>Giovedì</i>
-<b>→ 21:00 Resident Evil Outbreak File 2</b>, feat. Fellers 🧟 <code>[Blind Run]</code>
+<b>→ 20:30 Resident Evil Outbreak File 2</b>, feat. Fellers 🧟 <code>[Blind Run]</code>
 
 <i>Venerdì</i>
 <b>→ 21:30 Metal Gear Solid 3: Snake Eater</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
