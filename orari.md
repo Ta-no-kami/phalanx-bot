@@ -2,24 +2,24 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Fallout: New Vegas</b> 🥫 <code>[Recensione]</code>
+<b><i>→ Niente live!</i></b> 🕺
 
 <i>Martedì</i>
-<b>→ 14:30 Monster Hunter Wilds Showcase</b> 🐗
-<b>→ 20:30 Resident Evil Outbreak File 2</b>, feat. Fellers 🧟 <code>[Blind Run]</code>
+<b>→ 21:30 Live... Speciale</b> 🎊
 
 <i>Mercoledì</i>
-<b>→ 20:30 Split Fiction</b>, feat. Skarlet 🎮🎮 <code>[Blind Run]</code>
+<b>→ 14:00 Nintendo Direct: Nintendo Switch 2</b> 🍄
+<b>→ 20:30 Monster Hunter: Wilds</b> 🐗
 
 <i>Giovedì</i>
-<b>→ 20:30 Resident Evil Outbreak File 2</b>, feat. Fellers 🧟 <code>[Blind Run]</code>
+<b>→ 15:00 Evento speciale</b> ✨
 
 <i>Venerdì</i>
 <b>→ 21:30 Metal Gear Solid 3: Snake Eater</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
 
 <i>Sabato</i>
-<b>→ 20:30 Split Fiction</b>, feat. Skarlet 🎮🎮 <code>[Blind Run]</code>
+<b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
-<b>→ 17:00 Effigie delle News:</b> Una vera analisi sul non drama su Assassin's Creed Shadows 📰
+<b>→ 17:00 Quattro chiacchiere</b> 💬
 <b>→ 21:30 Metal Gear Solid 3: Snake Eater</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
