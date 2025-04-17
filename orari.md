@@ -11,6 +11,7 @@
 <b>→ 14:30 Death Stranding</b> 🐋
 
 <i>Giovedì</i>
+<b>→ 14:30 Nintendo Direct</b> <code>[Mario Kart World]</code> 🏎
 <b>→ 20:30 Bugs Bunny: Lost in Time</b> 🐰 <code>[Blind Run]</code>
 
 <i>Venerdì</i>
