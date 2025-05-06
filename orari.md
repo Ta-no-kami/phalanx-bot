@@ -11,7 +11,7 @@
 <b>→ 14:30 Death Stranding</b> 🐋
 
 <i>Giovedì</i>
-<b>→ 20:30 Bugs Bunny: Lost in Time</b> 🥕 <code>[Blind Run]</code>
+<b>→ 20:30 Resident Evil: The Umbrella Chronicles</b> 🧟 <code>[Blind Run]</code>
 
 <i>Venerdì</i>
 <b>→ 21:30 Metal Gear Solid 3: Snake Eater</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
@@ -20,4 +20,4 @@
 <b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
-<b>→ 21:30 Resident Evil: The Umbrella Chronicles</b> 🧟 <code>[Blind Run]</code>
+<b>→ 21:30 Metal Gear Solid: The Twin Snakes</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
