@@ -5,16 +5,16 @@
 <b>→ 20:30 The Elder Scrolls IV: Oblivion Remastered</b> 🔥
 
 <i>Martedì</i>
-<b>→ 20:30 Cyberpunk 2077: Phantom Liberty</b> 🗽#adv
+<b>→ 20:30 Resident Evil: The Umbrella Chronicles</b> 🧟 <code>[Blind Run]</code>
 
 <i>Mercoledì</i>
 <b>→ 14:30 Death Stranding</b> 🐋
 
 <i>Giovedì</i>
-<b>→ 20:30 Resident Evil: The Umbrella Chronicles</b> 🧟 <code>[Blind Run]</code>
+<b>→ 20:30 Doom: The Dark Ages</b> 🎮 <code>[One-shot]</code>
 
 <i>Venerdì</i>
-<b>→ 21:30 Metal Gear Solid 3: Snake Eater</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
+<b>→ 21:30 Metal Gear Solid: The Twin Snakes</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
 
 <i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
