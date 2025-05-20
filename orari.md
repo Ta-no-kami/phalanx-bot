@@ -9,9 +9,10 @@
 
 <i>Mercoledì</i>
 <b>→ 14:30 Death Stranding</b> 🐋
+<b>→ 20:30 The Elder Scrolls IV: Oblivion Remastered</b> 🔥
 
 <i>Giovedì</i>
-<b>→ 20:30 Doom: The Dark Ages</b> 🎮 <code>[One-shot]</code>
+<b>→ 20:30 Fellers' One-shot</b> 👊 <code>[Drakan: The Ancients' Gates]</code>
 
 <i>Venerdì</i>
 <b>→ 21:30 Metal Gear Solid: The Twin Snakes</b>, feat. Cydonia 🐍 <code>[Veteran run II]</code>
