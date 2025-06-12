@@ -11,10 +11,11 @@
 <b>→ 20:30 The Elder Scrolls IV: Oblivion Remastered - Shivering Isles</b> 🔥 <code>[Riscoperta]</code>
 
 <i>Giovedì</i>
-<b>→ 15:00 Konami Press Start</b> 📦
+<b>→ 15:00 Konami Press Start</b> 👻
 <b>→ 21:30 Metal Gear Solid 4: Guns of the Patriots</b>, feat. Cydonia ⛴ <code>[Veteran Run II]</code> 
 
 <i>Venerdì</i>
+<b>→ 13:00 Metal Gear Solid Production Hotline</b> 📦
 <b>→ 20:30 Resident Evil: Degeneration</b> 🧿
 
 <i>Sabato</i>
