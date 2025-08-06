@@ -2,23 +2,23 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Elden Ring: Nightreign</b> 🌃 <code>[PC]</code>
+<b>→ 21:30 Cyberpunk 2077: Phantom Liberty 🗽
 
 <i>Martedì</i>
-<b>→ 20:00 Monster Hunter: Wilds</b> 🐗
-<b>→ 22:00 Fear & Hunger 2: Termina</b> 🌚
+<b>→ 21:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Mercoledì</i>
-<b>→ 13:00 Fear & Hunger 2: Termina</b> 🌚
+<b>→ 20:30 Cyberpunk 2077: Phantom Liberty 🗽
 
 <i>Giovedì</i>
-<b><i>→ Niente live!</i></b> 🕺
+<b>→ 14:45 Nintendo Indie World Showcase</b> 🗺️
+<b>→ 20:30 Fear & Hunger 2: Termina</b> 🌚
 
 <i>Venerdì</i>
-<b><i>→ Niente live!</i></b> 🕺
-
-<i>Sabato</i>
 <b>→ 20:30 Elden Ring: Nightreign</b> 🌃 <code>[PC]</code>
 
+<i>Sabato</i>
+<b><i>→ Niente live!</i></b> 🕺
+
 <i>Domenica</i>
-<b>→ 21:30 Metal Gear Rising: Revengeance</b>, feat. Cydonia ⛴ <code>[Veteran Run II]</code>
+<b>→ 21:30 Fellers' One-shots</b> 👊
