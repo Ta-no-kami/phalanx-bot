@@ -2,13 +2,13 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 21:30 Cyberpunk 2077: Phantom Liberty 🗽
+<b>→ 21:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
 
 <i>Martedì</i>
 <b>→ 21:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Mercoledì</i>
-<b>→ 20:30 Cyberpunk 2077: Phantom Liberty 🗽
+<b>→ 20:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
 
 <i>Giovedì</i>
 <b>→ 14:45 Nintendo Indie World Showcase</b> 🗺️
