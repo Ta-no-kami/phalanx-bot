@@ -2,25 +2,23 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 16:00 Clair Obscur: Expedition 33</b> - Episodio 66 📷
-<b>→ 21:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
+<b>→ 20:30 Effigie della gamescom 2025: Parte II</b> 🎱
 
 <i>Martedì</i>
-<b>→ 19:30 gamescom 2025</b> 🎱
-<b>→ +Fear & Hunger 2: Termina</b> 📺
+<b>→ 20:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
 
 <i>Mercoledì</i>
-<b><i>→ Niente live!</i></b> 🕺
+<b>→ 21:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Giovedì</i>
-<b>→ ???</b> 🎱
+<b>→ 21:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Venerdì</i>
-<b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
+<b>→ 21:30 Metal Gear Rising: Revengeance</b> ⚔️
 
 <i>Sabato</i>
-<b><i>→ Niente live!</i></b> 🕺
+<b>→ ???</b> 🎱
 
 <i>Domenica</i>
-<b>→ 17:00 Fellers' One-shots</b> 👊
-<b>→ 21:30 Metal Gear Rising: Revengeance</b> ⚔️
+<b>→ 17:00 ??? </b>
+<b>→ 21:30 Metal Gear Rising: Revengeance</b> ⚔️ <code>[Coop Run]</code>
