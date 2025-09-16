@@ -2,24 +2,21 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Progetto Parliamo di Videogiochi for Poldo</b> 💬
 
 <i>Martedì</i>
-<b>→ 21:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
+<b>→ 14:00 Elden Ring: Nightreign</b> 🌃 <code>[Maratona]</code> 
 
 <i>Mercoledì</i>
-<b>→ 20:00 State of Play: 007 First Light</b> ⚡
-<b>+Fear & Hunger 2: Termina</b> 📺
+<b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Giovedì</i>
-<b>→ 16:00 Hollow Knight: Silksong</b> 🪳 <code>[Maratona]</code>
+<b>→ 15:30 Red Bull Backseating</b> ⚡ <code>[t/kurolily]</code> 
 
 <i>Venerdì</i>
-<b>→ 14:00 Clair Obscur: Expedition 33</b> 🎇 <code>[Extra Finale]</code>
-<b>→ 21:30 Metal Gear Rising: Revengeance</b> 🥷🏻 <code>[Coop Run]</code>
+<b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
-<b>→ 21:30 Metal Gear Rising: Revengeance</b> ⚔️ <code>[Coop Run]</code>
+<b>→ 21:30 Metal Gear Solid: Peace Walker</b> ⚔️ <code>[Veteran Run]</code>
