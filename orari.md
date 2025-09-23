@@ -2,21 +2,23 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
+<b>→ 20:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
 
 <i>Martedì</i>
-<b>→ 14:00 Elden Ring: Nightreign</b> 🌃 <code>[Maratona]</code> 
+<b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Mercoledì</i>
-<b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
+<b>→ 20:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
 
 <i>Giovedì</i>
-<b>→ 15:30 Red Bull Backseating</b> ⚡ <code>[t/kurolily]</code> 
+<b>→ 12:00 Xbox Tokyo Game Show 2025</b> 📱
+<b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Venerdì</i>
-<b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
+<b>→ 20:30 Nine Sols</b> 😠 <code[Blind Run]</code>
 
 <i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
-<b>→ 21:30 Metal Gear Solid: Peace Walker</b> ⚔️ <code>[Veteran Run]</code>
+<b>→ 17:30 PC Gaming Show</b> 👨‍💻
