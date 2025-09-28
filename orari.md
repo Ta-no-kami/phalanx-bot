@@ -15,7 +15,7 @@
 <b>→ 20:30 Fear & Hunger 2: Termina</b> 📺
 
 <i>Venerdì</i>
-<b>→ 20:30 Nine Sols</b> 😠 <code[Blind Run]</code>
+<b>→ 20:30 Nine Sols</b> 😠 <code>[Blind Run]</code>
 
 <i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
