@@ -5,20 +5,19 @@
 <b>→ 20:30 Deltarune: Chapter 3</b> 📺
 
 <i>Martedì</i>
-<b>→ 20:30 Cyberpunk 2077: Phantom Liberty</b> 🗽
+<b>→ 20:30 Nine Sols</b> 🐱
 
 <i>Mercoledì</i>
-<b>→ 21:30 Nine Sols</b> 🐱
+<b>→ 21:30 Metal Gear Solid: Peace Walker</b> ✌️ <code>[Veteran Run]</code>
 
 <i>Giovedì</i>
-<b>→ 21:30 Metal Gear Solid: Peace Walker</b> ✌️ <code>[Veteran Run]</code>
+<b>→ 18:30 Nine Sols</b> 🐱
 
 <i>Venerdì</i>
-<b>→ 21:30 Metal Gear Solid: Peace Walker</b> ✌️ <code>[Veteran Run]</code>
-
-<i>Sabato</i>
 <b><i>→ Niente live!</i></b> 🕺
 
+<i>Sabato</i>
+<b>→ 20:30 Deltarune: Chapter 3</b> 📺
+
 <i>Domenica</i>
-<b>→ 17:00 Nine Sols</b> 🐱
 <b>→ 21:00 RPG Night Live Lucca</b>  🎲
