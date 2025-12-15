@@ -9,7 +9,7 @@
 <b>+ Nine Sols</b> 🐱
 
 <i>Mercoledì</i>
-<b>→ 17:00 Terraria <code>[Feller's Oneshot]</code> #GeforceNow adv 
+<b>→ 17:00 Terraria</b> <code>[Feller's Oneshot]</code> #GeforceNow adv 
 
 <i>Giovedì</i>
 <b>→ 
