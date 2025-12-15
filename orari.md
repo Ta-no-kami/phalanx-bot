@@ -12,13 +12,13 @@
 <b>→ 17:00 Terraria</b> <code>[Feller's Oneshot]</code> #GeforceNow adv 
 
 <i>Giovedì</i>
-<b>→ 
+<b>→ </b>
 
 <i>Venerdì</i>
-<b>→ 
+<b>→ </b>
 
 <i>Sabato</i>
-<b>→ 
+<b>→ </b>
 
 <i>Domenica</i>
-<b>→ 
+<b>→ </b>
