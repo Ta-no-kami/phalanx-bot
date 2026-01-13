@@ -2,23 +2,22 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Clair Obscur: Expedition 33</b>  🍭
+<b>→ 21:30 Talk Show II</b> 🎙
 
 <i>Martedì</i>
-<b>→ 20:30 Deltarune: Chapter 3</b> ❄️
-<b>+ Nine Sols</b> 🐱
+<b><i>→ Niente live!</i></b> 🕺
 
 <i>Mercoledì</i>
-<b>→ 17:00 Terraria</b> <code>[Feller's Oneshot]</code> #GeforceNow adv 
+<b>→ 21:30 Dark Souls III <i>(Boss and Enemy Randomizer)</i></b> <code>[Anima della Sfida II LIVE]</code> ⚔️
 
 <i>Giovedì</i>
-<b>→ </b>
+<b>→ 21:30 Ace Combat 3: Electrosphere <i>(JP)</i></b> <code>[Retrogaming Format]</code> ✈️
 
 <i>Venerdì</i>
-<b>→ </b>
+<b>→ 21:30 Dark Souls III <i>(Boss and Enemy Randomizer)</i></b> <code>[Anima della Sfida II LIVE]</code> ⚔️
 
 <i>Sabato</i>
-<b>→ </b>
+<b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
-<b>→ </b>
+<b>→ 21:30 Ace Combat 3: Electrosphere <i>(JP)</i></b> <code>[Retrogaming Format]</code> ✈️
