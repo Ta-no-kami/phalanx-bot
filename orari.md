@@ -21,4 +21,4 @@
 <b><i>→ Niente live! (Nerd Show Bologna).</i></b> 🕺
 
 <i>Domenica</i>
-<b><i>→ Niente live! (Nerd Show Bologn).</i></b> 🕺
+<b><i>→ Niente live! (Nerd Show Bologna).</i></b> 🕺
