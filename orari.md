@@ -15,10 +15,10 @@
 <b>→ +Dark Souls III <i>(Boss and Enemy Randomizer)</i></b> <code>[Anima della Sfida II LIVE]</code> 🔥
 
 <i>Venerdì</i>
-<b>→ 21:30 Dark Souls III <i>(Boss and Enemy Randomizer)</i></b> <code>[Anima della Sfida II LIVE]</code> 🔥
+<b><i>→ Niente live! (Lavori casa nuova).</i></b> 🕺
 
 <i>Sabato</i>
-<b><i>→ Niente live!</i></b> 🕺
+<b><i>→ Niente live! (Nerd Show Bologna).</i></b> 🕺
 
 <i>Domenica</i>
-<b>→ 21:30 Ace Combat 3: Electrosphere <i>(JP)</i></b> <code>[Retrogaming Format]</code> ✈️
+<b><i>→ Niente live! (Nerd Show Bologn).</i></b> 🕺
