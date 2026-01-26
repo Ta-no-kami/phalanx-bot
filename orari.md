@@ -18,7 +18,7 @@
 <b>→ 21:30 Legacy of Kain: Soul Reaver</b> <code>[Retrogaming Format]</code> 🦇
 
 <i>Sabato</i>
-<b><i>→ Niente live! (Nerd Show Bologna).</i></b> 🕺
+<b><i>→ Niente live!</i></b> 🕺
 
 <i>Domenica</i>
 <b>→ 21:30 Legacy of Kain: Soul Reaver</b> <code>[Retrogaming Format]</code> 🦇
