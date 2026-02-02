@@ -2,8 +2,7 @@
 <b><u>ORARI DELLE LIVE</u> | panoramica: <a href="https://trello.com/b/iKwdSGf3/sabaku">trello</a></b>
 
 <i>Lunedì</i>
-<b>→ 18:30 Highguard</b> 💂
-<b>→ +Dark Souls III <i>(Boss and Enemy Randomizer)</i></b> <code>[Anima della Sfida II LIVE]</code> 🔥
+<b>→ 21:30 Dark Souls III <i>(Boss and Enemy Randomizer)</i></b> <code>[Anima della Sfida II LIVE]</code> 🔥
 
 <i>Martedì</i>
 <b>→ 21:30 Hollow Knight: Silksong <i>(completismo)</i></b> 🎶
