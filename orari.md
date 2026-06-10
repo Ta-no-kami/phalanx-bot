@@ -8,3 +8,18 @@
 
 <i>Martedì</i>
 <b>→ 15:30 Nintendo Direct</b> 📱
+
+<i>Mercoledì</i>
+<b>→ <i>Niente live!</i></b> 🍧
+
+<i>Giovedì</i>
+<b>→ <i>Niente live!</i></b> 🍧
+
+<i>Venerdì</i>
+<b>→ 20:30 Resident Evil 5</b> w/Frapollo ☂️
+
+<i>Sabato</i>
+<b>→ <i>Niente live!</i></b> 🍧
+
+<i>Domenica</i>
+<b>→ 21:30 The Legend of Dragoon</b> <code>[Feller's Oneshot]</code> 🐉
