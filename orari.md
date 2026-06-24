@@ -4,22 +4,23 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→ 21:30 Blood Omen 2: Legacy of Kain</b> 🦇
+<b>→ 22:30 .hack//Infection</b> <code>[Feller's Oneshot]</code>
 
 <i>Martedì</i>
-<b>→ 15:30 Nintendo Direct</b> 📱
+<b>→ 21:30 Blood Omen 2: Legacy of Kain</b> 👈
 
 <i>Mercoledì</i>
-<b>→ <i>Niente live!</i></b> 🍧
+<b>→ 20:30 Blood Omen 2: Legacy of Kain</b> 👈
 
 <i>Giovedì</i>
-<b>→ <i>Niente live!</i></b> 🍧
+<b>→ 20:30 It Takes Two</b> w/Cydonia 💑
+<b>→ 23:00 Capcom Spotlight</b>
 
 <i>Venerdì</i>
-<b>→ 20:30 Resident Evil 5</b> w/Frapollo ☂️
+<b>→ <i>Niente live!</i></b> 🍧
 
 <i>Sabato</i>
 <b>→ <i>Niente live!</i></b> 🍧
 
 <i>Domenica</i>
-<b>→ 21:30 The Legend of Dragoon</b> <code>[Feller's Oneshot]</code> 🐉
+<b>→ 22:30 .hack//Infection</b> <code>[Feller's Oneshot]</code>
