@@ -4,22 +4,24 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Blood Omen 2: Legacy of Kain</b> 👈
+<b>→ 20:30 Grand Theft Auto: Vice City</b> 🏝
 
 <i>Martedì</i>
-<b>→ 20:30 Grime</b> <code>[Feller's Oneshot]</code>
-
-<i>Mercoledì</i>
-<b>→ 20:30 Resident Evil 5 DLC</b> w/Frapollo ☂️
-
-<i>Giovedì</i>
-<b>→ 21:30 It Takes Two</b> w/Cydonia 💑
-
-<i>Venerdì</i>
-<b>→ 20:30 Blood Omen 2: Legacy of Kain</b> 👈
-
-<i>Sabato</i>
 <b>→ <i>Niente live!</i></b> 🍧
 
-<i>Domenica</i>
+<i>Mercoledì</i>
+<b>→ 20:30 Grand Theft Auto: Vice City</b> 👙
+
+<i>Giovedì</i>
 <b>→ 20:30 Tunic</b> 🦊
+
+<i>Venerdì</i>
+<b>→ 21:30 It Takes Two</b> w/Cydonia 💑
+
+<i>Sabato</i>
+<b>→ 20:30 Tunic</b> 🦊
+
+<i>Domenica</i>
+<b>→ 17:00 Talk Show</b> <code>w/Sabaku</code>
+<b>→ 21:30 Resident Evil: Revelations</b> ☔️ <code>[Codex completo]</code>
+
