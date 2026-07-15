@@ -4,7 +4,7 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Grand Theft Auto: Vice City</b> 🏝
+<b>→ 20:30 Tunic</b> 🦊
 
 <i>Martedì</i>
 <b>→ <i>Niente live!</i></b> 🍧
@@ -13,15 +13,16 @@
 <b>→ 20:30 Grand Theft Auto: Vice City</b> 👙
 
 <i>Giovedì</i>
-<b>→ 20:30 Tunic</b> 🦊
+<b>→ 17:00 It Takes Two</b> <code>w/Cydonia</code> 💑
+<b>→ 21:30 Tunic</b> 🦊
 
 <i>Venerdì</i>
-<b>→ 21:30 It Takes Two</b> w/Cydonia 💑
+<b>→ 20:30 Grand Theft Auto: Vice City</b>  🏝
 
 <i>Sabato</i>
-<b>→ 20:30 Tunic</b> 🦊
+<b>→ <i>Niente live!</i></b> 🍧
 
 <i>Domenica</i>
 <b>→ 17:00 Talk Show</b> <code>w/Sabaku</code>
-<b>→ 21:30 Resident Evil: Revelations</b> ☔️ <code>[Codex completo]</code>
+<b>→ 21:30 Resident Evil: Revelations</b> ☔️
 
