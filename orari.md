@@ -7,22 +7,19 @@
 <b>→ 20:30 Tunic</b> 🦊
 
 <i>Martedì</i>
-<b>→ <i>Niente live!</i></b> 🍧
-
-<i>Mercoledì</i>
 <b>→ 20:30 Grand Theft Auto: Vice City</b> 👙
 
+<i>Mercoledì</i>
+<b>→ <i>Niente live!</i></b> 🍧
+
 <i>Giovedì</i>
-<b>→ 17:00 It Takes Two</b> <code>w/Cydonia</code> 💑
-<b>→ 21:30 Tunic</b> 🦊
+<b>→ 20:30 Tunic</b> 🦊
 
 <i>Venerdì</i>
 <b>→ 20:30 Grand Theft Auto: Vice City</b>  🏝
 
 <i>Sabato</i>
-<b>→ <i>Niente live!</i></b> 🍧
+<b>→ Live speciale!</b> 🍧
 
 <i>Domenica</i>
-<b>→ 17:00 Talk Show</b> <code>w/Sabaku</code>
-<b>→ 21:30 Resident Evil: Revelations</b> ☔️
-
+<b>→ 20:00 Resident Evil: The Darkside Chronicles</b> ☔️
