@@ -4,24 +4,22 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Tunic</b> 🦊
+<b>→ 20:30 Legacy of Kain: Defiance</b> 🧛🏻
 
 <i>Martedì</i>
-<b>→ 15:45 Nintendo Direct</b> 🎯
-<b>→ 20:30 Grand Theft Auto: Vice City</b>  🏝
+<b>→ 20:30 Deltarune: Chapter 5</b>  🌹
 
 <i>Mercoledì</i>
-<b>→ 20:30 Tunic</b> 🦊
+<b>→ <i>Niente live!</i></b> 🍧
 
 <i>Giovedì</i>
-<b>→ 20:30 Grand Theft Auto: Vice City</b>  🏝
+<b>→ 20:30 Deltarune: Chapter 5</b>  🪶
 
 <i>Venerdì</i>
-<b>→ 20:30 THQ Nordic - Digital Showcase 2026</b> 🧊
-<b>→ +Inside</b> <code>[Feller's Oneshot]</code>
+<b>→ 20:30 Legacy of Kain: Defiance</b> 🧛🏻
 
 <i>Sabato</i>
 <b>→ <i>Niente live!</i></b> 🍧
 
 <i>Domenica</i>
-<b>→ 20:00 Resident Evil: The Darkside Chronicles</b> ☔️
+<b>→ 20:30 Resident Evil: Revelations</b> ☔️
