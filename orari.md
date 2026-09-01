@@ -4,25 +4,22 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→ 21:30 Legacy of Kain: Defiance</b> 🧛🏻
 
 <i>Martedì</i>
-<b>→ 19:30 Opening Night Live</b>
-<b>→ + Punch-Out</b>
+<b>→ 20:30 Deltarune: Chapter 5</b>  🌼
 
 <i>Mercoledì</i>
-<b>→ 18:40 Future Game Show</b> 🍧
+<b>→ 20:30 Legacy of Kain: Defiance</b> 🧛🏻
 
 <i>Giovedì</i>
-<b>→ 19:45 Gamescom Awesome Indies Show</b>
-<b>→ +Legacy of Kain: Defiance</b> 🧛🏻
+<b>→ 14:40 State of Play</b> 🍧
+<b>→ 20:30 Deltarune: Chapter 5</b>  🪶
 
 <i>Venerdì</i>
-<b>→ 20:00 Trailer GTA VI</b>
-<b>→ 21:00 Deltarune: Chapter 5</b>  🪶
+<b>→ 20:30 Onimusha: Way of the Sword</b> <code>[One-shot]</code>
 
 <i>Sabato</i>
-<b>→ <i>Niente live!</i></b> 🍧
+<b>→ 11:00 The Blood of Dawnwalker</b> <code>[Maratona one-shot]</code> 🩸 
 
 <i>Domenica</i>
 <b>→ 20:30 Resident Evil: Revelations</b> ☔️
