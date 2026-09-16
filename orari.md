@@ -7,21 +7,20 @@
 <b>→ 20:30 Legacy of Kain: Defiance</b> 🧛🏻
 
 <i>Martedì</i>
-<b>→ 15:30 The Legend of Zelda Direct</b>
 <b>→ 20:30 Deltarune: Chapter 5</b>  🌼
 
 <i>Mercoledì</i>
-<b>→ 15:30 Nintendo Direct</b> 🍧
-<b>→ 20:30 Onimusha: Way of the Sword</b> <code>[One-shot]</code>
+<b>→ 15:30 Capcom Spotlight</b> 🍧
+<b>→ 20:30 Resident Evil: Revelations</b> ☔️
 
 <i>Giovedì</i>
-<b>→ 18:00 The Blood of Dawnwalker</b> <code>[Maratona one-shot]</code> 🩸
+<b>→ 19:00 The Blood of Dawnwalker</b> <code>[Maratona one-shot]</code> 🩸
 
 <i>Venerdì</i>
-<b>→ <i>Niente live!</i></b> 🍧
+<b>→ 20:30 Deltarune: Chapter 5</b>  🌼
 
 <i>Sabato</i>
 <b>→ <i>Niente live!</i></b> 🍧
 
 <i>Domenica</i>
-<b>→ 20:30 Resident Evil: Revelations</b> ☔️
+<b>→ 20:30 Legacy of Kain: Defiance</b> 🧛🏻
