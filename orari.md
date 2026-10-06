@@ -4,22 +4,22 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→21.30 Resident Evil: Operation Raccoon City</b> w/Frapollo <code> [Blind]</code>
+<b>→ <i>Niente live!</i></b> 🍧
 
 <i>Martedì</i>
-<b>→ 19:00 The Blood of Dawnwalker</b> 🩸
+<b>→ 15:00 Ace Combat 8: Wings of Theve</b> 🎇 <code>[Blind Run]</code>
 
 <i>Mercoledì</i>
-<b>→ 21:30 Punch-Out!!</b> <code>[Feller's one-shot]</code> 👊🏻
+<b>→ 19:00 The Blood of Dawnwalker</b> 🧛
 
 <i>Giovedì</i>
-<b>→ 19:00 The Blood of Dawnwalker</b> ⏳
+<b>→ 17:45 Triple-i Initiative</b> 🎞️
 
 <i>Venerdì</i>
-<b>→ 11:30 Ace Combat 8: Wings of Theve</b> 🎇 <code>[Blind Run]</code> 
+<b>→ 21:30 Metal Gear Solid: Peace Walker </b> ✌️ <code>[Veteran Run]</code>
 
 <i>Sabato</i>
 <b>→ <i>Niente live!</i></b> 🍧
 
 <i>Domenica</i>
-<b>→ 21:30 The Blood of Dawnwalker</b> 🩸
+<b>→ <i>Niente live!</i></b> 🍧
