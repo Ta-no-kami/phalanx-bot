@@ -7,13 +7,13 @@
 <b>→ <i>Niente live!</i></b> 🍧
 
 <i>Martedì</i>
-<b>→ 15:00 Ace Combat 8: Wings of Theve</b> 🎇 <code>[Blind Run]</code>
+<b>→ 20:30 Resident Evil: Operation Raccoon City</b> w/Frapollo <code>[Blind Run]</code>
 
 <i>Mercoledì</i>
 <b>→ 19:00 The Blood of Dawnwalker</b> 🧛
 
 <i>Giovedì</i>
-<b>→ 17:45 Triple-i Initiative</b> 🎞️
+<b>→ 15:00 Ace Combat 8: Wings of Theve</b> 🎇 <code>[Blind Run]</code>
 
 <i>Venerdì</i>
 <b>→ 21:30 Metal Gear Solid: Peace Walker </b> ✌️ <code>[Veteran Run]</code>
