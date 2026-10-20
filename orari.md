@@ -4,16 +4,17 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→ <i>Niente live!</i></b> 🍧
+<b>→ 20:30 Star Wars: Galactic Racer</b> 💥
 
 <i>Martedì</i>
-<b>→ 20:30 Resident Evil: Operation Raccoon City</b> w/Frapollo <code>[Blind Run]</code>
+<b>→ 18:45 ID@Xbox Showcase</b>
+<b>→ +The Blood of Dawnwalker</b> 🧛
 
 <i>Mercoledì</i>
-<b>→ 19:00 The Blood of Dawnwalker</b> 🧛
+<b>→ 20:30 Star Wars: Galactic Racer</b> 💥
 
 <i>Giovedì</i>
-<b>→ 15:00 Ace Combat 8: Wings of Theve</b> 🎇 <code>[Blind Run]</code>
+<b>→ 19:00 The Blood of Dawnwalker</b> 🧛
 
 <i>Venerdì</i>
 <b>→ 21:30 Metal Gear Solid: Peace Walker </b> ✌️ <code>[Veteran Run]</code>
