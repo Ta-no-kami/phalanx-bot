@@ -7,7 +7,7 @@
 <b>→ 20:30 Phantom Blade Zero</b> 🥷
 
 <i>Martedì</i>
-<b>→ 20:30 Resident Evil: Operation Raccoon City</b> w/Frapollo <code>[DLC]</code> 
+<b>→ 20:30 Resident Evil 6</b> w/Frapollo <code>[DLC]</code> 
 
 <i>Mercoledì</i>
 <b>→ 19:00 The Blood of Dawnwalker</b> 🧛
@@ -22,5 +22,4 @@
 <b>→ Niente live!</b> 💥
 
 <i>Domenica</i>
-<b>→ 20:00 Talk Show</b>
-<b>→ 21:30 The Blood of Dawnwalker</b> 🧛
+<b>→ 21:30 Phantom Blade Zero</b> 🥷
