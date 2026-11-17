@@ -4,22 +4,23 @@
 <b><i>We are back, almost</i></b>
 
 <i>Lunedì</i>
-<b>→ 20:30 Phantom Blade Zero</b> 🥷
+<b>→ 20:30 Resident Evil 6</b> w/Frapollo
 
 <i>Martedì</i>
-<b>→ 20:30 Resident Evil 6</b> w/Frapollo <code>[DLC]</code> 
+<b>→ 17:30 The Games Awards: Nominees</b> ✨
 
 <i>Mercoledì</i>
-<b>→ 19:00 The Blood of Dawnwalker</b> 🧛
+<b>→ 20:30 Resident Evil 6</b> w/Frapollo
+<b>→ 23:30 Grand Theft Auto VI</b> 🏝
 
 <i>Giovedì</i>
-<b>→ 20:30 Phantom Blade Zero</b> ▪️
+<b>→ 12:00 Grand Theft Auto VI</b> 👙
 
 <i>Venerdì</i>
-<b>→ 21:30 Metal Gear Solid: Peace Walker</b> ✌️ <code>[Veteran Run]</code>
+<b>→ 17:00 Grand Theft Auto VI</b> 🏦
 
 <i>Sabato</i>
-<b>→ Niente live!</b> 💥
+<b>→ 12:00 Grand Theft Auto VI</b> 👙
 
 <i>Domenica</i>
-<b>→ 21:30 Phantom Blade Zero</b> 🥷
+<b>→ 12:00 Grand Theft Auto VI</b> 🏝
